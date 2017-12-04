@@ -1,0 +1,4192 @@
+month,level_1,level_2,level_3,value
+1986-01,Total,South East Asia,Indonesia,1379
+1986-01,Total,South East Asia,Malaysia,662
+1986-01,Total,South East Asia,Philippines,220
+1986-01,Total,South East Asia,Thailand,1460
+1986-01,Total,South East Asia,Vietnam,na
+1986-01,Total,North East Asia,China,na
+1986-01,Total,North East Asia,Hong Kong,981
+1986-01,Total,North East Asia,Japan,1548
+1986-01,Total,Europe,France,129
+1986-01,Total,Europe,Germany,212
+1986-01,Total,Europe,United Kingdom,239
+1986-02,Total,South East Asia,Indonesia,1124
+1986-02,Total,South East Asia,Malaysia,638
+1986-02,Total,South East Asia,Philippines,279
+1986-02,Total,South East Asia,Thailand,1210
+1986-02,Total,South East Asia,Vietnam,na
+1986-02,Total,North East Asia,China,na
+1986-02,Total,North East Asia,Hong Kong,826
+1986-02,Total,North East Asia,Japan,1650
+1986-02,Total,Europe,France,107
+1986-02,Total,Europe,Germany,186
+1986-02,Total,Europe,United Kingdom,226
+1986-03,Total,South East Asia,Indonesia,1369
+1986-03,Total,South East Asia,Malaysia,861
+1986-03,Total,South East Asia,Philippines,420
+1986-03,Total,South East Asia,Thailand,1636
+1986-03,Total,South East Asia,Vietnam,na
+1986-03,Total,North East Asia,China,na
+1986-03,Total,North East Asia,Hong Kong,1172
+1986-03,Total,North East Asia,Japan,2045
+1986-03,Total,Europe,France,146
+1986-03,Total,Europe,Germany,247
+1986-03,Total,Europe,United Kingdom,259
+1986-04,Total,South East Asia,Indonesia,1117
+1986-04,Total,South East Asia,Malaysia,826
+1986-04,Total,South East Asia,Philippines,307
+1986-04,Total,South East Asia,Thailand,1548
+1986-04,Total,South East Asia,Vietnam,na
+1986-04,Total,North East Asia,China,na
+1986-04,Total,North East Asia,Hong Kong,1120
+1986-04,Total,North East Asia,Japan,1885
+1986-04,Total,Europe,France,124
+1986-04,Total,Europe,Germany,262
+1986-04,Total,Europe,United Kingdom,259
+1986-05,Total,South East Asia,Indonesia,1054
+1986-05,Total,South East Asia,Malaysia,891
+1986-05,Total,South East Asia,Philippines,240
+1986-05,Total,South East Asia,Thailand,1585
+1986-05,Total,South East Asia,Vietnam,na
+1986-05,Total,North East Asia,China,na
+1986-05,Total,North East Asia,Hong Kong,1112
+1986-05,Total,North East Asia,Japan,1880
+1986-05,Total,Europe,France,109
+1986-05,Total,Europe,Germany,215
+1986-05,Total,Europe,United Kingdom,263
+1986-06,Total,South East Asia,Indonesia,835
+1986-06,Total,South East Asia,Malaysia,785
+1986-06,Total,South East Asia,Philippines,269
+1986-06,Total,South East Asia,Thailand,1387
+1986-06,Total,South East Asia,Vietnam,na
+1986-06,Total,North East Asia,China,na
+1986-06,Total,North East Asia,Hong Kong,1167
+1986-06,Total,North East Asia,Japan,1730
+1986-06,Total,Europe,France,143
+1986-06,Total,Europe,Germany,270
+1986-06,Total,Europe,United Kingdom,225
+1986-07,Total,South East Asia,Indonesia,1174
+1986-07,Total,South East Asia,Malaysia,844
+1986-07,Total,South East Asia,Philippines,249
+1986-07,Total,South East Asia,Thailand,1482
+1986-07,Total,South East Asia,Vietnam,na
+1986-07,Total,North East Asia,China,na
+1986-07,Total,North East Asia,Hong Kong,1329
+1986-07,Total,North East Asia,Japan,1729
+1986-07,Total,Europe,France,230
+1986-07,Total,Europe,Germany,299
+1986-07,Total,Europe,United Kingdom,230
+1986-08,Total,South East Asia,Indonesia,1148
+1986-08,Total,South East Asia,Malaysia,903
+1986-08,Total,South East Asia,Philippines,272
+1986-08,Total,South East Asia,Thailand,1426
+1986-08,Total,South East Asia,Vietnam,na
+1986-08,Total,North East Asia,China,na
+1986-08,Total,North East Asia,Hong Kong,1226
+1986-08,Total,North East Asia,Japan,1678
+1986-08,Total,Europe,France,215
+1986-08,Total,Europe,Germany,270
+1986-08,Total,Europe,United Kingdom,259
+1986-09,Total,South East Asia,Indonesia,1478
+1986-09,Total,South East Asia,Malaysia,817
+1986-09,Total,South East Asia,Philippines,249
+1986-09,Total,South East Asia,Thailand,1410
+1986-09,Total,South East Asia,Vietnam,na
+1986-09,Total,North East Asia,China,na
+1986-09,Total,North East Asia,Hong Kong,1323
+1986-09,Total,North East Asia,Japan,1781
+1986-09,Total,Europe,France,175
+1986-09,Total,Europe,Germany,243
+1986-09,Total,Europe,United Kingdom,247
+1986-10,Total,South East Asia,Indonesia,1771
+1986-10,Total,South East Asia,Malaysia,1011
+1986-10,Total,South East Asia,Philippines,287
+1986-10,Total,South East Asia,Thailand,1482
+1986-10,Total,South East Asia,Vietnam,na
+1986-10,Total,North East Asia,China,na
+1986-10,Total,North East Asia,Hong Kong,1269
+1986-10,Total,North East Asia,Japan,1935
+1986-10,Total,Europe,France,236
+1986-10,Total,Europe,Germany,256
+1986-10,Total,Europe,United Kingdom,251
+1986-11,Total,South East Asia,Indonesia,1721
+1986-11,Total,South East Asia,Malaysia,916
+1986-11,Total,South East Asia,Philippines,254
+1986-11,Total,South East Asia,Thailand,1544
+1986-11,Total,South East Asia,Vietnam,na
+1986-11,Total,North East Asia,China,na
+1986-11,Total,North East Asia,Hong Kong,1312
+1986-11,Total,North East Asia,Japan,2045
+1986-11,Total,Europe,France,282
+1986-11,Total,Europe,Germany,254
+1986-11,Total,Europe,United Kingdom,318
+1986-12,Total,South East Asia,Indonesia,2236
+1986-12,Total,South East Asia,Malaysia,850
+1986-12,Total,South East Asia,Philippines,203
+1986-12,Total,South East Asia,Thailand,1496
+1986-12,Total,South East Asia,Vietnam,na
+1986-12,Total,North East Asia,China,na
+1986-12,Total,North East Asia,Hong Kong,1156
+1986-12,Total,North East Asia,Japan,2301
+1986-12,Total,Europe,France,226
+1986-12,Total,Europe,Germany,215
+1986-12,Total,Europe,United Kingdom,282
+1987-01,Total,South East Asia,Indonesia,2105
+1987-01,Total,South East Asia,Malaysia,828
+1987-01,Total,South East Asia,Philippines,234
+1987-01,Total,South East Asia,Thailand,1817
+1987-01,Total,South East Asia,Vietnam,na
+1987-01,Total,North East Asia,China,na
+1987-01,Total,North East Asia,Hong Kong,1144
+1987-01,Total,North East Asia,Japan,1543
+1987-01,Total,Europe,France,180
+1987-01,Total,Europe,Germany,167
+1987-01,Total,Europe,United Kingdom,228
+1987-02,Total,South East Asia,Indonesia,1816
+1987-02,Total,South East Asia,Malaysia,781
+1987-02,Total,South East Asia,Philippines,282
+1987-02,Total,South East Asia,Thailand,1366
+1987-02,Total,South East Asia,Vietnam,na
+1987-02,Total,North East Asia,China,na
+1987-02,Total,North East Asia,Hong Kong,957
+1987-02,Total,North East Asia,Japan,1812
+1987-02,Total,Europe,France,283
+1987-02,Total,Europe,Germany,233
+1987-02,Total,Europe,United Kingdom,331
+1987-03,Total,South East Asia,Indonesia,1891
+1987-03,Total,South East Asia,Malaysia,1092
+1987-03,Total,South East Asia,Philippines,361
+1987-03,Total,South East Asia,Thailand,1805
+1987-03,Total,South East Asia,Vietnam,na
+1987-03,Total,North East Asia,China,na
+1987-03,Total,North East Asia,Hong Kong,1304
+1987-03,Total,North East Asia,Japan,2266
+1987-03,Total,Europe,France,240
+1987-03,Total,Europe,Germany,237
+1987-03,Total,Europe,United Kingdom,326
+1987-04,Total,South East Asia,Indonesia,1819
+1987-04,Total,South East Asia,Malaysia,1091
+1987-04,Total,South East Asia,Philippines,380
+1987-04,Total,South East Asia,Thailand,1901
+1987-04,Total,South East Asia,Vietnam,na
+1987-04,Total,North East Asia,China,na
+1987-04,Total,North East Asia,Hong Kong,1239
+1987-04,Total,North East Asia,Japan,1978
+1987-04,Total,Europe,France,259
+1987-04,Total,Europe,Germany,201
+1987-04,Total,Europe,United Kingdom,326
+1987-05,Total,South East Asia,Indonesia,1771
+1987-05,Total,South East Asia,Malaysia,1002
+1987-05,Total,South East Asia,Philippines,404
+1987-05,Total,South East Asia,Thailand,2058
+1987-05,Total,South East Asia,Vietnam,na
+1987-05,Total,North East Asia,China,na
+1987-05,Total,North East Asia,Hong Kong,1191
+1987-05,Total,North East Asia,Japan,2208
+1987-05,Total,Europe,France,286
+1987-05,Total,Europe,Germany,251
+1987-05,Total,Europe,United Kingdom,430
+1987-06,Total,South East Asia,Indonesia,1525
+1987-06,Total,South East Asia,Malaysia,971
+1987-06,Total,South East Asia,Philippines,432
+1987-06,Total,South East Asia,Thailand,1610
+1987-06,Total,South East Asia,Vietnam,na
+1987-06,Total,North East Asia,China,na
+1987-06,Total,North East Asia,Hong Kong,1118
+1987-06,Total,North East Asia,Japan,2248
+1987-06,Total,Europe,France,246
+1987-06,Total,Europe,Germany,253
+1987-06,Total,Europe,United Kingdom,370
+1987-07,Total,South East Asia,Indonesia,2165
+1987-07,Total,South East Asia,Malaysia,1137
+1987-07,Total,South East Asia,Philippines,441
+1987-07,Total,South East Asia,Thailand,1721
+1987-07,Total,South East Asia,Vietnam,na
+1987-07,Total,North East Asia,China,na
+1987-07,Total,North East Asia,Hong Kong,1231
+1987-07,Total,North East Asia,Japan,2297
+1987-07,Total,Europe,France,250
+1987-07,Total,Europe,Germany,258
+1987-07,Total,Europe,United Kingdom,345
+1987-08,Total,South East Asia,Indonesia,1853
+1987-08,Total,South East Asia,Malaysia,1143
+1987-08,Total,South East Asia,Philippines,321
+1987-08,Total,South East Asia,Thailand,1588
+1987-08,Total,South East Asia,Vietnam,na
+1987-08,Total,North East Asia,China,na
+1987-08,Total,North East Asia,Hong Kong,1276
+1987-08,Total,North East Asia,Japan,2198
+1987-08,Total,Europe,France,210
+1987-08,Total,Europe,Germany,279
+1987-08,Total,Europe,United Kingdom,382
+1987-09,Total,South East Asia,Indonesia,1932
+1987-09,Total,South East Asia,Malaysia,1146
+1987-09,Total,South East Asia,Philippines,366
+1987-09,Total,South East Asia,Thailand,1576
+1987-09,Total,South East Asia,Vietnam,na
+1987-09,Total,North East Asia,China,na
+1987-09,Total,North East Asia,Hong Kong,1286
+1987-09,Total,North East Asia,Japan,2464
+1987-09,Total,Europe,France,208
+1987-09,Total,Europe,Germany,298
+1987-09,Total,Europe,United Kingdom,422
+1987-10,Total,South East Asia,Indonesia,1905
+1987-10,Total,South East Asia,Malaysia,1228
+1987-10,Total,South East Asia,Philippines,317
+1987-10,Total,South East Asia,Thailand,1803
+1987-10,Total,South East Asia,Vietnam,na
+1987-10,Total,North East Asia,China,na
+1987-10,Total,North East Asia,Hong Kong,1283
+1987-10,Total,North East Asia,Japan,2782
+1987-10,Total,Europe,France,279
+1987-10,Total,Europe,Germany,271
+1987-10,Total,Europe,United Kingdom,482
+1987-11,Total,South East Asia,Indonesia,2038
+1987-11,Total,South East Asia,Malaysia,1093
+1987-11,Total,South East Asia,Philippines,316
+1987-11,Total,South East Asia,Thailand,1845
+1987-11,Total,South East Asia,Vietnam,na
+1987-11,Total,North East Asia,China,na
+1987-11,Total,North East Asia,Hong Kong,1330
+1987-11,Total,North East Asia,Japan,2752
+1987-11,Total,Europe,France,229
+1987-11,Total,Europe,Germany,243
+1987-11,Total,Europe,United Kingdom,513
+1987-12,Total,South East Asia,Indonesia,2533
+1987-12,Total,South East Asia,Malaysia,1104
+1987-12,Total,South East Asia,Philippines,200
+1987-12,Total,South East Asia,Thailand,2003
+1987-12,Total,South East Asia,Vietnam,na
+1987-12,Total,North East Asia,China,na
+1987-12,Total,North East Asia,Hong Kong,1244
+1987-12,Total,North East Asia,Japan,3215
+1987-12,Total,Europe,France,234
+1987-12,Total,Europe,Germany,247
+1987-12,Total,Europe,United Kingdom,459
+1988-01,Total,South East Asia,Indonesia,3006
+1988-01,Total,South East Asia,Malaysia,1135
+1988-01,Total,South East Asia,Philippines,343
+1988-01,Total,South East Asia,Thailand,1864
+1988-01,Total,South East Asia,Vietnam,na
+1988-01,Total,North East Asia,China,na
+1988-01,Total,North East Asia,Hong Kong,1242
+1988-01,Total,North East Asia,Japan,2549
+1988-01,Total,Europe,France,220
+1988-01,Total,Europe,Germany,260
+1988-01,Total,Europe,United Kingdom,439
+1988-02,Total,South East Asia,Indonesia,2360
+1988-02,Total,South East Asia,Malaysia,1071
+1988-02,Total,South East Asia,Philippines,383
+1988-02,Total,South East Asia,Thailand,1758
+1988-02,Total,South East Asia,Vietnam,na
+1988-02,Total,North East Asia,China,na
+1988-02,Total,North East Asia,Hong Kong,1156
+1988-02,Total,North East Asia,Japan,2768
+1988-02,Total,Europe,France,222
+1988-02,Total,Europe,Germany,235
+1988-02,Total,Europe,United Kingdom,443
+1988-03,Total,South East Asia,Indonesia,2495
+1988-03,Total,South East Asia,Malaysia,1319
+1988-03,Total,South East Asia,Philippines,441
+1988-03,Total,South East Asia,Thailand,1815
+1988-03,Total,South East Asia,Vietnam,na
+1988-03,Total,North East Asia,China,na
+1988-03,Total,North East Asia,Hong Kong,1293
+1988-03,Total,North East Asia,Japan,3012
+1988-03,Total,Europe,France,244
+1988-03,Total,Europe,Germany,312
+1988-03,Total,Europe,United Kingdom,521
+1988-04,Total,South East Asia,Indonesia,2238
+1988-04,Total,South East Asia,Malaysia,1359
+1988-04,Total,South East Asia,Philippines,375
+1988-04,Total,South East Asia,Thailand,2008
+1988-04,Total,South East Asia,Vietnam,na
+1988-04,Total,North East Asia,China,na
+1988-04,Total,North East Asia,Hong Kong,1277
+1988-04,Total,North East Asia,Japan,3136
+1988-04,Total,Europe,France,228
+1988-04,Total,Europe,Germany,292
+1988-04,Total,Europe,United Kingdom,505
+1988-05,Total,South East Asia,Indonesia,2007
+1988-05,Total,South East Asia,Malaysia,1344
+1988-05,Total,South East Asia,Philippines,452
+1988-05,Total,South East Asia,Thailand,1985
+1988-05,Total,South East Asia,Vietnam,na
+1988-05,Total,North East Asia,China,na
+1988-05,Total,North East Asia,Hong Kong,1249
+1988-05,Total,North East Asia,Japan,2934
+1988-05,Total,Europe,France,214
+1988-05,Total,Europe,Germany,249
+1988-05,Total,Europe,United Kingdom,590
+1988-06,Total,South East Asia,Indonesia,2437
+1988-06,Total,South East Asia,Malaysia,1424
+1988-06,Total,South East Asia,Philippines,366
+1988-06,Total,South East Asia,Thailand,1809
+1988-06,Total,South East Asia,Vietnam,na
+1988-06,Total,North East Asia,China,na
+1988-06,Total,North East Asia,Hong Kong,1213
+1988-06,Total,North East Asia,Japan,2740
+1988-06,Total,Europe,France,198
+1988-06,Total,Europe,Germany,267
+1988-06,Total,Europe,United Kingdom,507
+1988-07,Total,South East Asia,Indonesia,2714
+1988-07,Total,South East Asia,Malaysia,1449
+1988-07,Total,South East Asia,Philippines,406
+1988-07,Total,South East Asia,Thailand,1829
+1988-07,Total,South East Asia,Vietnam,na
+1988-07,Total,North East Asia,China,na
+1988-07,Total,North East Asia,Hong Kong,1436
+1988-07,Total,North East Asia,Japan,2823
+1988-07,Total,Europe,France,200
+1988-07,Total,Europe,Germany,276
+1988-07,Total,Europe,United Kingdom,584
+1988-08,Total,South East Asia,Indonesia,2929
+1988-08,Total,South East Asia,Malaysia,1534
+1988-08,Total,South East Asia,Philippines,374
+1988-08,Total,South East Asia,Thailand,1733
+1988-08,Total,South East Asia,Vietnam,na
+1988-08,Total,North East Asia,China,na
+1988-08,Total,North East Asia,Hong Kong,1297
+1988-08,Total,North East Asia,Japan,2975
+1988-08,Total,Europe,France,152
+1988-08,Total,Europe,Germany,178
+1988-08,Total,Europe,United Kingdom,560
+1988-09,Total,South East Asia,Indonesia,3390
+1988-09,Total,South East Asia,Malaysia,1427
+1988-09,Total,South East Asia,Philippines,402
+1988-09,Total,South East Asia,Thailand,1748
+1988-09,Total,South East Asia,Vietnam,na
+1988-09,Total,North East Asia,China,na
+1988-09,Total,North East Asia,Hong Kong,1473
+1988-09,Total,North East Asia,Japan,3297
+1988-09,Total,Europe,France,158
+1988-09,Total,Europe,Germany,238
+1988-09,Total,Europe,United Kingdom,758
+1988-10,Total,South East Asia,Indonesia,3357
+1988-10,Total,South East Asia,Malaysia,1326
+1988-10,Total,South East Asia,Philippines,344
+1988-10,Total,South East Asia,Thailand,1867
+1988-10,Total,South East Asia,Vietnam,na
+1988-10,Total,North East Asia,China,na
+1988-10,Total,North East Asia,Hong Kong,1369
+1988-10,Total,North East Asia,Japan,3108
+1988-10,Total,Europe,France,185
+1988-10,Total,Europe,Germany,249
+1988-10,Total,Europe,United Kingdom,680
+1988-11,Total,South East Asia,Indonesia,3296
+1988-11,Total,South East Asia,Malaysia,1283
+1988-11,Total,South East Asia,Philippines,266
+1988-11,Total,South East Asia,Thailand,1989
+1988-11,Total,South East Asia,Vietnam,na
+1988-11,Total,North East Asia,China,na
+1988-11,Total,North East Asia,Hong Kong,1291
+1988-11,Total,North East Asia,Japan,3151
+1988-11,Total,Europe,France,196
+1988-11,Total,Europe,Germany,276
+1988-11,Total,Europe,United Kingdom,707
+1988-12,Total,South East Asia,Indonesia,3760
+1988-12,Total,South East Asia,Malaysia,1245
+1988-12,Total,South East Asia,Philippines,271
+1988-12,Total,South East Asia,Thailand,2194
+1988-12,Total,South East Asia,Vietnam,na
+1988-12,Total,North East Asia,China,na
+1988-12,Total,North East Asia,Hong Kong,1270
+1988-12,Total,North East Asia,Japan,3441
+1988-12,Total,Europe,France,205
+1988-12,Total,Europe,Germany,283
+1988-12,Total,Europe,United Kingdom,780
+1989-01,Total,South East Asia,Indonesia,3875
+1989-01,Total,South East Asia,Malaysia,1284
+1989-01,Total,South East Asia,Philippines,281
+1989-01,Total,South East Asia,Thailand,2077
+1989-01,Total,South East Asia,Vietnam,na
+1989-01,Total,North East Asia,China,na
+1989-01,Total,North East Asia,Hong Kong,1251
+1989-01,Total,North East Asia,Japan,2744
+1989-01,Total,Europe,France,197
+1989-01,Total,Europe,Germany,267
+1989-01,Total,Europe,United Kingdom,606
+1989-02,Total,South East Asia,Indonesia,3148
+1989-02,Total,South East Asia,Malaysia,1125
+1989-02,Total,South East Asia,Philippines,341
+1989-02,Total,South East Asia,Thailand,1615
+1989-02,Total,South East Asia,Vietnam,na
+1989-02,Total,North East Asia,China,na
+1989-02,Total,North East Asia,Hong Kong,976
+1989-02,Total,North East Asia,Japan,2468
+1989-02,Total,Europe,France,183
+1989-02,Total,Europe,Germany,286
+1989-02,Total,Europe,United Kingdom,653
+1989-03,Total,South East Asia,Indonesia,3713
+1989-03,Total,South East Asia,Malaysia,1601
+1989-03,Total,South East Asia,Philippines,334
+1989-03,Total,South East Asia,Thailand,2174
+1989-03,Total,South East Asia,Vietnam,na
+1989-03,Total,North East Asia,China,na
+1989-03,Total,North East Asia,Hong Kong,1285
+1989-03,Total,North East Asia,Japan,3168
+1989-03,Total,Europe,France,217
+1989-03,Total,Europe,Germany,334
+1989-03,Total,Europe,United Kingdom,737
+1989-04,Total,South East Asia,Indonesia,3176
+1989-04,Total,South East Asia,Malaysia,1559
+1989-04,Total,South East Asia,Philippines,408
+1989-04,Total,South East Asia,Thailand,2275
+1989-04,Total,South East Asia,Vietnam,na
+1989-04,Total,North East Asia,China,na
+1989-04,Total,North East Asia,Hong Kong,1436
+1989-04,Total,North East Asia,Japan,2846
+1989-04,Total,Europe,France,200
+1989-04,Total,Europe,Germany,304
+1989-04,Total,Europe,United Kingdom,708
+1989-05,Total,South East Asia,Indonesia,2744
+1989-05,Total,South East Asia,Malaysia,1333
+1989-05,Total,South East Asia,Philippines,316
+1989-05,Total,South East Asia,Thailand,2732
+1989-05,Total,South East Asia,Vietnam,na
+1989-05,Total,North East Asia,China,na
+1989-05,Total,North East Asia,Hong Kong,1274
+1989-05,Total,North East Asia,Japan,3012
+1989-05,Total,Europe,France,153
+1989-05,Total,Europe,Germany,285
+1989-05,Total,Europe,United Kingdom,668
+1989-06,Total,South East Asia,Indonesia,3201
+1989-06,Total,South East Asia,Malaysia,1429
+1989-06,Total,South East Asia,Philippines,342
+1989-06,Total,South East Asia,Thailand,2315
+1989-06,Total,South East Asia,Vietnam,na
+1989-06,Total,North East Asia,China,na
+1989-06,Total,North East Asia,Hong Kong,1281
+1989-06,Total,North East Asia,Japan,3054
+1989-06,Total,Europe,France,179
+1989-06,Total,Europe,Germany,268
+1989-06,Total,Europe,United Kingdom,701
+1989-07,Total,South East Asia,Indonesia,3206
+1989-07,Total,South East Asia,Malaysia,1473
+1989-07,Total,South East Asia,Philippines,339
+1989-07,Total,South East Asia,Thailand,2337
+1989-07,Total,South East Asia,Vietnam,na
+1989-07,Total,North East Asia,China,na
+1989-07,Total,North East Asia,Hong Kong,1443
+1989-07,Total,North East Asia,Japan,3637
+1989-07,Total,Europe,France,159
+1989-07,Total,Europe,Germany,332
+1989-07,Total,Europe,United Kingdom,694
+1989-08,Total,South East Asia,Indonesia,3693
+1989-08,Total,South East Asia,Malaysia,1559
+1989-08,Total,South East Asia,Philippines,333
+1989-08,Total,South East Asia,Thailand,2186
+1989-08,Total,South East Asia,Vietnam,na
+1989-08,Total,North East Asia,China,na
+1989-08,Total,North East Asia,Hong Kong,1325
+1989-08,Total,North East Asia,Japan,3607
+1989-08,Total,Europe,France,148
+1989-08,Total,Europe,Germany,305
+1989-08,Total,Europe,United Kingdom,719
+1989-09,Total,South East Asia,Indonesia,3804
+1989-09,Total,South East Asia,Malaysia,1583
+1989-09,Total,South East Asia,Philippines,332
+1989-09,Total,South East Asia,Thailand,2106
+1989-09,Total,South East Asia,Vietnam,na
+1989-09,Total,North East Asia,China,na
+1989-09,Total,North East Asia,Hong Kong,1369
+1989-09,Total,North East Asia,Japan,3424
+1989-09,Total,Europe,France,183
+1989-09,Total,Europe,Germany,345
+1989-09,Total,Europe,United Kingdom,793
+1989-10,Total,South East Asia,Indonesia,4030
+1989-10,Total,South East Asia,Malaysia,1571
+1989-10,Total,South East Asia,Philippines,340
+1989-10,Total,South East Asia,Thailand,2203
+1989-10,Total,South East Asia,Vietnam,na
+1989-10,Total,North East Asia,China,na
+1989-10,Total,North East Asia,Hong Kong,1409
+1989-10,Total,North East Asia,Japan,3579
+1989-10,Total,Europe,France,221
+1989-10,Total,Europe,Germany,384
+1989-10,Total,Europe,United Kingdom,917
+1989-11,Total,South East Asia,Indonesia,4289
+1989-11,Total,South East Asia,Malaysia,1552
+1989-11,Total,South East Asia,Philippines,320
+1989-11,Total,South East Asia,Thailand,2218
+1989-11,Total,South East Asia,Vietnam,na
+1989-11,Total,North East Asia,China,na
+1989-11,Total,North East Asia,Hong Kong,1564
+1989-11,Total,North East Asia,Japan,3284
+1989-11,Total,Europe,France,282
+1989-11,Total,Europe,Germany,315
+1989-11,Total,Europe,United Kingdom,949
+1989-12,Total,South East Asia,Indonesia,4780
+1989-12,Total,South East Asia,Malaysia,1493
+1989-12,Total,South East Asia,Philippines,237
+1989-12,Total,South East Asia,Thailand,2189
+1989-12,Total,South East Asia,Vietnam,na
+1989-12,Total,North East Asia,China,na
+1989-12,Total,North East Asia,Hong Kong,1534
+1989-12,Total,North East Asia,Japan,3608
+1989-12,Total,Europe,France,237
+1989-12,Total,Europe,Germany,320
+1989-12,Total,Europe,United Kingdom,850
+1990-01,Total,South East Asia,Indonesia,4162
+1990-01,Total,South East Asia,Malaysia,1276
+1990-01,Total,South East Asia,Philippines,277
+1990-01,Total,South East Asia,Thailand,2083
+1990-01,Total,South East Asia,Vietnam,na
+1990-01,Total,North East Asia,China,na
+1990-01,Total,North East Asia,Hong Kong,1394
+1990-01,Total,North East Asia,Japan,2706
+1990-01,Total,Europe,France,227
+1990-01,Total,Europe,Germany,308
+1990-01,Total,Europe,United Kingdom,703
+1990-02,Total,South East Asia,Indonesia,3986
+1990-02,Total,South East Asia,Malaysia,1367
+1990-02,Total,South East Asia,Philippines,348
+1990-02,Total,South East Asia,Thailand,1720
+1990-02,Total,South East Asia,Vietnam,na
+1990-02,Total,North East Asia,China,na
+1990-02,Total,North East Asia,Hong Kong,1038
+1990-02,Total,North East Asia,Japan,3019
+1990-02,Total,Europe,France,271
+1990-02,Total,Europe,Germany,290
+1990-02,Total,Europe,United Kingdom,745
+1990-03,Total,South East Asia,Indonesia,4261
+1990-03,Total,South East Asia,Malaysia,1801
+1990-03,Total,South East Asia,Philippines,398
+1990-03,Total,South East Asia,Thailand,2257
+1990-03,Total,South East Asia,Vietnam,na
+1990-03,Total,North East Asia,China,na
+1990-03,Total,North East Asia,Hong Kong,1631
+1990-03,Total,North East Asia,Japan,3675
+1990-03,Total,Europe,France,302
+1990-03,Total,Europe,Germany,360
+1990-03,Total,Europe,United Kingdom,987
+1990-04,Total,South East Asia,Indonesia,3604
+1990-04,Total,South East Asia,Malaysia,1552
+1990-04,Total,South East Asia,Philippines,318
+1990-04,Total,South East Asia,Thailand,2225
+1990-04,Total,South East Asia,Vietnam,na
+1990-04,Total,North East Asia,China,na
+1990-04,Total,North East Asia,Hong Kong,1354
+1990-04,Total,North East Asia,Japan,3288
+1990-04,Total,Europe,France,306
+1990-04,Total,Europe,Germany,348
+1990-04,Total,Europe,United Kingdom,916
+1990-05,Total,South East Asia,Indonesia,3520
+1990-05,Total,South East Asia,Malaysia,1751
+1990-05,Total,South East Asia,Philippines,391
+1990-05,Total,South East Asia,Thailand,2456
+1990-05,Total,South East Asia,Vietnam,na
+1990-05,Total,North East Asia,China,na
+1990-05,Total,North East Asia,Hong Kong,1485
+1990-05,Total,North East Asia,Japan,3318
+1990-05,Total,Europe,France,199
+1990-05,Total,Europe,Germany,339
+1990-05,Total,Europe,United Kingdom,940
+1990-06,Total,South East Asia,Indonesia,3949
+1990-06,Total,South East Asia,Malaysia,1625
+1990-06,Total,South East Asia,Philippines,364
+1990-06,Total,South East Asia,Thailand,2118
+1990-06,Total,South East Asia,Vietnam,na
+1990-06,Total,North East Asia,China,na
+1990-06,Total,North East Asia,Hong Kong,1625
+1990-06,Total,North East Asia,Japan,3370
+1990-06,Total,Europe,France,219
+1990-06,Total,Europe,Germany,373
+1990-06,Total,Europe,United Kingdom,911
+1990-07,Total,South East Asia,Indonesia,4206
+1990-07,Total,South East Asia,Malaysia,1572
+1990-07,Total,South East Asia,Philippines,352
+1990-07,Total,South East Asia,Thailand,2065
+1990-07,Total,South East Asia,Vietnam,na
+1990-07,Total,North East Asia,China,na
+1990-07,Total,North East Asia,Hong Kong,1665
+1990-07,Total,North East Asia,Japan,3780
+1990-07,Total,Europe,France,212
+1990-07,Total,Europe,Germany,499
+1990-07,Total,Europe,United Kingdom,892
+1990-08,Total,South East Asia,Indonesia,4615
+1990-08,Total,South East Asia,Malaysia,1649
+1990-08,Total,South East Asia,Philippines,397
+1990-08,Total,South East Asia,Thailand,1958
+1990-08,Total,South East Asia,Vietnam,na
+1990-08,Total,North East Asia,China,na
+1990-08,Total,North East Asia,Hong Kong,1722
+1990-08,Total,North East Asia,Japan,3625
+1990-08,Total,Europe,France,165
+1990-08,Total,Europe,Germany,399
+1990-08,Total,Europe,United Kingdom,798
+1990-09,Total,South East Asia,Indonesia,4599
+1990-09,Total,South East Asia,Malaysia,1661
+1990-09,Total,South East Asia,Philippines,255
+1990-09,Total,South East Asia,Thailand,1877
+1990-09,Total,South East Asia,Vietnam,na
+1990-09,Total,North East Asia,China,na
+1990-09,Total,North East Asia,Hong Kong,1763
+1990-09,Total,North East Asia,Japan,4010
+1990-09,Total,Europe,France,259
+1990-09,Total,Europe,Germany,497
+1990-09,Total,Europe,United Kingdom,909
+1990-10,Total,South East Asia,Indonesia,4279
+1990-10,Total,South East Asia,Malaysia,1687
+1990-10,Total,South East Asia,Philippines,228
+1990-10,Total,South East Asia,Thailand,1877
+1990-10,Total,South East Asia,Vietnam,na
+1990-10,Total,North East Asia,China,na
+1990-10,Total,North East Asia,Hong Kong,1821
+1990-10,Total,North East Asia,Japan,4603
+1990-10,Total,Europe,France,191
+1990-10,Total,Europe,Germany,498
+1990-10,Total,Europe,United Kingdom,973
+1990-11,Total,South East Asia,Indonesia,3616
+1990-11,Total,South East Asia,Malaysia,1635
+1990-11,Total,South East Asia,Philippines,222
+1990-11,Total,South East Asia,Thailand,2014
+1990-11,Total,South East Asia,Vietnam,na
+1990-11,Total,North East Asia,China,na
+1990-11,Total,North East Asia,Hong Kong,1876
+1990-11,Total,North East Asia,Japan,4291
+1990-11,Total,Europe,France,251
+1990-11,Total,Europe,Germany,486
+1990-11,Total,Europe,United Kingdom,1015
+1990-12,Total,South East Asia,Indonesia,3969
+1990-12,Total,South East Asia,Malaysia,1797
+1990-12,Total,South East Asia,Philippines,180
+1990-12,Total,South East Asia,Thailand,2130
+1990-12,Total,South East Asia,Vietnam,na
+1990-12,Total,North East Asia,China,na
+1990-12,Total,North East Asia,Hong Kong,1618
+1990-12,Total,North East Asia,Japan,4879
+1990-12,Total,Europe,France,245
+1990-12,Total,Europe,Germany,465
+1990-12,Total,Europe,United Kingdom,873
+1991-01,Total,South East Asia,Indonesia,3800
+1991-01,Total,South East Asia,Malaysia,1654
+1991-01,Total,South East Asia,Philippines,289
+1991-01,Total,South East Asia,Thailand,2027
+1991-01,Total,South East Asia,Vietnam,na
+1991-01,Total,North East Asia,China,na
+1991-01,Total,North East Asia,Hong Kong,1382
+1991-01,Total,North East Asia,Japan,4040
+1991-01,Total,Europe,France,193
+1991-01,Total,Europe,Germany,307
+1991-01,Total,Europe,United Kingdom,705
+1991-02,Total,South East Asia,Indonesia,3353
+1991-02,Total,South East Asia,Malaysia,1575
+1991-02,Total,South East Asia,Philippines,326
+1991-02,Total,South East Asia,Thailand,2075
+1991-02,Total,South East Asia,Vietnam,na
+1991-02,Total,North East Asia,China,na
+1991-02,Total,North East Asia,Hong Kong,1252
+1991-02,Total,North East Asia,Japan,4083
+1991-02,Total,Europe,France,244
+1991-02,Total,Europe,Germany,381
+1991-02,Total,Europe,United Kingdom,540
+1991-03,Total,South East Asia,Indonesia,4332
+1991-03,Total,South East Asia,Malaysia,2112
+1991-03,Total,South East Asia,Philippines,329
+1991-03,Total,South East Asia,Thailand,2105
+1991-03,Total,South East Asia,Vietnam,na
+1991-03,Total,North East Asia,China,na
+1991-03,Total,North East Asia,Hong Kong,1458
+1991-03,Total,North East Asia,Japan,4579
+1991-03,Total,Europe,France,320
+1991-03,Total,Europe,Germany,405
+1991-03,Total,Europe,United Kingdom,717
+1991-04,Total,South East Asia,Indonesia,3350
+1991-04,Total,South East Asia,Malaysia,1503
+1991-04,Total,South East Asia,Philippines,299
+1991-04,Total,South East Asia,Thailand,2237
+1991-04,Total,South East Asia,Vietnam,na
+1991-04,Total,North East Asia,China,na
+1991-04,Total,North East Asia,Hong Kong,1514
+1991-04,Total,North East Asia,Japan,4247
+1991-04,Total,Europe,France,220
+1991-04,Total,Europe,Germany,330
+1991-04,Total,Europe,United Kingdom,693
+1991-05,Total,South East Asia,Indonesia,3872
+1991-05,Total,South East Asia,Malaysia,1687
+1991-05,Total,South East Asia,Philippines,345
+1991-05,Total,South East Asia,Thailand,2544
+1991-05,Total,South East Asia,Vietnam,na
+1991-05,Total,North East Asia,China,na
+1991-05,Total,North East Asia,Hong Kong,1484
+1991-05,Total,North East Asia,Japan,4157
+1991-05,Total,Europe,France,191
+1991-05,Total,Europe,Germany,369
+1991-05,Total,Europe,United Kingdom,692
+1991-06,Total,South East Asia,Indonesia,3870
+1991-06,Total,South East Asia,Malaysia,1866
+1991-06,Total,South East Asia,Philippines,296
+1991-06,Total,South East Asia,Thailand,2266
+1991-06,Total,South East Asia,Vietnam,na
+1991-06,Total,North East Asia,China,na
+1991-06,Total,North East Asia,Hong Kong,1506
+1991-06,Total,North East Asia,Japan,4142
+1991-06,Total,Europe,France,222
+1991-06,Total,Europe,Germany,437
+1991-06,Total,Europe,United Kingdom,749
+1991-07,Total,South East Asia,Indonesia,4163
+1991-07,Total,South East Asia,Malaysia,1691
+1991-07,Total,South East Asia,Philippines,452
+1991-07,Total,South East Asia,Thailand,2164
+1991-07,Total,South East Asia,Vietnam,na
+1991-07,Total,North East Asia,China,na
+1991-07,Total,North East Asia,Hong Kong,1672
+1991-07,Total,North East Asia,Japan,3911
+1991-07,Total,Europe,France,180
+1991-07,Total,Europe,Germany,488
+1991-07,Total,Europe,United Kingdom,649
+1991-08,Total,South East Asia,Indonesia,4360
+1991-08,Total,South East Asia,Malaysia,1741
+1991-08,Total,South East Asia,Philippines,384
+1991-08,Total,South East Asia,Thailand,2193
+1991-08,Total,South East Asia,Vietnam,na
+1991-08,Total,North East Asia,China,na
+1991-08,Total,North East Asia,Hong Kong,1659
+1991-08,Total,North East Asia,Japan,3697
+1991-08,Total,Europe,France,198
+1991-08,Total,Europe,Germany,404
+1991-08,Total,Europe,United Kingdom,628
+1991-09,Total,South East Asia,Indonesia,4174
+1991-09,Total,South East Asia,Malaysia,1760
+1991-09,Total,South East Asia,Philippines,372
+1991-09,Total,South East Asia,Thailand,2214
+1991-09,Total,South East Asia,Vietnam,na
+1991-09,Total,North East Asia,China,na
+1991-09,Total,North East Asia,Hong Kong,1557
+1991-09,Total,North East Asia,Japan,3830
+1991-09,Total,Europe,France,209
+1991-09,Total,Europe,Germany,458
+1991-09,Total,Europe,United Kingdom,703
+1991-10,Total,South East Asia,Indonesia,4564
+1991-10,Total,South East Asia,Malaysia,1947
+1991-10,Total,South East Asia,Philippines,330
+1991-10,Total,South East Asia,Thailand,2287
+1991-10,Total,South East Asia,Vietnam,na
+1991-10,Total,North East Asia,China,na
+1991-10,Total,North East Asia,Hong Kong,1685
+1991-10,Total,North East Asia,Japan,3848
+1991-10,Total,Europe,France,170
+1991-10,Total,Europe,Germany,534
+1991-10,Total,Europe,United Kingdom,704
+1991-11,Total,South East Asia,Indonesia,4640
+1991-11,Total,South East Asia,Malaysia,1850
+1991-11,Total,South East Asia,Philippines,292
+1991-11,Total,South East Asia,Thailand,2394
+1991-11,Total,South East Asia,Vietnam,na
+1991-11,Total,North East Asia,China,na
+1991-11,Total,North East Asia,Hong Kong,1787
+1991-11,Total,North East Asia,Japan,3834
+1991-11,Total,Europe,France,258
+1991-11,Total,Europe,Germany,397
+1991-11,Total,Europe,United Kingdom,717
+1991-12,Total,South East Asia,Indonesia,5212
+1991-12,Total,South East Asia,Malaysia,2254
+1991-12,Total,South East Asia,Philippines,259
+1991-12,Total,South East Asia,Thailand,2446
+1991-12,Total,South East Asia,Vietnam,na
+1991-12,Total,North East Asia,China,na
+1991-12,Total,North East Asia,Hong Kong,1677
+1991-12,Total,North East Asia,Japan,3802
+1991-12,Total,Europe,France,202
+1991-12,Total,Europe,Germany,426
+1991-12,Total,Europe,United Kingdom,668
+1992-01,Total,South East Asia,Indonesia,4988
+1992-01,Total,South East Asia,Malaysia,2089
+1992-01,Total,South East Asia,Philippines,269
+1992-01,Total,South East Asia,Thailand,2483
+1992-01,Total,South East Asia,Vietnam,na
+1992-01,Total,North East Asia,China,na
+1992-01,Total,North East Asia,Hong Kong,1684
+1992-01,Total,North East Asia,Japan,3292
+1992-01,Total,Europe,France,145
+1992-01,Total,Europe,Germany,379
+1992-01,Total,Europe,United Kingdom,567
+1992-02,Total,South East Asia,Indonesia,4221
+1992-02,Total,South East Asia,Malaysia,1824
+1992-02,Total,South East Asia,Philippines,316
+1992-02,Total,South East Asia,Thailand,2258
+1992-02,Total,South East Asia,Vietnam,na
+1992-02,Total,North East Asia,China,na
+1992-02,Total,North East Asia,Hong Kong,1267
+1992-02,Total,North East Asia,Japan,3504
+1992-02,Total,Europe,France,285
+1992-02,Total,Europe,Germany,372
+1992-02,Total,Europe,United Kingdom,640
+1992-03,Total,South East Asia,Indonesia,4493
+1992-03,Total,South East Asia,Malaysia,2177
+1992-03,Total,South East Asia,Philippines,349
+1992-03,Total,South East Asia,Thailand,2739
+1992-03,Total,South East Asia,Vietnam,na
+1992-03,Total,North East Asia,China,na
+1992-03,Total,North East Asia,Hong Kong,1686
+1992-03,Total,North East Asia,Japan,3694
+1992-03,Total,Europe,France,309
+1992-03,Total,Europe,Germany,532
+1992-03,Total,Europe,United Kingdom,720
+1992-04,Total,South East Asia,Indonesia,3674
+1992-04,Total,South East Asia,Malaysia,1891
+1992-04,Total,South East Asia,Philippines,357
+1992-04,Total,South East Asia,Thailand,2844
+1992-04,Total,South East Asia,Vietnam,na
+1992-04,Total,North East Asia,China,na
+1992-04,Total,North East Asia,Hong Kong,1543
+1992-04,Total,North East Asia,Japan,3428
+1992-04,Total,Europe,France,296
+1992-04,Total,Europe,Germany,589
+1992-04,Total,Europe,United Kingdom,687
+1992-05,Total,South East Asia,Indonesia,4969
+1992-05,Total,South East Asia,Malaysia,2297
+1992-05,Total,South East Asia,Philippines,362
+1992-05,Total,South East Asia,Thailand,2909
+1992-05,Total,South East Asia,Vietnam,na
+1992-05,Total,North East Asia,China,na
+1992-05,Total,North East Asia,Hong Kong,1647
+1992-05,Total,North East Asia,Japan,3987
+1992-05,Total,Europe,France,452
+1992-05,Total,Europe,Germany,645
+1992-05,Total,Europe,United Kingdom,692
+1992-06,Total,South East Asia,Indonesia,4173
+1992-06,Total,South East Asia,Malaysia,2108
+1992-06,Total,South East Asia,Philippines,363
+1992-06,Total,South East Asia,Thailand,2764
+1992-06,Total,South East Asia,Vietnam,na
+1992-06,Total,North East Asia,China,na
+1992-06,Total,North East Asia,Hong Kong,1537
+1992-06,Total,North East Asia,Japan,4150
+1992-06,Total,Europe,France,596
+1992-06,Total,Europe,Germany,499
+1992-06,Total,Europe,United Kingdom,669
+1992-07,Total,South East Asia,Indonesia,4799
+1992-07,Total,South East Asia,Malaysia,2073
+1992-07,Total,South East Asia,Philippines,371
+1992-07,Total,South East Asia,Thailand,2613
+1992-07,Total,South East Asia,Vietnam,na
+1992-07,Total,North East Asia,China,na
+1992-07,Total,North East Asia,Hong Kong,1960
+1992-07,Total,North East Asia,Japan,4065
+1992-07,Total,Europe,France,537
+1992-07,Total,Europe,Germany,858
+1992-07,Total,Europe,United Kingdom,785
+1992-08,Total,South East Asia,Indonesia,5081
+1992-08,Total,South East Asia,Malaysia,1977
+1992-08,Total,South East Asia,Philippines,357
+1992-08,Total,South East Asia,Thailand,2587
+1992-08,Total,South East Asia,Vietnam,na
+1992-08,Total,North East Asia,China,na
+1992-08,Total,North East Asia,Hong Kong,2050
+1992-08,Total,North East Asia,Japan,3735
+1992-08,Total,Europe,France,388
+1992-08,Total,Europe,Germany,701
+1992-08,Total,Europe,United Kingdom,587
+1992-09,Total,South East Asia,Indonesia,5326
+1992-09,Total,South East Asia,Malaysia,2021
+1992-09,Total,South East Asia,Philippines,333
+1992-09,Total,South East Asia,Thailand,2563
+1992-09,Total,South East Asia,Vietnam,na
+1992-09,Total,North East Asia,China,na
+1992-09,Total,North East Asia,Hong Kong,2030
+1992-09,Total,North East Asia,Japan,4037
+1992-09,Total,Europe,France,236
+1992-09,Total,Europe,Germany,543
+1992-09,Total,Europe,United Kingdom,540
+1992-10,Total,South East Asia,Indonesia,5814
+1992-10,Total,South East Asia,Malaysia,2196
+1992-10,Total,South East Asia,Philippines,380
+1992-10,Total,South East Asia,Thailand,2554
+1992-10,Total,South East Asia,Vietnam,na
+1992-10,Total,North East Asia,China,na
+1992-10,Total,North East Asia,Hong Kong,2289
+1992-10,Total,North East Asia,Japan,4120
+1992-10,Total,Europe,France,355
+1992-10,Total,Europe,Germany,776
+1992-10,Total,Europe,United Kingdom,632
+1992-11,Total,South East Asia,Indonesia,5772
+1992-11,Total,South East Asia,Malaysia,1788
+1992-11,Total,South East Asia,Philippines,368
+1992-11,Total,South East Asia,Thailand,2500
+1992-11,Total,South East Asia,Vietnam,na
+1992-11,Total,North East Asia,China,na
+1992-11,Total,North East Asia,Hong Kong,2426
+1992-11,Total,North East Asia,Japan,4053
+1992-11,Total,Europe,France,319
+1992-11,Total,Europe,Germany,704
+1992-11,Total,Europe,United Kingdom,687
+1992-12,Total,South East Asia,Indonesia,5478
+1992-12,Total,South East Asia,Malaysia,1821
+1992-12,Total,South East Asia,Philippines,265
+1992-12,Total,South East Asia,Thailand,2787
+1992-12,Total,South East Asia,Vietnam,na
+1992-12,Total,North East Asia,China,na
+1992-12,Total,North East Asia,Hong Kong,2254
+1992-12,Total,North East Asia,Japan,4892
+1992-12,Total,Europe,France,327
+1992-12,Total,Europe,Germany,554
+1992-12,Total,Europe,United Kingdom,700
+1993-01,Total,South East Asia,Indonesia,4597
+1993-01,Total,South East Asia,Malaysia,1627
+1993-01,Total,South East Asia,Philippines,318
+1993-01,Total,South East Asia,Thailand,2539
+1993-01,Total,South East Asia,Vietnam,na
+1993-01,Total,North East Asia,China,na
+1993-01,Total,North East Asia,Hong Kong,1741
+1993-01,Total,North East Asia,Japan,4171
+1993-01,Total,Europe,France,265
+1993-01,Total,Europe,Germany,454
+1993-01,Total,Europe,United Kingdom,680
+1993-02,Total,South East Asia,Indonesia,3422
+1993-02,Total,South East Asia,Malaysia,1720
+1993-02,Total,South East Asia,Philippines,411
+1993-02,Total,South East Asia,Thailand,2444
+1993-02,Total,South East Asia,Vietnam,na
+1993-02,Total,North East Asia,China,na
+1993-02,Total,North East Asia,Hong Kong,1766
+1993-02,Total,North East Asia,Japan,4204
+1993-02,Total,Europe,France,274
+1993-02,Total,Europe,Germany,660
+1993-02,Total,Europe,United Kingdom,823
+1993-03,Total,South East Asia,Indonesia,4186
+1993-03,Total,South East Asia,Malaysia,1875
+1993-03,Total,South East Asia,Philippines,514
+1993-03,Total,South East Asia,Thailand,2901
+1993-03,Total,South East Asia,Vietnam,na
+1993-03,Total,North East Asia,China,na
+1993-03,Total,North East Asia,Hong Kong,2248
+1993-03,Total,North East Asia,Japan,4637
+1993-03,Total,Europe,France,558
+1993-03,Total,Europe,Germany,714
+1993-03,Total,Europe,United Kingdom,877
+1993-04,Total,South East Asia,Indonesia,3833
+1993-04,Total,South East Asia,Malaysia,2050
+1993-04,Total,South East Asia,Philippines,306
+1993-04,Total,South East Asia,Thailand,2673
+1993-04,Total,South East Asia,Vietnam,na
+1993-04,Total,North East Asia,China,na
+1993-04,Total,North East Asia,Hong Kong,1926
+1993-04,Total,North East Asia,Japan,4503
+1993-04,Total,Europe,France,345
+1993-04,Total,Europe,Germany,616
+1993-04,Total,Europe,United Kingdom,853
+1993-05,Total,South East Asia,Indonesia,4231
+1993-05,Total,South East Asia,Malaysia,1990
+1993-05,Total,South East Asia,Philippines,418
+1993-05,Total,South East Asia,Thailand,2898
+1993-05,Total,South East Asia,Vietnam,na
+1993-05,Total,North East Asia,China,na
+1993-05,Total,North East Asia,Hong Kong,2203
+1993-05,Total,North East Asia,Japan,4422
+1993-05,Total,Europe,France,346
+1993-05,Total,Europe,Germany,660
+1993-05,Total,Europe,United Kingdom,1054
+1993-06,Total,South East Asia,Indonesia,3838
+1993-06,Total,South East Asia,Malaysia,1773
+1993-06,Total,South East Asia,Philippines,527
+1993-06,Total,South East Asia,Thailand,3058
+1993-06,Total,South East Asia,Vietnam,na
+1993-06,Total,North East Asia,China,na
+1993-06,Total,North East Asia,Hong Kong,2107
+1993-06,Total,North East Asia,Japan,4619
+1993-06,Total,Europe,France,325
+1993-06,Total,Europe,Germany,742
+1993-06,Total,Europe,United Kingdom,983
+1993-07,Total,South East Asia,Indonesia,4546
+1993-07,Total,South East Asia,Malaysia,1930
+1993-07,Total,South East Asia,Philippines,468
+1993-07,Total,South East Asia,Thailand,3125
+1993-07,Total,South East Asia,Vietnam,na
+1993-07,Total,North East Asia,China,na
+1993-07,Total,North East Asia,Hong Kong,2563
+1993-07,Total,North East Asia,Japan,4902
+1993-07,Total,Europe,France,395
+1993-07,Total,Europe,Germany,673
+1993-07,Total,Europe,United Kingdom,999
+1993-08,Total,South East Asia,Indonesia,4372
+1993-08,Total,South East Asia,Malaysia,1628
+1993-08,Total,South East Asia,Philippines,500
+1993-08,Total,South East Asia,Thailand,3306
+1993-08,Total,South East Asia,Vietnam,na
+1993-08,Total,North East Asia,China,na
+1993-08,Total,North East Asia,Hong Kong,2715
+1993-08,Total,North East Asia,Japan,4279
+1993-08,Total,Europe,France,339
+1993-08,Total,Europe,Germany,867
+1993-08,Total,Europe,United Kingdom,1053
+1993-09,Total,South East Asia,Indonesia,4703
+1993-09,Total,South East Asia,Malaysia,1802
+1993-09,Total,South East Asia,Philippines,564
+1993-09,Total,South East Asia,Thailand,3343
+1993-09,Total,South East Asia,Vietnam,na
+1993-09,Total,North East Asia,China,na
+1993-09,Total,North East Asia,Hong Kong,2844
+1993-09,Total,North East Asia,Japan,4417
+1993-09,Total,Europe,France,368
+1993-09,Total,Europe,Germany,766
+1993-09,Total,Europe,United Kingdom,1036
+1993-10,Total,South East Asia,Indonesia,4964
+1993-10,Total,South East Asia,Malaysia,1795
+1993-10,Total,South East Asia,Philippines,554
+1993-10,Total,South East Asia,Thailand,3338
+1993-10,Total,South East Asia,Vietnam,na
+1993-10,Total,North East Asia,China,na
+1993-10,Total,North East Asia,Hong Kong,3063
+1993-10,Total,North East Asia,Japan,4417
+1993-10,Total,Europe,France,286
+1993-10,Total,Europe,Germany,872
+1993-10,Total,Europe,United Kingdom,987
+1993-11,Total,South East Asia,Indonesia,4953
+1993-11,Total,South East Asia,Malaysia,1643
+1993-11,Total,South East Asia,Philippines,447
+1993-11,Total,South East Asia,Thailand,3127
+1993-11,Total,South East Asia,Vietnam,na
+1993-11,Total,North East Asia,China,na
+1993-11,Total,North East Asia,Hong Kong,2840
+1993-11,Total,North East Asia,Japan,4379
+1993-11,Total,Europe,France,349
+1993-11,Total,Europe,Germany,802
+1993-11,Total,Europe,United Kingdom,1007
+1993-12,Total,South East Asia,Indonesia,5474
+1993-12,Total,South East Asia,Malaysia,1831
+1993-12,Total,South East Asia,Philippines,324
+1993-12,Total,South East Asia,Thailand,3460
+1993-12,Total,South East Asia,Vietnam,na
+1993-12,Total,North East Asia,China,na
+1993-12,Total,North East Asia,Hong Kong,2628
+1993-12,Total,North East Asia,Japan,4607
+1993-12,Total,Europe,France,342
+1993-12,Total,Europe,Germany,800
+1993-12,Total,Europe,United Kingdom,1025
+1994-01,Total,South East Asia,Indonesia,4975
+1994-01,Total,South East Asia,Malaysia,1755
+1994-01,Total,South East Asia,Philippines,464
+1994-01,Total,South East Asia,Thailand,3249
+1994-01,Total,South East Asia,Vietnam,na
+1994-01,Total,North East Asia,China,na
+1994-01,Total,North East Asia,Hong Kong,2739
+1994-01,Total,North East Asia,Japan,3795
+1994-01,Total,Europe,France,453
+1994-01,Total,Europe,Germany,687
+1994-01,Total,Europe,United Kingdom,869
+1994-02,Total,South East Asia,Indonesia,4348
+1994-02,Total,South East Asia,Malaysia,1646
+1994-02,Total,South East Asia,Philippines,477
+1994-02,Total,South East Asia,Thailand,3238
+1994-02,Total,South East Asia,Vietnam,na
+1994-02,Total,North East Asia,China,na
+1994-02,Total,North East Asia,Hong Kong,2040
+1994-02,Total,North East Asia,Japan,4142
+1994-02,Total,Europe,France,440
+1994-02,Total,Europe,Germany,740
+1994-02,Total,Europe,United Kingdom,1003
+1994-03,Total,South East Asia,Indonesia,4041
+1994-03,Total,South East Asia,Malaysia,1872
+1994-03,Total,South East Asia,Philippines,523
+1994-03,Total,South East Asia,Thailand,3636
+1994-03,Total,South East Asia,Vietnam,na
+1994-03,Total,North East Asia,China,na
+1994-03,Total,North East Asia,Hong Kong,3045
+1994-03,Total,North East Asia,Japan,5068
+1994-03,Total,Europe,France,469
+1994-03,Total,Europe,Germany,863
+1994-03,Total,Europe,United Kingdom,1214
+1994-04,Total,South East Asia,Indonesia,4497
+1994-04,Total,South East Asia,Malaysia,2200
+1994-04,Total,South East Asia,Philippines,526
+1994-04,Total,South East Asia,Thailand,3493
+1994-04,Total,South East Asia,Vietnam,na
+1994-04,Total,North East Asia,China,na
+1994-04,Total,North East Asia,Hong Kong,2662
+1994-04,Total,North East Asia,Japan,5021
+1994-04,Total,Europe,France,412
+1994-04,Total,Europe,Germany,794
+1994-04,Total,Europe,United Kingdom,955
+1994-05,Total,South East Asia,Indonesia,4127
+1994-05,Total,South East Asia,Malaysia,2168
+1994-05,Total,South East Asia,Philippines,595
+1994-05,Total,South East Asia,Thailand,3970
+1994-05,Total,South East Asia,Vietnam,na
+1994-05,Total,North East Asia,China,na
+1994-05,Total,North East Asia,Hong Kong,2576
+1994-05,Total,North East Asia,Japan,4261
+1994-05,Total,Europe,France,408
+1994-05,Total,Europe,Germany,944
+1994-05,Total,Europe,United Kingdom,1065
+1994-06,Total,South East Asia,Indonesia,4321
+1994-06,Total,South East Asia,Malaysia,1914
+1994-06,Total,South East Asia,Philippines,667
+1994-06,Total,South East Asia,Thailand,3580
+1994-06,Total,South East Asia,Vietnam,na
+1994-06,Total,North East Asia,China,na
+1994-06,Total,North East Asia,Hong Kong,2844
+1994-06,Total,North East Asia,Japan,5130
+1994-06,Total,Europe,France,437
+1994-06,Total,Europe,Germany,835
+1994-06,Total,Europe,United Kingdom,940
+1994-07,Total,South East Asia,Indonesia,4437
+1994-07,Total,South East Asia,Malaysia,1987
+1994-07,Total,South East Asia,Philippines,765
+1994-07,Total,South East Asia,Thailand,3452
+1994-07,Total,South East Asia,Vietnam,na
+1994-07,Total,North East Asia,China,na
+1994-07,Total,North East Asia,Hong Kong,3121
+1994-07,Total,North East Asia,Japan,4973
+1994-07,Total,Europe,France,420
+1994-07,Total,Europe,Germany,891
+1994-07,Total,Europe,United Kingdom,933
+1994-08,Total,South East Asia,Indonesia,4713
+1994-08,Total,South East Asia,Malaysia,2092
+1994-08,Total,South East Asia,Philippines,646
+1994-08,Total,South East Asia,Thailand,3454
+1994-08,Total,South East Asia,Vietnam,na
+1994-08,Total,North East Asia,China,na
+1994-08,Total,North East Asia,Hong Kong,3263
+1994-08,Total,North East Asia,Japan,4586
+1994-08,Total,Europe,France,348
+1994-08,Total,Europe,Germany,761
+1994-08,Total,Europe,United Kingdom,948
+1994-09,Total,South East Asia,Indonesia,5011
+1994-09,Total,South East Asia,Malaysia,2029
+1994-09,Total,South East Asia,Philippines,736
+1994-09,Total,South East Asia,Thailand,3472
+1994-09,Total,South East Asia,Vietnam,na
+1994-09,Total,North East Asia,China,na
+1994-09,Total,North East Asia,Hong Kong,3498
+1994-09,Total,North East Asia,Japan,4971
+1994-09,Total,Europe,France,296
+1994-09,Total,Europe,Germany,825
+1994-09,Total,Europe,United Kingdom,962
+1994-10,Total,South East Asia,Indonesia,4976
+1994-10,Total,South East Asia,Malaysia,2123
+1994-10,Total,South East Asia,Philippines,803
+1994-10,Total,South East Asia,Thailand,3379
+1994-10,Total,South East Asia,Vietnam,na
+1994-10,Total,North East Asia,China,na
+1994-10,Total,North East Asia,Hong Kong,3479
+1994-10,Total,North East Asia,Japan,5508
+1994-10,Total,Europe,France,445
+1994-10,Total,Europe,Germany,925
+1994-10,Total,Europe,United Kingdom,1040
+1994-11,Total,South East Asia,Indonesia,5160
+1994-11,Total,South East Asia,Malaysia,2051
+1994-11,Total,South East Asia,Philippines,831
+1994-11,Total,South East Asia,Thailand,3493
+1994-11,Total,South East Asia,Vietnam,na
+1994-11,Total,North East Asia,China,na
+1994-11,Total,North East Asia,Hong Kong,3430
+1994-11,Total,North East Asia,Japan,4599
+1994-11,Total,Europe,France,479
+1994-11,Total,Europe,Germany,985
+1994-11,Total,Europe,United Kingdom,1076
+1994-12,Total,South East Asia,Indonesia,5268
+1994-12,Total,South East Asia,Malaysia,2159
+1994-12,Total,South East Asia,Philippines,617
+1994-12,Total,South East Asia,Thailand,3606
+1994-12,Total,South East Asia,Vietnam,na
+1994-12,Total,North East Asia,China,na
+1994-12,Total,North East Asia,Hong Kong,2865
+1994-12,Total,North East Asia,Japan,5396
+1994-12,Total,Europe,France,495
+1994-12,Total,Europe,Germany,1115
+1994-12,Total,Europe,United Kingdom,1047
+1995-01,Total,South East Asia,Indonesia,4624
+1995-01,Total,South East Asia,Malaysia,1760
+1995-01,Total,South East Asia,Philippines,631
+1995-01,Total,South East Asia,Thailand,3580
+1995-01,Total,South East Asia,Vietnam,na
+1995-01,Total,North East Asia,China,na
+1995-01,Total,North East Asia,Hong Kong,3047
+1995-01,Total,North East Asia,Japan,4171
+1995-01,Total,Europe,France,454
+1995-01,Total,Europe,Germany,929
+1995-01,Total,Europe,United Kingdom,886
+1995-02,Total,South East Asia,Indonesia,4204
+1995-02,Total,South East Asia,Malaysia,1653
+1995-02,Total,South East Asia,Philippines,685
+1995-02,Total,South East Asia,Thailand,3312
+1995-02,Total,South East Asia,Vietnam,na
+1995-02,Total,North East Asia,China,na
+1995-02,Total,North East Asia,Hong Kong,1865
+1995-02,Total,North East Asia,Japan,4507
+1995-02,Total,Europe,France,496
+1995-02,Total,Europe,Germany,799
+1995-02,Total,Europe,United Kingdom,1081
+1995-03,Total,South East Asia,Indonesia,3981
+1995-03,Total,South East Asia,Malaysia,2105
+1995-03,Total,South East Asia,Philippines,633
+1995-03,Total,South East Asia,Thailand,4081
+1995-03,Total,South East Asia,Vietnam,na
+1995-03,Total,North East Asia,China,na
+1995-03,Total,North East Asia,Hong Kong,3469
+1995-03,Total,North East Asia,Japan,5149
+1995-03,Total,Europe,France,629
+1995-03,Total,Europe,Germany,954
+1995-03,Total,Europe,United Kingdom,1258
+1995-04,Total,South East Asia,Indonesia,4592
+1995-04,Total,South East Asia,Malaysia,1980
+1995-04,Total,South East Asia,Philippines,481
+1995-04,Total,South East Asia,Thailand,3713
+1995-04,Total,South East Asia,Vietnam,na
+1995-04,Total,North East Asia,China,na
+1995-04,Total,North East Asia,Hong Kong,3273
+1995-04,Total,North East Asia,Japan,5264
+1995-04,Total,Europe,France,594
+1995-04,Total,Europe,Germany,899
+1995-04,Total,Europe,United Kingdom,1165
+1995-05,Total,South East Asia,Indonesia,4496
+1995-05,Total,South East Asia,Malaysia,2057
+1995-05,Total,South East Asia,Philippines,496
+1995-05,Total,South East Asia,Thailand,4141
+1995-05,Total,South East Asia,Vietnam,na
+1995-05,Total,North East Asia,China,na
+1995-05,Total,North East Asia,Hong Kong,2980
+1995-05,Total,North East Asia,Japan,4039
+1995-05,Total,Europe,France,505
+1995-05,Total,Europe,Germany,819
+1995-05,Total,Europe,United Kingdom,1193
+1995-06,Total,South East Asia,Indonesia,4750
+1995-06,Total,South East Asia,Malaysia,1942
+1995-06,Total,South East Asia,Philippines,582
+1995-06,Total,South East Asia,Thailand,4033
+1995-06,Total,South East Asia,Vietnam,na
+1995-06,Total,North East Asia,China,na
+1995-06,Total,North East Asia,Hong Kong,3130
+1995-06,Total,North East Asia,Japan,5267
+1995-06,Total,Europe,France,494
+1995-06,Total,Europe,Germany,1063
+1995-06,Total,Europe,United Kingdom,1075
+1995-07,Total,South East Asia,Indonesia,4772
+1995-07,Total,South East Asia,Malaysia,1974
+1995-07,Total,South East Asia,Philippines,686
+1995-07,Total,South East Asia,Thailand,3844
+1995-07,Total,South East Asia,Vietnam,na
+1995-07,Total,North East Asia,China,na
+1995-07,Total,North East Asia,Hong Kong,3429
+1995-07,Total,North East Asia,Japan,5103
+1995-07,Total,Europe,France,618
+1995-07,Total,Europe,Germany,1111
+1995-07,Total,Europe,United Kingdom,1015
+1995-08,Total,South East Asia,Indonesia,4809
+1995-08,Total,South East Asia,Malaysia,2071
+1995-08,Total,South East Asia,Philippines,790
+1995-08,Total,South East Asia,Thailand,3754
+1995-08,Total,South East Asia,Vietnam,na
+1995-08,Total,North East Asia,China,na
+1995-08,Total,North East Asia,Hong Kong,3347
+1995-08,Total,North East Asia,Japan,4706
+1995-08,Total,Europe,France,502
+1995-08,Total,Europe,Germany,1017
+1995-08,Total,Europe,United Kingdom,978
+1995-09,Total,South East Asia,Indonesia,4839
+1995-09,Total,South East Asia,Malaysia,2221
+1995-09,Total,South East Asia,Philippines,757
+1995-09,Total,South East Asia,Thailand,3726
+1995-09,Total,South East Asia,Vietnam,na
+1995-09,Total,North East Asia,China,na
+1995-09,Total,North East Asia,Hong Kong,3818
+1995-09,Total,North East Asia,Japan,4895
+1995-09,Total,Europe,France,663
+1995-09,Total,Europe,Germany,1000
+1995-09,Total,Europe,United Kingdom,1153
+1995-10,Total,South East Asia,Indonesia,4661
+1995-10,Total,South East Asia,Malaysia,1994
+1995-10,Total,South East Asia,Philippines,851
+1995-10,Total,South East Asia,Thailand,3554
+1995-10,Total,South East Asia,Vietnam,na
+1995-10,Total,North East Asia,China,na
+1995-10,Total,North East Asia,Hong Kong,3603
+1995-10,Total,North East Asia,Japan,5050
+1995-10,Total,Europe,France,643
+1995-10,Total,Europe,Germany,1133
+1995-10,Total,Europe,United Kingdom,1294
+1995-11,Total,South East Asia,Indonesia,4493
+1995-11,Total,South East Asia,Malaysia,1868
+1995-11,Total,South East Asia,Philippines,725
+1995-11,Total,South East Asia,Thailand,3572
+1995-11,Total,South East Asia,Vietnam,na
+1995-11,Total,North East Asia,China,na
+1995-11,Total,North East Asia,Hong Kong,3947
+1995-11,Total,North East Asia,Japan,5085
+1995-11,Total,Europe,France,434
+1995-11,Total,Europe,Germany,966
+1995-11,Total,Europe,United Kingdom,1302
+1995-12,Total,South East Asia,Indonesia,4738
+1995-12,Total,South East Asia,Malaysia,1784
+1995-12,Total,South East Asia,Philippines,934
+1995-12,Total,South East Asia,Thailand,3624
+1995-12,Total,South East Asia,Vietnam,na
+1995-12,Total,North East Asia,China,na
+1995-12,Total,North East Asia,Hong Kong,3495
+1995-12,Total,North East Asia,Japan,5078
+1995-12,Total,Europe,France,594
+1995-12,Total,Europe,Germany,1118
+1995-12,Total,Europe,United Kingdom,1145
+1996-01,Total,South East Asia,Indonesia,4770
+1996-01,Total,South East Asia,Malaysia,1600
+1996-01,Total,South East Asia,Philippines,866
+1996-01,Total,South East Asia,Thailand,3848
+1996-01,Total,South East Asia,Vietnam,na
+1996-01,Total,North East Asia,China,na
+1996-01,Total,North East Asia,Hong Kong,2986
+1996-01,Total,North East Asia,Japan,4357
+1996-01,Total,Europe,France,413
+1996-01,Total,Europe,Germany,1003
+1996-01,Total,Europe,United Kingdom,1111
+1996-02,Total,South East Asia,Indonesia,4193
+1996-02,Total,South East Asia,Malaysia,1405
+1996-02,Total,South East Asia,Philippines,882
+1996-02,Total,South East Asia,Thailand,3904
+1996-02,Total,South East Asia,Vietnam,na
+1996-02,Total,North East Asia,China,na
+1996-02,Total,North East Asia,Hong Kong,2657
+1996-02,Total,North East Asia,Japan,4446
+1996-02,Total,Europe,France,443
+1996-02,Total,Europe,Germany,840
+1996-02,Total,Europe,United Kingdom,1240
+1996-03,Total,South East Asia,Indonesia,4392
+1996-03,Total,South East Asia,Malaysia,2105
+1996-03,Total,South East Asia,Philippines,856
+1996-03,Total,South East Asia,Thailand,4014
+1996-03,Total,South East Asia,Vietnam,na
+1996-03,Total,North East Asia,China,na
+1996-03,Total,North East Asia,Hong Kong,3075
+1996-03,Total,North East Asia,Japan,4815
+1996-03,Total,Europe,France,546
+1996-03,Total,Europe,Germany,1108
+1996-03,Total,Europe,United Kingdom,1452
+1996-04,Total,South East Asia,Indonesia,5363
+1996-04,Total,South East Asia,Malaysia,1699
+1996-04,Total,South East Asia,Philippines,880
+1996-04,Total,South East Asia,Thailand,3729
+1996-04,Total,South East Asia,Vietnam,na
+1996-04,Total,North East Asia,China,na
+1996-04,Total,North East Asia,Hong Kong,3118
+1996-04,Total,North East Asia,Japan,4444
+1996-04,Total,Europe,France,653
+1996-04,Total,Europe,Germany,942
+1996-04,Total,Europe,United Kingdom,1253
+1996-05,Total,South East Asia,Indonesia,5465
+1996-05,Total,South East Asia,Malaysia,1840
+1996-05,Total,South East Asia,Philippines,918
+1996-05,Total,South East Asia,Thailand,4195
+1996-05,Total,South East Asia,Vietnam,na
+1996-05,Total,North East Asia,China,na
+1996-05,Total,North East Asia,Hong Kong,2943
+1996-05,Total,North East Asia,Japan,4565
+1996-05,Total,Europe,France,614
+1996-05,Total,Europe,Germany,1155
+1996-05,Total,Europe,United Kingdom,1362
+1996-06,Total,South East Asia,Indonesia,5172
+1996-06,Total,South East Asia,Malaysia,1845
+1996-06,Total,South East Asia,Philippines,1120
+1996-06,Total,South East Asia,Thailand,3889
+1996-06,Total,South East Asia,Vietnam,na
+1996-06,Total,North East Asia,China,na
+1996-06,Total,North East Asia,Hong Kong,3286
+1996-06,Total,North East Asia,Japan,5285
+1996-06,Total,Europe,France,746
+1996-06,Total,Europe,Germany,1134
+1996-06,Total,Europe,United Kingdom,1306
+1996-07,Total,South East Asia,Indonesia,5755
+1996-07,Total,South East Asia,Malaysia,1606
+1996-07,Total,South East Asia,Philippines,989
+1996-07,Total,South East Asia,Thailand,3764
+1996-07,Total,South East Asia,Vietnam,na
+1996-07,Total,North East Asia,China,na
+1996-07,Total,North East Asia,Hong Kong,3561
+1996-07,Total,North East Asia,Japan,4844
+1996-07,Total,Europe,France,776
+1996-07,Total,Europe,Germany,1143
+1996-07,Total,Europe,United Kingdom,1174
+1996-08,Total,South East Asia,Indonesia,6075
+1996-08,Total,South East Asia,Malaysia,2038
+1996-08,Total,South East Asia,Philippines,947
+1996-08,Total,South East Asia,Thailand,3901
+1996-08,Total,South East Asia,Vietnam,na
+1996-08,Total,North East Asia,China,na
+1996-08,Total,North East Asia,Hong Kong,3751
+1996-08,Total,North East Asia,Japan,4535
+1996-08,Total,Europe,France,685
+1996-08,Total,Europe,Germany,959
+1996-08,Total,Europe,United Kingdom,1083
+1996-09,Total,South East Asia,Indonesia,5895
+1996-09,Total,South East Asia,Malaysia,1829
+1996-09,Total,South East Asia,Philippines,1029
+1996-09,Total,South East Asia,Thailand,3637
+1996-09,Total,South East Asia,Vietnam,na
+1996-09,Total,North East Asia,China,na
+1996-09,Total,North East Asia,Hong Kong,3833
+1996-09,Total,North East Asia,Japan,4541
+1996-09,Total,Europe,France,727
+1996-09,Total,Europe,Germany,1064
+1996-09,Total,Europe,United Kingdom,1205
+1996-10,Total,South East Asia,Indonesia,6446
+1996-10,Total,South East Asia,Malaysia,1854
+1996-10,Total,South East Asia,Philippines,1164
+1996-10,Total,South East Asia,Thailand,4127
+1996-10,Total,South East Asia,Vietnam,na
+1996-10,Total,North East Asia,China,na
+1996-10,Total,North East Asia,Hong Kong,3923
+1996-10,Total,North East Asia,Japan,5536
+1996-10,Total,Europe,France,835
+1996-10,Total,Europe,Germany,964
+1996-10,Total,Europe,United Kingdom,1471
+1996-11,Total,South East Asia,Indonesia,6833
+1996-11,Total,South East Asia,Malaysia,1873
+1996-11,Total,South East Asia,Philippines,1146
+1996-11,Total,South East Asia,Thailand,3849
+1996-11,Total,South East Asia,Vietnam,na
+1996-11,Total,North East Asia,China,na
+1996-11,Total,North East Asia,Hong Kong,3873
+1996-11,Total,North East Asia,Japan,5322
+1996-11,Total,Europe,France,874
+1996-11,Total,Europe,Germany,933
+1996-11,Total,Europe,United Kingdom,1487
+1996-12,Total,South East Asia,Indonesia,6275
+1996-12,Total,South East Asia,Malaysia,2188
+1996-12,Total,South East Asia,Philippines,975
+1996-12,Total,South East Asia,Thailand,4239
+1996-12,Total,South East Asia,Vietnam,na
+1996-12,Total,North East Asia,China,na
+1996-12,Total,North East Asia,Hong Kong,3714
+1996-12,Total,North East Asia,Japan,5685
+1996-12,Total,Europe,France,1043
+1996-12,Total,Europe,Germany,1052
+1996-12,Total,Europe,United Kingdom,1310
+1997-01,Total,South East Asia,Indonesia,5930
+1997-01,Total,South East Asia,Malaysia,2151
+1997-01,Total,South East Asia,Philippines,989
+1997-01,Total,South East Asia,Thailand,4101
+1997-01,Total,South East Asia,Vietnam,na
+1997-01,Total,North East Asia,China,na
+1997-01,Total,North East Asia,Hong Kong,3734
+1997-01,Total,North East Asia,Japan,4925
+1997-01,Total,Europe,France,805
+1997-01,Total,Europe,Germany,912
+1997-01,Total,Europe,United Kingdom,1233
+1997-02,Total,South East Asia,Indonesia,4071
+1997-02,Total,South East Asia,Malaysia,1753
+1997-02,Total,South East Asia,Philippines,971
+1997-02,Total,South East Asia,Thailand,3728
+1997-02,Total,South East Asia,Vietnam,na
+1997-02,Total,North East Asia,China,na
+1997-02,Total,North East Asia,Hong Kong,2592
+1997-02,Total,North East Asia,Japan,4876
+1997-02,Total,Europe,France,906
+1997-02,Total,Europe,Germany,1052
+1997-02,Total,Europe,United Kingdom,1321
+1997-03,Total,South East Asia,Indonesia,6238
+1997-03,Total,South East Asia,Malaysia,2507
+1997-03,Total,South East Asia,Philippines,1050
+1997-03,Total,South East Asia,Thailand,4529
+1997-03,Total,South East Asia,Vietnam,na
+1997-03,Total,North East Asia,China,na
+1997-03,Total,North East Asia,Hong Kong,4216
+1997-03,Total,North East Asia,Japan,5897
+1997-03,Total,Europe,France,1061
+1997-03,Total,Europe,Germany,1138
+1997-03,Total,Europe,United Kingdom,1494
+1997-04,Total,South East Asia,Indonesia,5168
+1997-04,Total,South East Asia,Malaysia,1921
+1997-04,Total,South East Asia,Philippines,1094
+1997-04,Total,South East Asia,Thailand,4215
+1997-04,Total,South East Asia,Vietnam,na
+1997-04,Total,North East Asia,China,na
+1997-04,Total,North East Asia,Hong Kong,4103
+1997-04,Total,North East Asia,Japan,5510
+1997-04,Total,Europe,France,1160
+1997-04,Total,Europe,Germany,1065
+1997-04,Total,Europe,United Kingdom,1614
+1997-05,Total,South East Asia,Indonesia,5334
+1997-05,Total,South East Asia,Malaysia,2140
+1997-05,Total,South East Asia,Philippines,1476
+1997-05,Total,South East Asia,Thailand,4516
+1997-05,Total,South East Asia,Vietnam,na
+1997-05,Total,North East Asia,China,na
+1997-05,Total,North East Asia,Hong Kong,3967
+1997-05,Total,North East Asia,Japan,5491
+1997-05,Total,Europe,France,1150
+1997-05,Total,Europe,Germany,1102
+1997-05,Total,Europe,United Kingdom,1500
+1997-06,Total,South East Asia,Indonesia,5518
+1997-06,Total,South East Asia,Malaysia,2385
+1997-06,Total,South East Asia,Philippines,1489
+1997-06,Total,South East Asia,Thailand,4170
+1997-06,Total,South East Asia,Vietnam,na
+1997-06,Total,North East Asia,China,na
+1997-06,Total,North East Asia,Hong Kong,3854
+1997-06,Total,North East Asia,Japan,5592
+1997-06,Total,Europe,France,1260
+1997-06,Total,Europe,Germany,1410
+1997-06,Total,Europe,United Kingdom,1349
+1997-07,Total,South East Asia,Indonesia,6067
+1997-07,Total,South East Asia,Malaysia,2307
+1997-07,Total,South East Asia,Philippines,1373
+1997-07,Total,South East Asia,Thailand,4272
+1997-07,Total,South East Asia,Vietnam,na
+1997-07,Total,North East Asia,China,na
+1997-07,Total,North East Asia,Hong Kong,4009
+1997-07,Total,North East Asia,Japan,6025
+1997-07,Total,Europe,France,1389
+1997-07,Total,Europe,Germany,1479
+1997-07,Total,Europe,United Kingdom,1145
+1997-08,Total,South East Asia,Indonesia,5387
+1997-08,Total,South East Asia,Malaysia,2398
+1997-08,Total,South East Asia,Philippines,1555
+1997-08,Total,South East Asia,Thailand,4189
+1997-08,Total,South East Asia,Vietnam,na
+1997-08,Total,North East Asia,China,na
+1997-08,Total,North East Asia,Hong Kong,4190
+1997-08,Total,North East Asia,Japan,5909
+1997-08,Total,Europe,France,1241
+1997-08,Total,Europe,Germany,1449
+1997-08,Total,Europe,United Kingdom,1358
+1997-09,Total,South East Asia,Indonesia,5534
+1997-09,Total,South East Asia,Malaysia,2223
+1997-09,Total,South East Asia,Philippines,1687
+1997-09,Total,South East Asia,Thailand,3888
+1997-09,Total,South East Asia,Vietnam,na
+1997-09,Total,North East Asia,China,na
+1997-09,Total,North East Asia,Hong Kong,4015
+1997-09,Total,North East Asia,Japan,6506
+1997-09,Total,Europe,France,1349
+1997-09,Total,Europe,Germany,1497
+1997-09,Total,Europe,United Kingdom,1243
+1997-10,Total,South East Asia,Indonesia,5959
+1997-10,Total,South East Asia,Malaysia,2364
+1997-10,Total,South East Asia,Philippines,1602
+1997-10,Total,South East Asia,Thailand,4320
+1997-10,Total,South East Asia,Vietnam,na
+1997-10,Total,North East Asia,China,na
+1997-10,Total,North East Asia,Hong Kong,4295
+1997-10,Total,North East Asia,Japan,6802
+1997-10,Total,Europe,France,1459
+1997-10,Total,Europe,Germany,1339
+1997-10,Total,Europe,United Kingdom,1353
+1997-11,Total,South East Asia,Indonesia,5607
+1997-11,Total,South East Asia,Malaysia,2428
+1997-11,Total,South East Asia,Philippines,1670
+1997-11,Total,South East Asia,Thailand,4631
+1997-11,Total,South East Asia,Vietnam,na
+1997-11,Total,North East Asia,China,na
+1997-11,Total,North East Asia,Hong Kong,4197
+1997-11,Total,North East Asia,Japan,6816
+1997-11,Total,Europe,France,1458
+1997-11,Total,Europe,Germany,1395
+1997-11,Total,Europe,United Kingdom,1417
+1997-12,Total,South East Asia,Indonesia,6095
+1997-12,Total,South East Asia,Malaysia,2368
+1997-12,Total,South East Asia,Philippines,1544
+1997-12,Total,South East Asia,Thailand,4490
+1997-12,Total,South East Asia,Vietnam,na
+1997-12,Total,North East Asia,China,na
+1997-12,Total,North East Asia,Hong Kong,3592
+1997-12,Total,North East Asia,Japan,6910
+1997-12,Total,Europe,France,1217
+1997-12,Total,Europe,Germany,1508
+1997-12,Total,Europe,United Kingdom,1268
+1998-01,Total,South East Asia,Indonesia,6172
+1998-01,Total,South East Asia,Malaysia,1950
+1998-01,Total,South East Asia,Philippines,1255
+1998-01,Total,South East Asia,Thailand,3606
+1998-01,Total,South East Asia,Vietnam,na
+1998-01,Total,North East Asia,China,na
+1998-01,Total,North East Asia,Hong Kong,2928
+1998-01,Total,North East Asia,Japan,4931
+1998-01,Total,Europe,France,1083
+1998-01,Total,Europe,Germany,908
+1998-01,Total,Europe,United Kingdom,995
+1998-02,Total,South East Asia,Indonesia,4524
+1998-02,Total,South East Asia,Malaysia,2123
+1998-02,Total,South East Asia,Philippines,1330
+1998-02,Total,South East Asia,Thailand,3296
+1998-02,Total,South East Asia,Vietnam,na
+1998-02,Total,North East Asia,China,na
+1998-02,Total,North East Asia,Hong Kong,2381
+1998-02,Total,North East Asia,Japan,5058
+1998-02,Total,Europe,France,1184
+1998-02,Total,Europe,Germany,1010
+1998-02,Total,Europe,United Kingdom,1140
+1998-03,Total,South East Asia,Indonesia,6778
+1998-03,Total,South East Asia,Malaysia,2639
+1998-03,Total,South East Asia,Philippines,2042
+1998-03,Total,South East Asia,Thailand,3800
+1998-03,Total,South East Asia,Vietnam,na
+1998-03,Total,North East Asia,China,na
+1998-03,Total,North East Asia,Hong Kong,3648
+1998-03,Total,North East Asia,Japan,5711
+1998-03,Total,Europe,France,1408
+1998-03,Total,Europe,Germany,1614
+1998-03,Total,Europe,United Kingdom,1444
+1998-04,Total,South East Asia,Indonesia,6095
+1998-04,Total,South East Asia,Malaysia,2239
+1998-04,Total,South East Asia,Philippines,1795
+1998-04,Total,South East Asia,Thailand,3292
+1998-04,Total,South East Asia,Vietnam,na
+1998-04,Total,North East Asia,China,na
+1998-04,Total,North East Asia,Hong Kong,3102
+1998-04,Total,North East Asia,Japan,5365
+1998-04,Total,Europe,France,1050
+1998-04,Total,Europe,Germany,1685
+1998-04,Total,Europe,United Kingdom,1281
+1998-05,Total,South East Asia,Indonesia,5698
+1998-05,Total,South East Asia,Malaysia,2453
+1998-05,Total,South East Asia,Philippines,2028
+1998-05,Total,South East Asia,Thailand,3708
+1998-05,Total,South East Asia,Vietnam,na
+1998-05,Total,North East Asia,China,na
+1998-05,Total,North East Asia,Hong Kong,3566
+1998-05,Total,North East Asia,Japan,5134
+1998-05,Total,Europe,France,1023
+1998-05,Total,Europe,Germany,1748
+1998-05,Total,Europe,United Kingdom,1462
+1998-06,Total,South East Asia,Indonesia,6065
+1998-06,Total,South East Asia,Malaysia,2330
+1998-06,Total,South East Asia,Philippines,2006
+1998-06,Total,South East Asia,Thailand,3330
+1998-06,Total,South East Asia,Vietnam,na
+1998-06,Total,North East Asia,China,na
+1998-06,Total,North East Asia,Hong Kong,3303
+1998-06,Total,North East Asia,Japan,5114
+1998-06,Total,Europe,France,914
+1998-06,Total,Europe,Germany,2034
+1998-06,Total,Europe,United Kingdom,1638
+1998-07,Total,South East Asia,Indonesia,5784
+1998-07,Total,South East Asia,Malaysia,2361
+1998-07,Total,South East Asia,Philippines,2191
+1998-07,Total,South East Asia,Thailand,3346
+1998-07,Total,South East Asia,Vietnam,na
+1998-07,Total,North East Asia,China,na
+1998-07,Total,North East Asia,Hong Kong,3036
+1998-07,Total,North East Asia,Japan,5641
+1998-07,Total,Europe,France,1280
+1998-07,Total,Europe,Germany,1733
+1998-07,Total,Europe,United Kingdom,1679
+1998-08,Total,South East Asia,Indonesia,4866
+1998-08,Total,South East Asia,Malaysia,2269
+1998-08,Total,South East Asia,Philippines,2039
+1998-08,Total,South East Asia,Thailand,3240
+1998-08,Total,South East Asia,Vietnam,na
+1998-08,Total,North East Asia,China,na
+1998-08,Total,North East Asia,Hong Kong,2998
+1998-08,Total,North East Asia,Japan,4728
+1998-08,Total,Europe,France,1146
+1998-08,Total,Europe,Germany,1495
+1998-08,Total,Europe,United Kingdom,1374
+1998-09,Total,South East Asia,Indonesia,4814
+1998-09,Total,South East Asia,Malaysia,2325
+1998-09,Total,South East Asia,Philippines,2194
+1998-09,Total,South East Asia,Thailand,3402
+1998-09,Total,South East Asia,Vietnam,na
+1998-09,Total,North East Asia,China,na
+1998-09,Total,North East Asia,Hong Kong,3380
+1998-09,Total,North East Asia,Japan,4979
+1998-09,Total,Europe,France,1279
+1998-09,Total,Europe,Germany,1490
+1998-09,Total,Europe,United Kingdom,1569
+1998-10,Total,South East Asia,Indonesia,5472
+1998-10,Total,South East Asia,Malaysia,2556
+1998-10,Total,South East Asia,Philippines,2059
+1998-10,Total,South East Asia,Thailand,3403
+1998-10,Total,South East Asia,Vietnam,na
+1998-10,Total,North East Asia,China,na
+1998-10,Total,North East Asia,Hong Kong,3949
+1998-10,Total,North East Asia,Japan,5466
+1998-10,Total,Europe,France,1220
+1998-10,Total,Europe,Germany,1571
+1998-10,Total,Europe,United Kingdom,1737
+1998-11,Total,South East Asia,Indonesia,5328
+1998-11,Total,South East Asia,Malaysia,2624
+1998-11,Total,South East Asia,Philippines,1923
+1998-11,Total,South East Asia,Thailand,3584
+1998-11,Total,South East Asia,Vietnam,na
+1998-11,Total,North East Asia,China,na
+1998-11,Total,North East Asia,Hong Kong,4279
+1998-11,Total,North East Asia,Japan,5321
+1998-11,Total,Europe,France,1396
+1998-11,Total,Europe,Germany,1707
+1998-11,Total,Europe,United Kingdom,1585
+1998-12,Total,South East Asia,Indonesia,5303
+1998-12,Total,South East Asia,Malaysia,2807
+1998-12,Total,South East Asia,Philippines,1975
+1998-12,Total,South East Asia,Thailand,3896
+1998-12,Total,South East Asia,Vietnam,na
+1998-12,Total,North East Asia,China,na
+1998-12,Total,North East Asia,Hong Kong,3741
+1998-12,Total,North East Asia,Japan,5572
+1998-12,Total,Europe,France,1285
+1998-12,Total,Europe,Germany,1249
+1998-12,Total,Europe,United Kingdom,1515
+1999-01,Total,South East Asia,Indonesia,5085
+1999-01,Total,South East Asia,Malaysia,2402
+1999-01,Total,South East Asia,Philippines,1946
+1999-01,Total,South East Asia,Thailand,4000
+1999-01,Total,South East Asia,Vietnam,252
+1999-01,Total,North East Asia,China,1402
+1999-01,Total,North East Asia,Hong Kong,3446
+1999-01,Total,North East Asia,Japan,4670
+1999-01,Total,Europe,France,1302
+1999-01,Total,Europe,Germany,1217
+1999-01,Total,Europe,United Kingdom,1292
+1999-02,Total,South East Asia,Indonesia,5219
+1999-02,Total,South East Asia,Malaysia,2311
+1999-02,Total,South East Asia,Philippines,1789
+1999-02,Total,South East Asia,Thailand,3443
+1999-02,Total,South East Asia,Vietnam,267
+1999-02,Total,North East Asia,China,1311
+1999-02,Total,North East Asia,Hong Kong,2846
+1999-02,Total,North East Asia,Japan,4567
+1999-02,Total,Europe,France,1354
+1999-02,Total,Europe,Germany,1331
+1999-02,Total,Europe,United Kingdom,1482
+1999-03,Total,South East Asia,Indonesia,5866
+1999-03,Total,South East Asia,Malaysia,2706
+1999-03,Total,South East Asia,Philippines,2158
+1999-03,Total,South East Asia,Thailand,3691
+1999-03,Total,South East Asia,Vietnam,311
+1999-03,Total,North East Asia,China,1958
+1999-03,Total,North East Asia,Hong Kong,3926
+1999-03,Total,North East Asia,Japan,5219
+1999-03,Total,Europe,France,1356
+1999-03,Total,Europe,Germany,1263
+1999-03,Total,Europe,United Kingdom,1854
+1999-04,Total,South East Asia,Indonesia,5555
+1999-04,Total,South East Asia,Malaysia,2465
+1999-04,Total,South East Asia,Philippines,2106
+1999-04,Total,South East Asia,Thailand,3474
+1999-04,Total,South East Asia,Vietnam,411
+1999-04,Total,North East Asia,China,1961
+1999-04,Total,North East Asia,Hong Kong,3992
+1999-04,Total,North East Asia,Japan,5358
+1999-04,Total,Europe,France,1360
+1999-04,Total,Europe,Germany,1275
+1999-04,Total,Europe,United Kingdom,1556
+1999-05,Total,South East Asia,Indonesia,5795
+1999-05,Total,South East Asia,Malaysia,2668
+1999-05,Total,South East Asia,Philippines,2032
+1999-05,Total,South East Asia,Thailand,3937
+1999-05,Total,South East Asia,Vietnam,346
+1999-05,Total,North East Asia,China,1821
+1999-05,Total,North East Asia,Hong Kong,4175
+1999-05,Total,North East Asia,Japan,5481
+1999-05,Total,Europe,France,1391
+1999-05,Total,Europe,Germany,1613
+1999-05,Total,Europe,United Kingdom,1898
+1999-06,Total,South East Asia,Indonesia,5489
+1999-06,Total,South East Asia,Malaysia,2668
+1999-06,Total,South East Asia,Philippines,2006
+1999-06,Total,South East Asia,Thailand,3874
+1999-06,Total,South East Asia,Vietnam,394
+1999-06,Total,North East Asia,China,1851
+1999-06,Total,North East Asia,Hong Kong,3905
+1999-06,Total,North East Asia,Japan,5635
+1999-06,Total,Europe,France,1457
+1999-06,Total,Europe,Germany,1480
+1999-06,Total,Europe,United Kingdom,1765
+1999-07,Total,South East Asia,Indonesia,5907
+1999-07,Total,South East Asia,Malaysia,2734
+1999-07,Total,South East Asia,Philippines,1976
+1999-07,Total,South East Asia,Thailand,4434
+1999-07,Total,South East Asia,Vietnam,462
+1999-07,Total,North East Asia,China,2101
+1999-07,Total,North East Asia,Hong Kong,4526
+1999-07,Total,North East Asia,Japan,6348
+1999-07,Total,Europe,France,1538
+1999-07,Total,Europe,Germany,1335
+1999-07,Total,Europe,United Kingdom,1789
+1999-08,Total,South East Asia,Indonesia,5762
+1999-08,Total,South East Asia,Malaysia,2507
+1999-08,Total,South East Asia,Philippines,2043
+1999-08,Total,South East Asia,Thailand,3896
+1999-08,Total,South East Asia,Vietnam,464
+1999-08,Total,North East Asia,China,2090
+1999-08,Total,North East Asia,Hong Kong,4439
+1999-08,Total,North East Asia,Japan,5434
+1999-08,Total,Europe,France,1756
+1999-08,Total,Europe,Germany,1528
+1999-08,Total,Europe,United Kingdom,1649
+1999-09,Total,South East Asia,Indonesia,5668
+1999-09,Total,South East Asia,Malaysia,2759
+1999-09,Total,South East Asia,Philippines,2224
+1999-09,Total,South East Asia,Thailand,3965
+1999-09,Total,South East Asia,Vietnam,416
+1999-09,Total,North East Asia,China,2260
+1999-09,Total,North East Asia,Hong Kong,4581
+1999-09,Total,North East Asia,Japan,6175
+1999-09,Total,Europe,France,1588
+1999-09,Total,Europe,Germany,1454
+1999-09,Total,Europe,United Kingdom,1656
+1999-10,Total,South East Asia,Indonesia,6255
+1999-10,Total,South East Asia,Malaysia,3072
+1999-10,Total,South East Asia,Philippines,2390
+1999-10,Total,South East Asia,Thailand,4278
+1999-10,Total,South East Asia,Vietnam,470
+1999-10,Total,North East Asia,China,2431
+1999-10,Total,North East Asia,Hong Kong,5237
+1999-10,Total,North East Asia,Japan,6699
+1999-10,Total,Europe,France,1813
+1999-10,Total,Europe,Germany,1601
+1999-10,Total,Europe,United Kingdom,1948
+1999-11,Total,South East Asia,Indonesia,6457
+1999-11,Total,South East Asia,Malaysia,3265
+1999-11,Total,South East Asia,Philippines,2372
+1999-11,Total,South East Asia,Thailand,4097
+1999-11,Total,South East Asia,Vietnam,424
+1999-11,Total,North East Asia,China,2270
+1999-11,Total,North East Asia,Hong Kong,5218
+1999-11,Total,North East Asia,Japan,6232
+1999-11,Total,Europe,France,1550
+1999-11,Total,Europe,Germany,2206
+1999-11,Total,Europe,United Kingdom,1803
+1999-12,Total,South East Asia,Indonesia,5948
+1999-12,Total,South East Asia,Malaysia,3057
+1999-12,Total,South East Asia,Philippines,2391
+1999-12,Total,South East Asia,Thailand,4374
+1999-12,Total,South East Asia,Vietnam,394
+1999-12,Total,North East Asia,China,2137
+1999-12,Total,North East Asia,Hong Kong,5055
+1999-12,Total,North East Asia,Japan,7419
+1999-12,Total,Europe,France,1612
+1999-12,Total,Europe,Germany,1979
+1999-12,Total,Europe,United Kingdom,1684
+2000-01,Total,South East Asia,Indonesia,5314
+2000-01,Total,South East Asia,Malaysia,2742
+2000-01,Total,South East Asia,Philippines,2164
+2000-01,Total,South East Asia,Thailand,3978
+2000-01,Total,South East Asia,Vietnam,399
+2000-01,Total,North East Asia,China,1788
+2000-01,Total,North East Asia,Hong Kong,4103
+2000-01,Total,North East Asia,Japan,5946
+2000-01,Total,Europe,France,1271
+2000-01,Total,Europe,Germany,1448
+2000-01,Total,Europe,United Kingdom,1484
+2000-02,Total,South East Asia,Indonesia,5675
+2000-02,Total,South East Asia,Malaysia,2772
+2000-02,Total,South East Asia,Philippines,2138
+2000-02,Total,South East Asia,Thailand,3431
+2000-02,Total,South East Asia,Vietnam,341
+2000-02,Total,North East Asia,China,1541
+2000-02,Total,North East Asia,Hong Kong,3437
+2000-02,Total,North East Asia,Japan,6009
+2000-02,Total,Europe,France,1428
+2000-02,Total,Europe,Germany,1853
+2000-02,Total,Europe,United Kingdom,1806
+2000-03,Total,South East Asia,Indonesia,6886
+2000-03,Total,South East Asia,Malaysia,3062
+2000-03,Total,South East Asia,Philippines,2179
+2000-03,Total,South East Asia,Thailand,3986
+2000-03,Total,South East Asia,Vietnam,535
+2000-03,Total,North East Asia,China,2383
+2000-03,Total,North East Asia,Hong Kong,5344
+2000-03,Total,North East Asia,Japan,6904
+2000-03,Total,Europe,France,1617
+2000-03,Total,Europe,Germany,1888
+2000-03,Total,Europe,United Kingdom,1972
+2000-04,Total,South East Asia,Indonesia,5989
+2000-04,Total,South East Asia,Malaysia,3103
+2000-04,Total,South East Asia,Philippines,1886
+2000-04,Total,South East Asia,Thailand,3632
+2000-04,Total,South East Asia,Vietnam,449
+2000-04,Total,North East Asia,China,2289
+2000-04,Total,North East Asia,Hong Kong,5038
+2000-04,Total,North East Asia,Japan,6774
+2000-04,Total,Europe,France,1617
+2000-04,Total,Europe,Germany,1849
+2000-04,Total,Europe,United Kingdom,1715
+2000-05,Total,South East Asia,Indonesia,6627
+2000-05,Total,South East Asia,Malaysia,2951
+2000-05,Total,South East Asia,Philippines,2247
+2000-05,Total,South East Asia,Thailand,3758
+2000-05,Total,South East Asia,Vietnam,354
+2000-05,Total,North East Asia,China,1826
+2000-05,Total,North East Asia,Hong Kong,4821
+2000-05,Total,North East Asia,Japan,6463
+2000-05,Total,Europe,France,1791
+2000-05,Total,Europe,Germany,1677
+2000-05,Total,Europe,United Kingdom,1750
+2000-06,Total,South East Asia,Indonesia,6179
+2000-06,Total,South East Asia,Malaysia,3179
+2000-06,Total,South East Asia,Philippines,2218
+2000-06,Total,South East Asia,Thailand,3818
+2000-06,Total,South East Asia,Vietnam,317
+2000-06,Total,North East Asia,China,2151
+2000-06,Total,North East Asia,Hong Kong,4966
+2000-06,Total,North East Asia,Japan,7335
+2000-06,Total,Europe,France,1807
+2000-06,Total,Europe,Germany,1629
+2000-06,Total,Europe,United Kingdom,1951
+2000-07,Total,South East Asia,Indonesia,7122
+2000-07,Total,South East Asia,Malaysia,3619
+2000-07,Total,South East Asia,Philippines,2195
+2000-07,Total,South East Asia,Thailand,4203
+2000-07,Total,South East Asia,Vietnam,474
+2000-07,Total,North East Asia,China,2184
+2000-07,Total,North East Asia,Hong Kong,5383
+2000-07,Total,North East Asia,Japan,7794
+2000-07,Total,Europe,France,1983
+2000-07,Total,Europe,Germany,1973
+2000-07,Total,Europe,United Kingdom,2040
+2000-08,Total,South East Asia,Indonesia,6612
+2000-08,Total,South East Asia,Malaysia,3399
+2000-08,Total,South East Asia,Philippines,2306
+2000-08,Total,South East Asia,Thailand,4017
+2000-08,Total,South East Asia,Vietnam,471
+2000-08,Total,North East Asia,China,2273
+2000-08,Total,North East Asia,Hong Kong,5046
+2000-08,Total,North East Asia,Japan,6743
+2000-08,Total,Europe,France,1573
+2000-08,Total,Europe,Germany,1885
+2000-08,Total,Europe,United Kingdom,2041
+2000-09,Total,South East Asia,Indonesia,6057
+2000-09,Total,South East Asia,Malaysia,3353
+2000-09,Total,South East Asia,Philippines,2233
+2000-09,Total,South East Asia,Thailand,4014
+2000-09,Total,South East Asia,Vietnam,548
+2000-09,Total,North East Asia,China,2489
+2000-09,Total,North East Asia,Hong Kong,5312
+2000-09,Total,North East Asia,Japan,7272
+2000-09,Total,Europe,France,1868
+2000-09,Total,Europe,Germany,1608
+2000-09,Total,Europe,United Kingdom,2012
+2000-10,Total,South East Asia,Indonesia,6286
+2000-10,Total,South East Asia,Malaysia,3238
+2000-10,Total,South East Asia,Philippines,2306
+2000-10,Total,South East Asia,Thailand,3984
+2000-10,Total,South East Asia,Vietnam,439
+2000-10,Total,North East Asia,China,2227
+2000-10,Total,North East Asia,Hong Kong,5197
+2000-10,Total,North East Asia,Japan,6995
+2000-10,Total,Europe,France,1740
+2000-10,Total,Europe,Germany,2167
+2000-10,Total,Europe,United Kingdom,2079
+2000-11,Total,South East Asia,Indonesia,6337
+2000-11,Total,South East Asia,Malaysia,3480
+2000-11,Total,South East Asia,Philippines,2007
+2000-11,Total,South East Asia,Thailand,4126
+2000-11,Total,South East Asia,Vietnam,402
+2000-11,Total,North East Asia,China,2497
+2000-11,Total,North East Asia,Hong Kong,5295
+2000-11,Total,North East Asia,Japan,6396
+2000-11,Total,Europe,France,1981
+2000-11,Total,Europe,Germany,2279
+2000-11,Total,Europe,United Kingdom,2059
+2000-12,Total,South East Asia,Indonesia,6081
+2000-12,Total,South East Asia,Malaysia,3305
+2000-12,Total,South East Asia,Philippines,1972
+2000-12,Total,South East Asia,Thailand,4189
+2000-12,Total,South East Asia,Vietnam,398
+2000-12,Total,North East Asia,China,2009
+2000-12,Total,North East Asia,Hong Kong,4862
+2000-12,Total,North East Asia,Japan,6900
+2000-12,Total,Europe,France,1703
+2000-12,Total,Europe,Germany,2130
+2000-12,Total,Europe,United Kingdom,1957
+2001-01,Total,South East Asia,Indonesia,5608
+2001-01,Total,South East Asia,Malaysia,2695
+2001-01,Total,South East Asia,Philippines,1883
+2001-01,Total,South East Asia,Thailand,3615
+2001-01,Total,South East Asia,Vietnam,352
+2001-01,Total,North East Asia,China,1660
+2001-01,Total,North East Asia,Hong Kong,4020
+2001-01,Total,North East Asia,Japan,4727
+2001-01,Total,Europe,France,1279
+2001-01,Total,Europe,Germany,1628
+2001-01,Total,Europe,United Kingdom,1851
+2001-02,Total,South East Asia,Indonesia,4871
+2001-02,Total,South East Asia,Malaysia,2967
+2001-02,Total,South East Asia,Philippines,1739
+2001-02,Total,South East Asia,Thailand,3453
+2001-02,Total,South East Asia,Vietnam,394
+2001-02,Total,North East Asia,China,1942
+2001-02,Total,North East Asia,Hong Kong,3959
+2001-02,Total,North East Asia,Japan,5069
+2001-02,Total,Europe,France,1993
+2001-02,Total,Europe,Germany,2184
+2001-02,Total,Europe,United Kingdom,1711
+2001-03,Total,South East Asia,Indonesia,5915
+2001-03,Total,South East Asia,Malaysia,3038
+2001-03,Total,South East Asia,Philippines,2085
+2001-03,Total,South East Asia,Thailand,3994
+2001-03,Total,South East Asia,Vietnam,389
+2001-03,Total,North East Asia,China,2277
+2001-03,Total,North East Asia,Hong Kong,4561
+2001-03,Total,North East Asia,Japan,5781
+2001-03,Total,Europe,France,1929
+2001-03,Total,Europe,Germany,2319
+2001-03,Total,Europe,United Kingdom,2062
+2001-04,Total,South East Asia,Indonesia,5818
+2001-04,Total,South East Asia,Malaysia,2652
+2001-04,Total,South East Asia,Philippines,1689
+2001-04,Total,South East Asia,Thailand,3402
+2001-04,Total,South East Asia,Vietnam,299
+2001-04,Total,North East Asia,China,2038
+2001-04,Total,North East Asia,Hong Kong,4023
+2001-04,Total,North East Asia,Japan,5232
+2001-04,Total,Europe,France,2166
+2001-04,Total,Europe,Germany,2232
+2001-04,Total,Europe,United Kingdom,1906
+2001-05,Total,South East Asia,Indonesia,5827
+2001-05,Total,South East Asia,Malaysia,2569
+2001-05,Total,South East Asia,Philippines,2056
+2001-05,Total,South East Asia,Thailand,3523
+2001-05,Total,South East Asia,Vietnam,316
+2001-05,Total,North East Asia,China,1981
+2001-05,Total,North East Asia,Hong Kong,3742
+2001-05,Total,North East Asia,Japan,4565
+2001-05,Total,Europe,France,1736
+2001-05,Total,Europe,Germany,1942
+2001-05,Total,Europe,United Kingdom,1992
+2001-06,Total,South East Asia,Indonesia,6207
+2001-06,Total,South East Asia,Malaysia,2654
+2001-06,Total,South East Asia,Philippines,1804
+2001-06,Total,South East Asia,Thailand,3622
+2001-06,Total,South East Asia,Vietnam,328
+2001-06,Total,North East Asia,China,2133
+2001-06,Total,North East Asia,Hong Kong,3858
+2001-06,Total,North East Asia,Japan,5250
+2001-06,Total,Europe,France,2041
+2001-06,Total,Europe,Germany,1890
+2001-06,Total,Europe,United Kingdom,2176
+2001-07,Total,South East Asia,Indonesia,5970
+2001-07,Total,South East Asia,Malaysia,2452
+2001-07,Total,South East Asia,Philippines,1867
+2001-07,Total,South East Asia,Thailand,3695
+2001-07,Total,South East Asia,Vietnam,332
+2001-07,Total,North East Asia,China,1957
+2001-07,Total,North East Asia,Hong Kong,4240
+2001-07,Total,North East Asia,Japan,4780
+2001-07,Total,Europe,France,2148
+2001-07,Total,Europe,Germany,2032
+2001-07,Total,Europe,United Kingdom,2075
+2001-08,Total,South East Asia,Indonesia,6324
+2001-08,Total,South East Asia,Malaysia,2844
+2001-08,Total,South East Asia,Philippines,1927
+2001-08,Total,South East Asia,Thailand,3760
+2001-08,Total,South East Asia,Vietnam,360
+2001-08,Total,North East Asia,China,2428
+2001-08,Total,North East Asia,Hong Kong,4957
+2001-08,Total,North East Asia,Japan,5059
+2001-08,Total,Europe,France,1672
+2001-08,Total,Europe,Germany,1911
+2001-08,Total,Europe,United Kingdom,2212
+2001-09,Total,South East Asia,Indonesia,5690
+2001-09,Total,South East Asia,Malaysia,2752
+2001-09,Total,South East Asia,Philippines,1773
+2001-09,Total,South East Asia,Thailand,3747
+2001-09,Total,South East Asia,Vietnam,366
+2001-09,Total,North East Asia,China,2580
+2001-09,Total,North East Asia,Hong Kong,4813
+2001-09,Total,North East Asia,Japan,4958
+2001-09,Total,Europe,France,1965
+2001-09,Total,Europe,Germany,2187
+2001-09,Total,Europe,United Kingdom,1900
+2001-10,Total,South East Asia,Indonesia,6087
+2001-10,Total,South East Asia,Malaysia,1790
+2001-10,Total,South East Asia,Philippines,2022
+2001-10,Total,South East Asia,Thailand,3821
+2001-10,Total,South East Asia,Vietnam,312
+2001-10,Total,North East Asia,China,2673
+2001-10,Total,North East Asia,Hong Kong,5077
+2001-10,Total,North East Asia,Japan,4801
+2001-10,Total,Europe,France,2120
+2001-10,Total,Europe,Germany,1895
+2001-10,Total,Europe,United Kingdom,1975
+2001-11,Total,South East Asia,Indonesia,5847
+2001-11,Total,South East Asia,Malaysia,1937
+2001-11,Total,South East Asia,Philippines,1912
+2001-11,Total,South East Asia,Thailand,3950
+2001-11,Total,South East Asia,Vietnam,367
+2001-11,Total,North East Asia,China,2834
+2001-11,Total,North East Asia,Hong Kong,5366
+2001-11,Total,North East Asia,Japan,4577
+2001-11,Total,Europe,France,1853
+2001-11,Total,Europe,Germany,2441
+2001-11,Total,Europe,United Kingdom,1951
+2001-12,Total,South East Asia,Indonesia,4993
+2001-12,Total,South East Asia,Malaysia,2582
+2001-12,Total,South East Asia,Philippines,1808
+2001-12,Total,South East Asia,Thailand,3987
+2001-12,Total,South East Asia,Vietnam,291
+2001-12,Total,North East Asia,China,2559
+2001-12,Total,North East Asia,Hong Kong,4742
+2001-12,Total,North East Asia,Japan,5270
+2001-12,Total,Europe,France,1644
+2001-12,Total,Europe,Germany,2232
+2001-12,Total,Europe,United Kingdom,1763
+2002-01,Total,South East Asia,Indonesia,5793
+2002-01,Total,South East Asia,Malaysia,2360
+2002-01,Total,South East Asia,Philippines,1871
+2002-01,Total,South East Asia,Thailand,3993
+2002-01,Total,South East Asia,Vietnam,339
+2002-01,Total,North East Asia,China,2121
+2002-01,Total,North East Asia,Hong Kong,4569
+2002-01,Total,North East Asia,Japan,4531
+2002-01,Total,Europe,France,1427
+2002-01,Total,Europe,Germany,1957
+2002-01,Total,Europe,United Kingdom,1591
+2002-02,Total,South East Asia,Indonesia,4612
+2002-02,Total,South East Asia,Malaysia,1786
+2002-02,Total,South East Asia,Philippines,1462
+2002-02,Total,South East Asia,Thailand,3864
+2002-02,Total,South East Asia,Vietnam,339
+2002-02,Total,North East Asia,China,2158
+2002-02,Total,North East Asia,Hong Kong,3743
+2002-02,Total,North East Asia,Japan,5133
+2002-02,Total,Europe,France,1675
+2002-02,Total,Europe,Germany,2099
+2002-02,Total,Europe,United Kingdom,2039
+2002-03,Total,South East Asia,Indonesia,6586
+2002-03,Total,South East Asia,Malaysia,2059
+2002-03,Total,South East Asia,Philippines,1900
+2002-03,Total,South East Asia,Thailand,4196
+2002-03,Total,South East Asia,Vietnam,447
+2002-03,Total,North East Asia,China,3386
+2002-03,Total,North East Asia,Hong Kong,5758
+2002-03,Total,North East Asia,Japan,5996
+2002-03,Total,Europe,France,2079
+2002-03,Total,Europe,Germany,2401
+2002-03,Total,Europe,United Kingdom,2768
+2002-04,Total,South East Asia,Indonesia,5308
+2002-04,Total,South East Asia,Malaysia,1877
+2002-04,Total,South East Asia,Philippines,2297
+2002-04,Total,South East Asia,Thailand,3894
+2002-04,Total,South East Asia,Vietnam,345
+2002-04,Total,North East Asia,China,3092
+2002-04,Total,North East Asia,Hong Kong,5846
+2002-04,Total,North East Asia,Japan,5815
+2002-04,Total,Europe,France,2138
+2002-04,Total,Europe,Germany,2091
+2002-04,Total,Europe,United Kingdom,2235
+2002-05,Total,South East Asia,Indonesia,5358
+2002-05,Total,South East Asia,Malaysia,1834
+2002-05,Total,South East Asia,Philippines,2485
+2002-05,Total,South East Asia,Thailand,4222
+2002-05,Total,South East Asia,Vietnam,314
+2002-05,Total,North East Asia,China,3245
+2002-05,Total,North East Asia,Hong Kong,6081
+2002-05,Total,North East Asia,Japan,5718
+2002-05,Total,Europe,France,1775
+2002-05,Total,Europe,Germany,2041
+2002-05,Total,Europe,United Kingdom,2084
+2002-06,Total,South East Asia,Indonesia,5708
+2002-06,Total,South East Asia,Malaysia,1984
+2002-06,Total,South East Asia,Philippines,2833
+2002-06,Total,South East Asia,Thailand,4034
+2002-06,Total,South East Asia,Vietnam,404
+2002-06,Total,North East Asia,China,3328
+2002-06,Total,North East Asia,Hong Kong,5533
+2002-06,Total,North East Asia,Japan,5968
+2002-06,Total,Europe,France,2219
+2002-06,Total,Europe,Germany,2518
+2002-06,Total,Europe,United Kingdom,1991
+2002-07,Total,South East Asia,Indonesia,5478
+2002-07,Total,South East Asia,Malaysia,1965
+2002-07,Total,South East Asia,Philippines,2169
+2002-07,Total,South East Asia,Thailand,3552
+2002-07,Total,South East Asia,Vietnam,448
+2002-07,Total,North East Asia,China,3573
+2002-07,Total,North East Asia,Hong Kong,5593
+2002-07,Total,North East Asia,Japan,5537
+2002-07,Total,Europe,France,2116
+2002-07,Total,Europe,Germany,2527
+2002-07,Total,Europe,United Kingdom,2041
+2002-08,Total,South East Asia,Indonesia,5353
+2002-08,Total,South East Asia,Malaysia,1954
+2002-08,Total,South East Asia,Philippines,2765
+2002-08,Total,South East Asia,Thailand,3669
+2002-08,Total,South East Asia,Vietnam,473
+2002-08,Total,North East Asia,China,4054
+2002-08,Total,North East Asia,Hong Kong,6088
+2002-08,Total,North East Asia,Japan,5633
+2002-08,Total,Europe,France,1888
+2002-08,Total,Europe,Germany,1968
+2002-08,Total,Europe,United Kingdom,2080
+2002-09,Total,South East Asia,Indonesia,5167
+2002-09,Total,South East Asia,Malaysia,2133
+2002-09,Total,South East Asia,Philippines,2031
+2002-09,Total,South East Asia,Thailand,3801
+2002-09,Total,South East Asia,Vietnam,431
+2002-09,Total,North East Asia,China,3946
+2002-09,Total,North East Asia,Hong Kong,5982
+2002-09,Total,North East Asia,Japan,5460
+2002-09,Total,Europe,France,1974
+2002-09,Total,Europe,Germany,2271
+2002-09,Total,Europe,United Kingdom,2178
+2002-10,Total,South East Asia,Indonesia,5657
+2002-10,Total,South East Asia,Malaysia,2270
+2002-10,Total,South East Asia,Philippines,2529
+2002-10,Total,South East Asia,Thailand,4027
+2002-10,Total,South East Asia,Vietnam,421
+2002-10,Total,North East Asia,China,3823
+2002-10,Total,North East Asia,Hong Kong,6682
+2002-10,Total,North East Asia,Japan,6108
+2002-10,Total,Europe,France,1802
+2002-10,Total,Europe,Germany,2312
+2002-10,Total,Europe,United Kingdom,2182
+2002-11,Total,South East Asia,Indonesia,5289
+2002-11,Total,South East Asia,Malaysia,1954
+2002-11,Total,South East Asia,Philippines,2133
+2002-11,Total,South East Asia,Thailand,4359
+2002-11,Total,South East Asia,Vietnam,369
+2002-11,Total,North East Asia,China,4314
+2002-11,Total,North East Asia,Hong Kong,6545
+2002-11,Total,North East Asia,Japan,5888
+2002-11,Total,Europe,France,1905
+2002-11,Total,Europe,Germany,2373
+2002-11,Total,Europe,United Kingdom,2055
+2002-12,Total,South East Asia,Indonesia,4436
+2002-12,Total,South East Asia,Malaysia,1863
+2002-12,Total,South East Asia,Philippines,2043
+2002-12,Total,South East Asia,Thailand,4266
+2002-12,Total,South East Asia,Vietnam,284
+2002-12,Total,North East Asia,China,3461
+2002-12,Total,North East Asia,Hong Kong,5830
+2002-12,Total,North East Asia,Japan,5231
+2002-12,Total,Europe,France,1827
+2002-12,Total,Europe,Germany,2232
+2002-12,Total,Europe,United Kingdom,2062
+2003-01,Total,South East Asia,Indonesia,5323
+2003-01,Total,South East Asia,Malaysia,1993
+2003-01,Total,South East Asia,Philippines,1848
+2003-01,Total,South East Asia,Thailand,4010
+2003-01,Total,South East Asia,Vietnam,434
+2003-01,Total,North East Asia,China,3018
+2003-01,Total,North East Asia,Hong Kong,5828
+2003-01,Total,North East Asia,Japan,4875
+2003-01,Total,Europe,France,1390
+2003-01,Total,Europe,Germany,1685
+2003-01,Total,Europe,United Kingdom,1606
+2003-02,Total,South East Asia,Indonesia,4523
+2003-02,Total,South East Asia,Malaysia,1742
+2003-02,Total,South East Asia,Philippines,1713
+2003-02,Total,South East Asia,Thailand,3421
+2003-02,Total,South East Asia,Vietnam,419
+2003-02,Total,North East Asia,China,2325
+2003-02,Total,North East Asia,Hong Kong,4189
+2003-02,Total,North East Asia,Japan,4970
+2003-02,Total,Europe,France,1604
+2003-02,Total,Europe,Germany,2134
+2003-02,Total,Europe,United Kingdom,1956
+2003-03,Total,South East Asia,Indonesia,5698
+2003-03,Total,South East Asia,Malaysia,2191
+2003-03,Total,South East Asia,Philippines,2076
+2003-03,Total,South East Asia,Thailand,4027
+2003-03,Total,South East Asia,Vietnam,543
+2003-03,Total,North East Asia,China,3860
+2003-03,Total,North East Asia,Hong Kong,6641
+2003-03,Total,North East Asia,Japan,5805
+2003-03,Total,Europe,France,2253
+2003-03,Total,Europe,Germany,2510
+2003-03,Total,Europe,United Kingdom,2195
+2003-04,Total,South East Asia,Indonesia,4601
+2003-04,Total,South East Asia,Malaysia,2264
+2003-04,Total,South East Asia,Philippines,1762
+2003-04,Total,South East Asia,Thailand,3598
+2003-04,Total,South East Asia,Vietnam,326
+2003-04,Total,North East Asia,China,3635
+2003-04,Total,North East Asia,Hong Kong,4839
+2003-04,Total,North East Asia,Japan,5378
+2003-04,Total,Europe,France,1628
+2003-04,Total,Europe,Germany,1804
+2003-04,Total,Europe,United Kingdom,1906
+2003-05,Total,South East Asia,Indonesia,4490
+2003-05,Total,South East Asia,Malaysia,2059
+2003-05,Total,South East Asia,Philippines,2457
+2003-05,Total,South East Asia,Thailand,3659
+2003-05,Total,South East Asia,Vietnam,336
+2003-05,Total,North East Asia,China,3419
+2003-05,Total,North East Asia,Hong Kong,4594
+2003-05,Total,North East Asia,Japan,5332
+2003-05,Total,Europe,France,1575
+2003-05,Total,Europe,Germany,2004
+2003-05,Total,Europe,United Kingdom,2008
+2003-06,Total,South East Asia,Indonesia,4316
+2003-06,Total,South East Asia,Malaysia,2259
+2003-06,Total,South East Asia,Philippines,1893
+2003-06,Total,South East Asia,Thailand,3284
+2003-06,Total,South East Asia,Vietnam,544
+2003-06,Total,North East Asia,China,3409
+2003-06,Total,North East Asia,Hong Kong,4801
+2003-06,Total,North East Asia,Japan,5560
+2003-06,Total,Europe,France,1656
+2003-06,Total,Europe,Germany,2706
+2003-06,Total,Europe,United Kingdom,2164
+2003-07,Total,South East Asia,Indonesia,4464
+2003-07,Total,South East Asia,Malaysia,2339
+2003-07,Total,South East Asia,Philippines,2291
+2003-07,Total,South East Asia,Thailand,3458
+2003-07,Total,South East Asia,Vietnam,587
+2003-07,Total,North East Asia,China,3786
+2003-07,Total,North East Asia,Hong Kong,5557
+2003-07,Total,North East Asia,Japan,5555
+2003-07,Total,Europe,France,1612
+2003-07,Total,Europe,Germany,2113
+2003-07,Total,Europe,United Kingdom,1895
+2003-08,Total,South East Asia,Indonesia,4438
+2003-08,Total,South East Asia,Malaysia,2496
+2003-08,Total,South East Asia,Philippines,1948
+2003-08,Total,South East Asia,Thailand,3655
+2003-08,Total,South East Asia,Vietnam,678
+2003-08,Total,North East Asia,China,4117
+2003-08,Total,North East Asia,Hong Kong,5834
+2003-08,Total,North East Asia,Japan,5544
+2003-08,Total,Europe,France,1614
+2003-08,Total,Europe,Germany,2133
+2003-08,Total,Europe,United Kingdom,1875
+2003-09,Total,South East Asia,Indonesia,4350
+2003-09,Total,South East Asia,Malaysia,2550
+2003-09,Total,South East Asia,Philippines,1967
+2003-09,Total,South East Asia,Thailand,3266
+2003-09,Total,South East Asia,Vietnam,523
+2003-09,Total,North East Asia,China,5173
+2003-09,Total,North East Asia,Hong Kong,6421
+2003-09,Total,North East Asia,Japan,5761
+2003-09,Total,Europe,France,1765
+2003-09,Total,Europe,Germany,2044
+2003-09,Total,Europe,United Kingdom,1890
+2003-10,Total,South East Asia,Indonesia,4993
+2003-10,Total,South East Asia,Malaysia,2637
+2003-10,Total,South East Asia,Philippines,2302
+2003-10,Total,South East Asia,Thailand,3584
+2003-10,Total,South East Asia,Vietnam,435
+2003-10,Total,North East Asia,China,5495
+2003-10,Total,North East Asia,Hong Kong,7231
+2003-10,Total,North East Asia,Japan,6618
+2003-10,Total,Europe,France,1731
+2003-10,Total,Europe,Germany,2061
+2003-10,Total,Europe,United Kingdom,2013
+2003-11,Total,South East Asia,Indonesia,4462
+2003-11,Total,South East Asia,Malaysia,2645
+2003-11,Total,South East Asia,Philippines,2613
+2003-11,Total,South East Asia,Thailand,3615
+2003-11,Total,South East Asia,Vietnam,310
+2003-11,Total,North East Asia,China,5378
+2003-11,Total,North East Asia,Hong Kong,6896
+2003-11,Total,North East Asia,Japan,6503
+2003-11,Total,Europe,France,963
+2003-11,Total,Europe,Germany,1728
+2003-11,Total,Europe,United Kingdom,1938
+2003-12,Total,South East Asia,Indonesia,4194
+2003-12,Total,South East Asia,Malaysia,3027
+2003-12,Total,South East Asia,Philippines,2197
+2003-12,Total,South East Asia,Thailand,3505
+2003-12,Total,South East Asia,Vietnam,301
+2003-12,Total,North East Asia,China,4768
+2003-12,Total,North East Asia,Hong Kong,6494
+2003-12,Total,North East Asia,Japan,6813
+2003-12,Total,Europe,France,850
+2003-12,Total,Europe,Germany,1784
+2003-12,Total,Europe,United Kingdom,1897
+2004-01,Total,South East Asia,Indonesia,4571
+2004-01,Total,South East Asia,Malaysia,2806
+2004-01,Total,South East Asia,Philippines,2198
+2004-01,Total,South East Asia,Thailand,3346
+2004-01,Total,South East Asia,Vietnam,345
+2004-01,Total,North East Asia,China,3819
+2004-01,Total,North East Asia,Hong Kong,5078
+2004-01,Total,North East Asia,Japan,5731
+2004-01,Total,Europe,France,680
+2004-01,Total,Europe,Germany,1326
+2004-01,Total,Europe,United Kingdom,1455
+2004-02,Total,South East Asia,Indonesia,4337
+2004-02,Total,South East Asia,Malaysia,2635
+2004-02,Total,South East Asia,Philippines,2308
+2004-02,Total,South East Asia,Thailand,3380
+2004-02,Total,South East Asia,Vietnam,606
+2004-02,Total,North East Asia,China,4274
+2004-02,Total,North East Asia,Hong Kong,6033
+2004-02,Total,North East Asia,Japan,6490
+2004-02,Total,Europe,France,709
+2004-02,Total,Europe,Germany,1700
+2004-02,Total,Europe,United Kingdom,1687
+2004-03,Total,South East Asia,Indonesia,5475
+2004-03,Total,South East Asia,Malaysia,2928
+2004-03,Total,South East Asia,Philippines,2684
+2004-03,Total,South East Asia,Thailand,3448
+2004-03,Total,South East Asia,Vietnam,515
+2004-03,Total,North East Asia,China,5327
+2004-03,Total,North East Asia,Hong Kong,7309
+2004-03,Total,North East Asia,Japan,7625
+2004-03,Total,Europe,France,740
+2004-03,Total,Europe,Germany,1859
+2004-03,Total,Europe,United Kingdom,1817
+2004-04,Total,South East Asia,Indonesia,4633
+2004-04,Total,South East Asia,Malaysia,2704
+2004-04,Total,South East Asia,Philippines,2272
+2004-04,Total,South East Asia,Thailand,3004
+2004-04,Total,South East Asia,Vietnam,488
+2004-04,Total,North East Asia,China,4842
+2004-04,Total,North East Asia,Hong Kong,6446
+2004-04,Total,North East Asia,Japan,7370
+2004-04,Total,Europe,France,655
+2004-04,Total,Europe,Germany,1856
+2004-04,Total,Europe,United Kingdom,1307
+2004-05,Total,South East Asia,Indonesia,5245
+2004-05,Total,South East Asia,Malaysia,2570
+2004-05,Total,South East Asia,Philippines,2334
+2004-05,Total,South East Asia,Thailand,3135
+2004-05,Total,South East Asia,Vietnam,481
+2004-05,Total,North East Asia,China,4842
+2004-05,Total,North East Asia,Hong Kong,6609
+2004-05,Total,North East Asia,Japan,7132
+2004-05,Total,Europe,France,865
+2004-05,Total,Europe,Germany,2172
+2004-05,Total,Europe,United Kingdom,1461
+2004-06,Total,South East Asia,Indonesia,5076
+2004-06,Total,South East Asia,Malaysia,2581
+2004-06,Total,South East Asia,Philippines,2286
+2004-06,Total,South East Asia,Thailand,3382
+2004-06,Total,South East Asia,Vietnam,558
+2004-06,Total,North East Asia,China,4631
+2004-06,Total,North East Asia,Hong Kong,6451
+2004-06,Total,North East Asia,Japan,7610
+2004-06,Total,Europe,France,756
+2004-06,Total,Europe,Germany,1987
+2004-06,Total,Europe,United Kingdom,1299
+2004-07,Total,South East Asia,Indonesia,5111
+2004-07,Total,South East Asia,Malaysia,2783
+2004-07,Total,South East Asia,Philippines,2517
+2004-07,Total,South East Asia,Thailand,3639
+2004-07,Total,South East Asia,Vietnam,617
+2004-07,Total,North East Asia,China,4976
+2004-07,Total,North East Asia,Hong Kong,6722
+2004-07,Total,North East Asia,Japan,7303
+2004-07,Total,Europe,France,821
+2004-07,Total,Europe,Germany,2087
+2004-07,Total,Europe,United Kingdom,1446
+2004-08,Total,South East Asia,Indonesia,5144
+2004-08,Total,South East Asia,Malaysia,2632
+2004-08,Total,South East Asia,Philippines,2158
+2004-08,Total,South East Asia,Thailand,3844
+2004-08,Total,South East Asia,Vietnam,753
+2004-08,Total,North East Asia,China,5267
+2004-08,Total,North East Asia,Hong Kong,7143
+2004-08,Total,North East Asia,Japan,6551
+2004-08,Total,Europe,France,761
+2004-08,Total,Europe,Germany,2060
+2004-08,Total,Europe,United Kingdom,1408
+2004-09,Total,South East Asia,Indonesia,5297
+2004-09,Total,South East Asia,Malaysia,2791
+2004-09,Total,South East Asia,Philippines,2548
+2004-09,Total,South East Asia,Thailand,4176
+2004-09,Total,South East Asia,Vietnam,720
+2004-09,Total,North East Asia,China,5769
+2004-09,Total,North East Asia,Hong Kong,7394
+2004-09,Total,North East Asia,Japan,7461
+2004-09,Total,Europe,France,765
+2004-09,Total,Europe,Germany,2050
+2004-09,Total,Europe,United Kingdom,1397
+2004-10,Total,South East Asia,Indonesia,5383
+2004-10,Total,South East Asia,Malaysia,2963
+2004-10,Total,South East Asia,Philippines,2538
+2004-10,Total,South East Asia,Thailand,4073
+2004-10,Total,South East Asia,Vietnam,465
+2004-10,Total,North East Asia,China,6071
+2004-10,Total,North East Asia,Hong Kong,8268
+2004-10,Total,North East Asia,Japan,7777
+2004-10,Total,Europe,France,734
+2004-10,Total,Europe,Germany,1980
+2004-10,Total,Europe,United Kingdom,1560
+2004-11,Total,South East Asia,Indonesia,4101
+2004-11,Total,South East Asia,Malaysia,2926
+2004-11,Total,South East Asia,Philippines,2384
+2004-11,Total,South East Asia,Thailand,4123
+2004-11,Total,South East Asia,Vietnam,434
+2004-11,Total,North East Asia,China,6088
+2004-11,Total,North East Asia,Hong Kong,8009
+2004-11,Total,North East Asia,Japan,6582
+2004-11,Total,Europe,France,697
+2004-11,Total,Europe,Germany,1981
+2004-11,Total,Europe,United Kingdom,1238
+2004-12,Total,South East Asia,Indonesia,5074
+2004-12,Total,South East Asia,Malaysia,3361
+2004-12,Total,South East Asia,Philippines,2608
+2004-12,Total,South East Asia,Thailand,4340
+2004-12,Total,South East Asia,Vietnam,424
+2004-12,Total,North East Asia,China,5294
+2004-12,Total,North East Asia,Hong Kong,7316
+2004-12,Total,North East Asia,Japan,7045
+2004-12,Total,Europe,France,680
+2004-12,Total,Europe,Germany,2075
+2004-12,Total,Europe,United Kingdom,1147
+2005-01,Total,South East Asia,Indonesia,4762
+2005-01,Total,South East Asia,Malaysia,2661
+2005-01,Total,South East Asia,Philippines,2497
+2005-01,Total,South East Asia,Thailand,3775
+2005-01,Total,South East Asia,Vietnam,428
+2005-01,Total,North East Asia,China,4820
+2005-01,Total,North East Asia,Hong Kong,6312
+2005-01,Total,North East Asia,Japan,6053
+2005-01,Total,Europe,France,636
+2005-01,Total,Europe,Germany,1816
+2005-01,Total,Europe,United Kingdom,999
+2005-02,Total,South East Asia,Indonesia,4615
+2005-02,Total,South East Asia,Malaysia,2693
+2005-02,Total,South East Asia,Philippines,2139
+2005-02,Total,South East Asia,Thailand,3693
+2005-02,Total,South East Asia,Vietnam,383
+2005-02,Total,North East Asia,China,4147
+2005-02,Total,North East Asia,Hong Kong,5588
+2005-02,Total,North East Asia,Japan,5914
+2005-02,Total,Europe,France,700
+2005-02,Total,Europe,Germany,1714
+2005-02,Total,Europe,United Kingdom,1132
+2005-03,Total,South East Asia,Indonesia,5705
+2005-03,Total,South East Asia,Malaysia,3422
+2005-03,Total,South East Asia,Philippines,2711
+2005-03,Total,South East Asia,Thailand,4426
+2005-03,Total,South East Asia,Vietnam,532
+2005-03,Total,North East Asia,China,5980
+2005-03,Total,North East Asia,Hong Kong,7788
+2005-03,Total,North East Asia,Japan,7256
+2005-03,Total,Europe,France,796
+2005-03,Total,Europe,Germany,1638
+2005-03,Total,Europe,United Kingdom,1096
+2005-04,Total,South East Asia,Indonesia,5107
+2005-04,Total,South East Asia,Malaysia,2999
+2005-04,Total,South East Asia,Philippines,2808
+2005-04,Total,South East Asia,Thailand,3789
+2005-04,Total,South East Asia,Vietnam,430
+2005-04,Total,North East Asia,China,5842
+2005-04,Total,North East Asia,Hong Kong,8144
+2005-04,Total,North East Asia,Japan,7425
+2005-04,Total,Europe,France,741
+2005-04,Total,Europe,Germany,1727
+2005-04,Total,Europe,United Kingdom,1174
+2005-05,Total,South East Asia,Indonesia,5243
+2005-05,Total,South East Asia,Malaysia,3097
+2005-05,Total,South East Asia,Philippines,2596
+2005-05,Total,South East Asia,Thailand,4027
+2005-05,Total,South East Asia,Vietnam,436
+2005-05,Total,North East Asia,China,5638
+2005-05,Total,North East Asia,Hong Kong,7403
+2005-05,Total,North East Asia,Japan,5917
+2005-05,Total,Europe,France,651
+2005-05,Total,Europe,Germany,1716
+2005-05,Total,Europe,United Kingdom,1190
+2005-06,Total,South East Asia,Indonesia,5287
+2005-06,Total,South East Asia,Malaysia,3091
+2005-06,Total,South East Asia,Philippines,2371
+2005-06,Total,South East Asia,Thailand,4112
+2005-06,Total,South East Asia,Vietnam,497
+2005-06,Total,North East Asia,China,5989
+2005-06,Total,North East Asia,Hong Kong,7538
+2005-06,Total,North East Asia,Japan,7217
+2005-06,Total,Europe,France,676
+2005-06,Total,Europe,Germany,2004
+2005-06,Total,Europe,United Kingdom,1148
+2005-07,Total,South East Asia,Indonesia,5417
+2005-07,Total,South East Asia,Malaysia,3063
+2005-07,Total,South East Asia,Philippines,3303
+2005-07,Total,South East Asia,Thailand,3927
+2005-07,Total,South East Asia,Vietnam,580
+2005-07,Total,North East Asia,China,6440
+2005-07,Total,North East Asia,Hong Kong,7404
+2005-07,Total,North East Asia,Japan,7301
+2005-07,Total,Europe,France,658
+2005-07,Total,Europe,Germany,1728
+2005-07,Total,Europe,United Kingdom,1292
+2005-08,Total,South East Asia,Indonesia,5157
+2005-08,Total,South East Asia,Malaysia,3039
+2005-08,Total,South East Asia,Philippines,2583
+2005-08,Total,South East Asia,Thailand,3847
+2005-08,Total,South East Asia,Vietnam,646
+2005-08,Total,North East Asia,China,6839
+2005-08,Total,North East Asia,Hong Kong,7758
+2005-08,Total,North East Asia,Japan,7079
+2005-08,Total,Europe,France,658
+2005-08,Total,Europe,Germany,1759
+2005-08,Total,Europe,United Kingdom,1135
+2005-09,Total,South East Asia,Indonesia,5377
+2005-09,Total,South East Asia,Malaysia,2887
+2005-09,Total,South East Asia,Philippines,4927
+2005-09,Total,South East Asia,Thailand,3909
+2005-09,Total,South East Asia,Vietnam,451
+2005-09,Total,North East Asia,China,7091
+2005-09,Total,North East Asia,Hong Kong,8241
+2005-09,Total,North East Asia,Japan,7389
+2005-09,Total,Europe,France,728
+2005-09,Total,Europe,Germany,1690
+2005-09,Total,Europe,United Kingdom,1258
+2005-10,Total,South East Asia,Indonesia,5402
+2005-10,Total,South East Asia,Malaysia,3197
+2005-10,Total,South East Asia,Philippines,2718
+2005-10,Total,South East Asia,Thailand,4389
+2005-10,Total,South East Asia,Vietnam,633
+2005-10,Total,North East Asia,China,6882
+2005-10,Total,North East Asia,Hong Kong,8596
+2005-10,Total,North East Asia,Japan,7932
+2005-10,Total,Europe,France,783
+2005-10,Total,Europe,Germany,1778
+2005-10,Total,Europe,United Kingdom,1468
+2005-11,Total,South East Asia,Indonesia,4246
+2005-11,Total,South East Asia,Malaysia,2850
+2005-11,Total,South East Asia,Philippines,2589
+2005-11,Total,South East Asia,Thailand,4290
+2005-11,Total,South East Asia,Vietnam,556
+2005-11,Total,North East Asia,China,6958
+2005-11,Total,North East Asia,Hong Kong,8031
+2005-11,Total,North East Asia,Japan,7545
+2005-11,Total,Europe,France,724
+2005-11,Total,Europe,Germany,1462
+2005-11,Total,Europe,United Kingdom,1464
+2005-12,Total,South East Asia,Indonesia,5756
+2005-12,Total,South East Asia,Malaysia,3340
+2005-12,Total,South East Asia,Philippines,2794
+2005-12,Total,South East Asia,Thailand,4142
+2005-12,Total,South East Asia,Vietnam,457
+2005-12,Total,North East Asia,China,6834
+2005-12,Total,North East Asia,Hong Kong,7719
+2005-12,Total,North East Asia,Japan,7873
+2005-12,Total,Europe,France,750
+2005-12,Total,Europe,Germany,1533
+2005-12,Total,Europe,United Kingdom,1257
+2006-01,Total,South East Asia,Indonesia,4970
+2006-01,Total,South East Asia,Malaysia,3149
+2006-01,Total,South East Asia,Philippines,2544
+2006-01,Total,South East Asia,Thailand,4029
+2006-01,Total,South East Asia,Vietnam,448
+2006-01,Total,North East Asia,China,6547
+2006-01,Total,North East Asia,Hong Kong,6824
+2006-01,Total,North East Asia,Japan,6173
+2006-01,Total,Europe,France,656
+2006-01,Total,Europe,Germany,1370
+2006-01,Total,Europe,United Kingdom,1079
+2006-02,Total,South East Asia,Indonesia,4956
+2006-02,Total,South East Asia,Malaysia,2884
+2006-02,Total,South East Asia,Philippines,2439
+2006-02,Total,South East Asia,Thailand,3533
+2006-02,Total,South East Asia,Vietnam,414
+2006-02,Total,North East Asia,China,5168
+2006-02,Total,North East Asia,Hong Kong,5719
+2006-02,Total,North East Asia,Japan,7061
+2006-02,Total,Europe,France,742
+2006-02,Total,Europe,Germany,1475
+2006-02,Total,Europe,United Kingdom,1186
+2006-03,Total,South East Asia,Indonesia,5488
+2006-03,Total,South East Asia,Malaysia,3537
+2006-03,Total,South East Asia,Philippines,2788
+2006-03,Total,South East Asia,Thailand,4227
+2006-03,Total,South East Asia,Vietnam,667
+2006-03,Total,North East Asia,China,7430
+2006-03,Total,North East Asia,Hong Kong,9235
+2006-03,Total,North East Asia,Japan,8864
+2006-03,Total,Europe,France,808
+2006-03,Total,Europe,Germany,1661
+2006-03,Total,Europe,United Kingdom,1317
+2006-04,Total,South East Asia,Indonesia,5315
+2006-04,Total,South East Asia,Malaysia,3361
+2006-04,Total,South East Asia,Philippines,2614
+2006-04,Total,South East Asia,Thailand,3861
+2006-04,Total,South East Asia,Vietnam,566
+2006-04,Total,North East Asia,China,6931
+2006-04,Total,North East Asia,Hong Kong,7841
+2006-04,Total,North East Asia,Japan,7178
+2006-04,Total,Europe,France,711
+2006-04,Total,Europe,Germany,1560
+2006-04,Total,Europe,United Kingdom,1158
+2006-05,Total,South East Asia,Indonesia,5592
+2006-05,Total,South East Asia,Malaysia,3606
+2006-05,Total,South East Asia,Philippines,2571
+2006-05,Total,South East Asia,Thailand,4078
+2006-05,Total,South East Asia,Vietnam,451
+2006-05,Total,North East Asia,China,6417
+2006-05,Total,North East Asia,Hong Kong,7931
+2006-05,Total,North East Asia,Japan,6596
+2006-05,Total,Europe,France,728
+2006-05,Total,Europe,Germany,1811
+2006-05,Total,Europe,United Kingdom,1383
+2006-06,Total,South East Asia,Indonesia,5331
+2006-06,Total,South East Asia,Malaysia,3407
+2006-06,Total,South East Asia,Philippines,2550
+2006-06,Total,South East Asia,Thailand,4106
+2006-06,Total,South East Asia,Vietnam,547
+2006-06,Total,North East Asia,China,6583
+2006-06,Total,North East Asia,Hong Kong,8024
+2006-06,Total,North East Asia,Japan,7313
+2006-06,Total,Europe,France,756
+2006-06,Total,Europe,Germany,1784
+2006-06,Total,Europe,United Kingdom,1366
+2006-07,Total,South East Asia,Indonesia,4903
+2006-07,Total,South East Asia,Malaysia,3579
+2006-07,Total,South East Asia,Philippines,2611
+2006-07,Total,South East Asia,Thailand,3996
+2006-07,Total,South East Asia,Vietnam,596
+2006-07,Total,North East Asia,China,6735
+2006-07,Total,North East Asia,Hong Kong,8359
+2006-07,Total,North East Asia,Japan,7471
+2006-07,Total,Europe,France,749
+2006-07,Total,Europe,Germany,1877
+2006-07,Total,Europe,United Kingdom,1448
+2006-08,Total,South East Asia,Indonesia,4829
+2006-08,Total,South East Asia,Malaysia,3815
+2006-08,Total,South East Asia,Philippines,2983
+2006-08,Total,South East Asia,Thailand,4141
+2006-08,Total,South East Asia,Vietnam,533
+2006-08,Total,North East Asia,China,7145
+2006-08,Total,North East Asia,Hong Kong,8660
+2006-08,Total,North East Asia,Japan,7281
+2006-08,Total,Europe,France,757
+2006-08,Total,Europe,Germany,1657
+2006-08,Total,Europe,United Kingdom,1336
+2006-09,Total,South East Asia,Indonesia,4936
+2006-09,Total,South East Asia,Malaysia,3806
+2006-09,Total,South East Asia,Philippines,2702
+2006-09,Total,South East Asia,Thailand,4228
+2006-09,Total,South East Asia,Vietnam,520
+2006-09,Total,North East Asia,China,7453
+2006-09,Total,North East Asia,Hong Kong,9256
+2006-09,Total,North East Asia,Japan,7925
+2006-09,Total,Europe,France,776
+2006-09,Total,Europe,Germany,1689
+2006-09,Total,Europe,United Kingdom,1421
+2006-10,Total,South East Asia,Indonesia,4454
+2006-10,Total,South East Asia,Malaysia,3274
+2006-10,Total,South East Asia,Philippines,2748
+2006-10,Total,South East Asia,Thailand,3946
+2006-10,Total,South East Asia,Vietnam,568
+2006-10,Total,North East Asia,China,7719
+2006-10,Total,North East Asia,Hong Kong,8545
+2006-10,Total,North East Asia,Japan,8216
+2006-10,Total,Europe,France,805
+2006-10,Total,Europe,Germany,1822
+2006-10,Total,Europe,United Kingdom,1672
+2006-11,Total,South East Asia,Indonesia,5242
+2006-11,Total,South East Asia,Malaysia,3618
+2006-11,Total,South East Asia,Philippines,2821
+2006-11,Total,South East Asia,Thailand,4425
+2006-11,Total,South East Asia,Vietnam,497
+2006-11,Total,North East Asia,China,8550
+2006-11,Total,North East Asia,Hong Kong,9753
+2006-11,Total,North East Asia,Japan,7723
+2006-11,Total,Europe,France,802
+2006-11,Total,Europe,Germany,1638
+2006-11,Total,Europe,United Kingdom,1696
+2006-12,Total,South East Asia,Indonesia,5195
+2006-12,Total,South East Asia,Malaysia,3582
+2006-12,Total,South East Asia,Philippines,2668
+2006-12,Total,South East Asia,Thailand,4556
+2006-12,Total,South East Asia,Vietnam,429
+2006-12,Total,North East Asia,China,7989
+2006-12,Total,North East Asia,Hong Kong,9038
+2006-12,Total,North East Asia,Japan,8174
+2006-12,Total,Europe,France,968
+2006-12,Total,Europe,Germany,1648
+2006-12,Total,Europe,United Kingdom,1442
+2007-01,Total,South East Asia,Indonesia,4906
+2007-01,Total,South East Asia,Malaysia,3279
+2007-01,Total,South East Asia,Philippines,2709
+2007-01,Total,South East Asia,Thailand,4219
+2007-01,Total,South East Asia,Vietnam,544
+2007-01,Total,North East Asia,China,6144
+2007-01,Total,North East Asia,Hong Kong,7476
+2007-01,Total,North East Asia,Japan,6695
+2007-01,Total,Europe,France,829
+2007-01,Total,Europe,Germany,1496
+2007-01,Total,Europe,United Kingdom,1161
+2007-02,Total,South East Asia,Indonesia,4522
+2007-02,Total,South East Asia,Malaysia,3220
+2007-02,Total,South East Asia,Philippines,2349
+2007-02,Total,South East Asia,Thailand,3903
+2007-02,Total,South East Asia,Vietnam,454
+2007-02,Total,North East Asia,China,5510
+2007-02,Total,North East Asia,Hong Kong,6285
+2007-02,Total,North East Asia,Japan,6810
+2007-02,Total,Europe,France,958
+2007-02,Total,Europe,Germany,1526
+2007-02,Total,Europe,United Kingdom,1379
+2007-03,Total,South East Asia,Indonesia,5380
+2007-03,Total,South East Asia,Malaysia,3735
+2007-03,Total,South East Asia,Philippines,2749
+2007-03,Total,South East Asia,Thailand,4222
+2007-03,Total,South East Asia,Vietnam,751
+2007-03,Total,North East Asia,China,7813
+2007-03,Total,North East Asia,Hong Kong,8715
+2007-03,Total,North East Asia,Japan,8068
+2007-03,Total,Europe,France,1034
+2007-03,Total,Europe,Germany,1810
+2007-03,Total,Europe,United Kingdom,1517
+2007-04,Total,South East Asia,Indonesia,4688
+2007-04,Total,South East Asia,Malaysia,3171
+2007-04,Total,South East Asia,Philippines,2570
+2007-04,Total,South East Asia,Thailand,3820
+2007-04,Total,South East Asia,Vietnam,656
+2007-04,Total,North East Asia,China,7773
+2007-04,Total,North East Asia,Hong Kong,8243
+2007-04,Total,North East Asia,Japan,6858
+2007-04,Total,Europe,France,1032
+2007-04,Total,Europe,Germany,1974
+2007-04,Total,Europe,United Kingdom,1368
+2007-05,Total,South East Asia,Indonesia,4697
+2007-05,Total,South East Asia,Malaysia,3191
+2007-05,Total,South East Asia,Philippines,2738
+2007-05,Total,South East Asia,Thailand,4066
+2007-05,Total,South East Asia,Vietnam,636
+2007-05,Total,North East Asia,China,7489
+2007-05,Total,North East Asia,Hong Kong,8403
+2007-05,Total,North East Asia,Japan,6112
+2007-05,Total,Europe,France,961
+2007-05,Total,Europe,Germany,1812
+2007-05,Total,Europe,United Kingdom,1402
+2007-06,Total,South East Asia,Indonesia,4668
+2007-06,Total,South East Asia,Malaysia,3526
+2007-06,Total,South East Asia,Philippines,2746
+2007-06,Total,South East Asia,Thailand,4319
+2007-06,Total,South East Asia,Vietnam,733
+2007-06,Total,North East Asia,China,8500
+2007-06,Total,North East Asia,Hong Kong,8806
+2007-06,Total,North East Asia,Japan,7630
+2007-06,Total,Europe,France,1130
+2007-06,Total,Europe,Germany,1884
+2007-06,Total,Europe,United Kingdom,1620
+2007-07,Total,South East Asia,Indonesia,4722
+2007-07,Total,South East Asia,Malaysia,3289
+2007-07,Total,South East Asia,Philippines,2789
+2007-07,Total,South East Asia,Thailand,4381
+2007-07,Total,South East Asia,Vietnam,816
+2007-07,Total,North East Asia,China,8609
+2007-07,Total,North East Asia,Hong Kong,9034
+2007-07,Total,North East Asia,Japan,7103
+2007-07,Total,Europe,France,1140
+2007-07,Total,Europe,Germany,1785
+2007-07,Total,Europe,United Kingdom,1526
+2007-08,Total,South East Asia,Indonesia,4871
+2007-08,Total,South East Asia,Malaysia,3429
+2007-08,Total,South East Asia,Philippines,2795
+2007-08,Total,South East Asia,Thailand,4808
+2007-08,Total,South East Asia,Vietnam,877
+2007-08,Total,North East Asia,China,8505
+2007-08,Total,North East Asia,Hong Kong,9824
+2007-08,Total,North East Asia,Japan,7167
+2007-08,Total,Europe,France,1035
+2007-08,Total,Europe,Germany,1594
+2007-08,Total,Europe,United Kingdom,1770
+2007-09,Total,South East Asia,Indonesia,5353
+2007-09,Total,South East Asia,Malaysia,3063
+2007-09,Total,South East Asia,Philippines,2664
+2007-09,Total,South East Asia,Thailand,4914
+2007-09,Total,South East Asia,Vietnam,741
+2007-09,Total,North East Asia,China,8693
+2007-09,Total,North East Asia,Hong Kong,10287
+2007-09,Total,North East Asia,Japan,7719
+2007-09,Total,Europe,France,1068
+2007-09,Total,Europe,Germany,1698
+2007-09,Total,Europe,United Kingdom,1620
+2007-10,Total,South East Asia,Indonesia,4700
+2007-10,Total,South East Asia,Malaysia,3369
+2007-10,Total,South East Asia,Philippines,2899
+2007-10,Total,South East Asia,Thailand,5201
+2007-10,Total,South East Asia,Vietnam,641
+2007-10,Total,North East Asia,China,7937
+2007-10,Total,North East Asia,Hong Kong,10665
+2007-10,Total,North East Asia,Japan,7692
+2007-10,Total,Europe,France,1207
+2007-10,Total,Europe,Germany,1799
+2007-10,Total,Europe,United Kingdom,1783
+2007-11,Total,South East Asia,Indonesia,5970
+2007-11,Total,South East Asia,Malaysia,3447
+2007-11,Total,South East Asia,Philippines,2741
+2007-11,Total,South East Asia,Thailand,4986
+2007-11,Total,South East Asia,Vietnam,590
+2007-11,Total,North East Asia,China,9259
+2007-11,Total,North East Asia,Hong Kong,10947
+2007-11,Total,North East Asia,Japan,7556
+2007-11,Total,Europe,France,1149
+2007-11,Total,Europe,Germany,1637
+2007-11,Total,Europe,United Kingdom,1578
+2007-12,Total,South East Asia,Indonesia,5769
+2007-12,Total,South East Asia,Malaysia,3398
+2007-12,Total,South East Asia,Philippines,2636
+2007-12,Total,South East Asia,Thailand,5083
+2007-12,Total,South East Asia,Vietnam,480
+2007-12,Total,North East Asia,China,8348
+2007-12,Total,North East Asia,Hong Kong,9640
+2007-12,Total,North East Asia,Japan,7687
+2007-12,Total,Europe,France,1181
+2007-12,Total,Europe,Germany,1719
+2007-12,Total,Europe,United Kingdom,1581
+2008-01,Total,South East Asia,Indonesia,5174
+2008-01,Total,South East Asia,Malaysia,2870
+2008-01,Total,South East Asia,Philippines,2576
+2008-01,Total,South East Asia,Thailand,5155
+2008-01,Total,South East Asia,Vietnam,616
+2008-01,Total,North East Asia,China,7812
+2008-01,Total,North East Asia,Hong Kong,8765
+2008-01,Total,North East Asia,Japan,6961
+2008-01,Total,Europe,France,1018
+2008-01,Total,Europe,Germany,1549
+2008-01,Total,Europe,United Kingdom,1388
+2008-02,Total,South East Asia,Indonesia,4349
+2008-02,Total,South East Asia,Malaysia,2511
+2008-02,Total,South East Asia,Philippines,2321
+2008-02,Total,South East Asia,Thailand,4826
+2008-02,Total,South East Asia,Vietnam,549
+2008-02,Total,North East Asia,China,6808
+2008-02,Total,North East Asia,Hong Kong,7356
+2008-02,Total,North East Asia,Japan,7793
+2008-02,Total,Europe,France,1142
+2008-02,Total,Europe,Germany,1653
+2008-02,Total,Europe,United Kingdom,1508
+2008-03,Total,South East Asia,Indonesia,5915
+2008-03,Total,South East Asia,Malaysia,2915
+2008-03,Total,South East Asia,Philippines,2226
+2008-03,Total,South East Asia,Thailand,5065
+2008-03,Total,South East Asia,Vietnam,745
+2008-03,Total,North East Asia,China,9311
+2008-03,Total,North East Asia,Hong Kong,10299
+2008-03,Total,North East Asia,Japan,8371
+2008-03,Total,Europe,France,1245
+2008-03,Total,Europe,Germany,1674
+2008-03,Total,Europe,United Kingdom,1738
+2008-04,Total,South East Asia,Indonesia,5049
+2008-04,Total,South East Asia,Malaysia,2903
+2008-04,Total,South East Asia,Philippines,2402
+2008-04,Total,South East Asia,Thailand,4556
+2008-04,Total,South East Asia,Vietnam,752
+2008-04,Total,North East Asia,China,8372
+2008-04,Total,North East Asia,Hong Kong,9546
+2008-04,Total,North East Asia,Japan,7980
+2008-04,Total,Europe,France,1038
+2008-04,Total,Europe,Germany,1599
+2008-04,Total,Europe,United Kingdom,1514
+2008-05,Total,South East Asia,Indonesia,4936
+2008-05,Total,South East Asia,Malaysia,2979
+2008-05,Total,South East Asia,Philippines,2448
+2008-05,Total,South East Asia,Thailand,5195
+2008-05,Total,South East Asia,Vietnam,668
+2008-05,Total,North East Asia,China,8529
+2008-05,Total,North East Asia,Hong Kong,9756
+2008-05,Total,North East Asia,Japan,7820
+2008-05,Total,Europe,France,1072
+2008-05,Total,Europe,Germany,1478
+2008-05,Total,Europe,United Kingdom,1581
+2008-06,Total,South East Asia,Indonesia,4560
+2008-06,Total,South East Asia,Malaysia,3034
+2008-06,Total,South East Asia,Philippines,2475
+2008-06,Total,South East Asia,Thailand,5068
+2008-06,Total,South East Asia,Vietnam,1100
+2008-06,Total,North East Asia,China,8406
+2008-06,Total,North East Asia,Hong Kong,9605
+2008-06,Total,North East Asia,Japan,7908
+2008-06,Total,Europe,France,1210
+2008-06,Total,Europe,Germany,1873
+2008-06,Total,Europe,United Kingdom,1604
+2008-07,Total,South East Asia,Indonesia,4674
+2008-07,Total,South East Asia,Malaysia,3273
+2008-07,Total,South East Asia,Philippines,2608
+2008-07,Total,South East Asia,Thailand,5065
+2008-07,Total,South East Asia,Vietnam,1192
+2008-07,Total,North East Asia,China,8281
+2008-07,Total,North East Asia,Hong Kong,9752
+2008-07,Total,North East Asia,Japan,8084
+2008-07,Total,Europe,France,1131
+2008-07,Total,Europe,Germany,1786
+2008-07,Total,Europe,United Kingdom,1590
+2008-08,Total,South East Asia,Indonesia,4912
+2008-08,Total,South East Asia,Malaysia,3005
+2008-08,Total,South East Asia,Philippines,2463
+2008-08,Total,South East Asia,Thailand,5106
+2008-08,Total,South East Asia,Vietnam,1330
+2008-08,Total,North East Asia,China,9110
+2008-08,Total,North East Asia,Hong Kong,9700
+2008-08,Total,North East Asia,Japan,7729
+2008-08,Total,Europe,France,1021
+2008-08,Total,Europe,Germany,1594
+2008-08,Total,Europe,United Kingdom,1514
+2008-09,Total,South East Asia,Indonesia,5403
+2008-09,Total,South East Asia,Malaysia,2846
+2008-09,Total,South East Asia,Philippines,2536
+2008-09,Total,South East Asia,Thailand,4721
+2008-09,Total,South East Asia,Vietnam,946
+2008-09,Total,North East Asia,China,9077
+2008-09,Total,North East Asia,Hong Kong,9634
+2008-09,Total,North East Asia,Japan,6401
+2008-09,Total,Europe,France,1044
+2008-09,Total,Europe,Germany,1764
+2008-09,Total,Europe,United Kingdom,1474
+2008-10,Total,South East Asia,Indonesia,4489
+2008-10,Total,South East Asia,Malaysia,2417
+2008-10,Total,South East Asia,Philippines,2479
+2008-10,Total,South East Asia,Thailand,4526
+2008-10,Total,South East Asia,Vietnam,870
+2008-10,Total,North East Asia,China,7879
+2008-10,Total,North East Asia,Hong Kong,9076
+2008-10,Total,North East Asia,Japan,6629
+2008-10,Total,Europe,France,1076
+2008-10,Total,Europe,Germany,1740
+2008-10,Total,Europe,United Kingdom,1539
+2008-11,Total,South East Asia,Indonesia,5102
+2008-11,Total,South East Asia,Malaysia,2447
+2008-11,Total,South East Asia,Philippines,2242
+2008-11,Total,South East Asia,Thailand,3779
+2008-11,Total,South East Asia,Vietnam,741
+2008-11,Total,North East Asia,China,7475
+2008-11,Total,North East Asia,Hong Kong,9040
+2008-11,Total,North East Asia,Japan,5682
+2008-11,Total,Europe,France,994
+2008-11,Total,Europe,Germany,1653
+2008-11,Total,Europe,United Kingdom,1442
+2008-12,Total,South East Asia,Indonesia,4760
+2008-12,Total,South East Asia,Malaysia,2250
+2008-12,Total,South East Asia,Philippines,1828
+2008-12,Total,South East Asia,Thailand,3480
+2008-12,Total,South East Asia,Vietnam,665
+2008-12,Total,North East Asia,China,6208
+2008-12,Total,North East Asia,Hong Kong,6794
+2008-12,Total,North East Asia,Japan,4486
+2008-12,Total,Europe,France,1080
+2008-12,Total,Europe,Germany,1540
+2008-12,Total,Europe,United Kingdom,1287
+2009-01,Total,South East Asia,Indonesia,4768
+2009-01,Total,South East Asia,Malaysia,2174
+2009-01,Total,South East Asia,Philippines,1537
+2009-01,Total,South East Asia,Thailand,3036
+2009-01,Total,South East Asia,Vietnam,722
+2009-01,Total,North East Asia,China,6188
+2009-01,Total,North East Asia,Hong Kong,6722
+2009-01,Total,North East Asia,Japan,3517
+2009-01,Total,Europe,France,889
+2009-01,Total,Europe,Germany,1169
+2009-01,Total,Europe,United Kingdom,1251
+2009-02,Total,South East Asia,Indonesia,3803
+2009-02,Total,South East Asia,Malaysia,1876
+2009-02,Total,South East Asia,Philippines,795
+2009-02,Total,South East Asia,Thailand,2923
+2009-02,Total,South East Asia,Vietnam,733
+2009-02,Total,North East Asia,China,6131
+2009-02,Total,North East Asia,Hong Kong,5785
+2009-02,Total,North East Asia,Japan,3733
+2009-02,Total,Europe,France,970
+2009-02,Total,Europe,Germany,1285
+2009-02,Total,Europe,United Kingdom,1238
+2009-03,Total,South East Asia,Indonesia,4467
+2009-03,Total,South East Asia,Malaysia,2158
+2009-03,Total,South East Asia,Philippines,720
+2009-03,Total,South East Asia,Thailand,3480
+2009-03,Total,South East Asia,Vietnam,779
+2009-03,Total,North East Asia,China,8691
+2009-03,Total,North East Asia,Hong Kong,7776
+2009-03,Total,North East Asia,Japan,3839
+2009-03,Total,Europe,France,1108
+2009-03,Total,Europe,Germany,1535
+2009-03,Total,Europe,United Kingdom,1752
+2009-04,Total,South East Asia,Indonesia,4224
+2009-04,Total,South East Asia,Malaysia,2363
+2009-04,Total,South East Asia,Philippines,799
+2009-04,Total,South East Asia,Thailand,3387
+2009-04,Total,South East Asia,Vietnam,569
+2009-04,Total,North East Asia,China,8498
+2009-04,Total,North East Asia,Hong Kong,7832
+2009-04,Total,North East Asia,Japan,4198
+2009-04,Total,Europe,France,1114
+2009-04,Total,Europe,Germany,1388
+2009-04,Total,Europe,United Kingdom,1292
+2009-05,Total,South East Asia,Indonesia,4472
+2009-05,Total,South East Asia,Malaysia,2213
+2009-05,Total,South East Asia,Philippines,968
+2009-05,Total,South East Asia,Thailand,3917
+2009-05,Total,South East Asia,Vietnam,683
+2009-05,Total,North East Asia,China,9277
+2009-05,Total,North East Asia,Hong Kong,8467
+2009-05,Total,North East Asia,Japan,4826
+2009-05,Total,Europe,France,1127
+2009-05,Total,Europe,Germany,1499
+2009-05,Total,Europe,United Kingdom,1507
+2009-06,Total,South East Asia,Indonesia,4422
+2009-06,Total,South East Asia,Malaysia,1837
+2009-06,Total,South East Asia,Philippines,1012
+2009-06,Total,South East Asia,Thailand,3952
+2009-06,Total,South East Asia,Vietnam,886
+2009-06,Total,North East Asia,China,9272
+2009-06,Total,North East Asia,Hong Kong,8921
+2009-06,Total,North East Asia,Japan,5432
+2009-06,Total,Europe,France,805
+2009-06,Total,Europe,Germany,1481
+2009-06,Total,Europe,United Kingdom,1539
+2009-07,Total,South East Asia,Indonesia,4412
+2009-07,Total,South East Asia,Malaysia,2062
+2009-07,Total,South East Asia,Philippines,1020
+2009-07,Total,South East Asia,Thailand,3986
+2009-07,Total,South East Asia,Vietnam,1031
+2009-07,Total,North East Asia,China,9926
+2009-07,Total,North East Asia,Hong Kong,9013
+2009-07,Total,North East Asia,Japan,5856
+2009-07,Total,Europe,France,828
+2009-07,Total,Europe,Germany,1572
+2009-07,Total,Europe,United Kingdom,1631
+2009-08,Total,South East Asia,Indonesia,4757
+2009-08,Total,South East Asia,Malaysia,2002
+2009-08,Total,South East Asia,Philippines,1215
+2009-08,Total,South East Asia,Thailand,4128
+2009-08,Total,South East Asia,Vietnam,1072
+2009-08,Total,North East Asia,China,10145
+2009-08,Total,North East Asia,Hong Kong,9355
+2009-08,Total,North East Asia,Japan,5551
+2009-08,Total,Europe,France,757
+2009-08,Total,Europe,Germany,1563
+2009-08,Total,Europe,United Kingdom,1671
+2009-09,Total,South East Asia,Indonesia,4168
+2009-09,Total,South East Asia,Malaysia,2113
+2009-09,Total,South East Asia,Philippines,1347
+2009-09,Total,South East Asia,Thailand,3995
+2009-09,Total,South East Asia,Vietnam,1064
+2009-09,Total,North East Asia,China,9855
+2009-09,Total,North East Asia,Hong Kong,9275
+2009-09,Total,North East Asia,Japan,5570
+2009-09,Total,Europe,France,699
+2009-09,Total,Europe,Germany,1447
+2009-09,Total,Europe,United Kingdom,1736
+2009-10,Total,South East Asia,Indonesia,5303
+2009-10,Total,South East Asia,Malaysia,2270
+2009-10,Total,South East Asia,Philippines,1409
+2009-10,Total,South East Asia,Thailand,4221
+2009-10,Total,South East Asia,Vietnam,1255
+2009-10,Total,North East Asia,China,10431
+2009-10,Total,North East Asia,Hong Kong,9419
+2009-10,Total,North East Asia,Japan,6581
+2009-10,Total,Europe,France,721
+2009-10,Total,Europe,Germany,1477
+2009-10,Total,Europe,United Kingdom,1787
+2009-11,Total,South East Asia,Indonesia,4876
+2009-11,Total,South East Asia,Malaysia,1984
+2009-11,Total,South East Asia,Philippines,1553
+2009-11,Total,South East Asia,Thailand,3963
+2009-11,Total,South East Asia,Vietnam,1153
+2009-11,Total,North East Asia,China,11218
+2009-11,Total,North East Asia,Hong Kong,10205
+2009-11,Total,North East Asia,Japan,5943
+2009-11,Total,Europe,France,754
+2009-11,Total,Europe,Germany,1460
+2009-11,Total,Europe,United Kingdom,1695
+2009-12,Total,South East Asia,Indonesia,5100
+2009-12,Total,South East Asia,Malaysia,1720
+2009-12,Total,South East Asia,Philippines,1303
+2009-12,Total,South East Asia,Thailand,4124
+2009-12,Total,South East Asia,Vietnam,1013
+2009-12,Total,North East Asia,China,9879
+2009-12,Total,North East Asia,Hong Kong,9622
+2009-12,Total,North East Asia,Japan,6031
+2009-12,Total,Europe,France,763
+2009-12,Total,Europe,Germany,1451
+2009-12,Total,Europe,United Kingdom,1687
+2010-01,Total,South East Asia,Indonesia,4449
+2010-01,Total,South East Asia,Malaysia,1364
+2010-01,Total,South East Asia,Philippines,1343
+2010-01,Total,South East Asia,Thailand,4176
+2010-01,Total,South East Asia,Vietnam,1116
+2010-01,Total,North East Asia,China,9502
+2010-01,Total,North East Asia,Hong Kong,9303
+2010-01,Total,North East Asia,Japan,5851
+2010-01,Total,Europe,France,705
+2010-01,Total,Europe,Germany,1348
+2010-01,Total,Europe,United Kingdom,1500
+2010-02,Total,South East Asia,Indonesia,4739
+2010-02,Total,South East Asia,Malaysia,1576
+2010-02,Total,South East Asia,Philippines,1309
+2010-02,Total,South East Asia,Thailand,3920
+2010-02,Total,South East Asia,Vietnam,705
+2010-02,Total,North East Asia,China,8027
+2010-02,Total,North East Asia,Hong Kong,8057
+2010-02,Total,North East Asia,Japan,5686
+2010-02,Total,Europe,France,763
+2010-02,Total,Europe,Germany,1363
+2010-02,Total,Europe,United Kingdom,1513
+2010-03,Total,South East Asia,Indonesia,4974
+2010-03,Total,South East Asia,Malaysia,1646
+2010-03,Total,South East Asia,Philippines,1380
+2010-03,Total,South East Asia,Thailand,4166
+2010-03,Total,South East Asia,Vietnam,1071
+2010-03,Total,North East Asia,China,10657
+2010-03,Total,North East Asia,Hong Kong,10063
+2010-03,Total,North East Asia,Japan,6666
+2010-03,Total,Europe,France,788
+2010-03,Total,Europe,Germany,1605
+2010-03,Total,Europe,United Kingdom,1966
+2010-04,Total,South East Asia,Indonesia,4545
+2010-04,Total,South East Asia,Malaysia,1458
+2010-04,Total,South East Asia,Philippines,1181
+2010-04,Total,South East Asia,Thailand,3941
+2010-04,Total,South East Asia,Vietnam,1181
+2010-04,Total,North East Asia,China,11835
+2010-04,Total,North East Asia,Hong Kong,9872
+2010-04,Total,North East Asia,Japan,6166
+2010-04,Total,Europe,France,646
+2010-04,Total,Europe,Germany,1530
+2010-04,Total,Europe,United Kingdom,1622
+2010-05,Total,South East Asia,Indonesia,4494
+2010-05,Total,South East Asia,Malaysia,1527
+2010-05,Total,South East Asia,Philippines,1259
+2010-05,Total,South East Asia,Thailand,4098
+2010-05,Total,South East Asia,Vietnam,1189
+2010-05,Total,North East Asia,China,11773
+2010-05,Total,North East Asia,Hong Kong,9973
+2010-05,Total,North East Asia,Japan,5955
+2010-05,Total,Europe,France,754
+2010-05,Total,Europe,Germany,1849
+2010-05,Total,Europe,United Kingdom,1855
+2010-06,Total,South East Asia,Indonesia,4615
+2010-06,Total,South East Asia,Malaysia,1443
+2010-06,Total,South East Asia,Philippines,1327
+2010-06,Total,South East Asia,Thailand,3701
+2010-06,Total,South East Asia,Vietnam,1287
+2010-06,Total,North East Asia,China,10616
+2010-06,Total,North East Asia,Hong Kong,10023
+2010-06,Total,North East Asia,Japan,6267
+2010-06,Total,Europe,France,699
+2010-06,Total,Europe,Germany,1749
+2010-06,Total,Europe,United Kingdom,1632
+2010-07,Total,South East Asia,Indonesia,5049
+2010-07,Total,South East Asia,Malaysia,1550
+2010-07,Total,South East Asia,Philippines,1271
+2010-07,Total,South East Asia,Thailand,4116
+2010-07,Total,South East Asia,Vietnam,1623
+2010-07,Total,North East Asia,China,11333
+2010-07,Total,North East Asia,Hong Kong,10670
+2010-07,Total,North East Asia,Japan,5877
+2010-07,Total,Europe,France,752
+2010-07,Total,Europe,Germany,1731
+2010-07,Total,Europe,United Kingdom,1812
+2010-08,Total,South East Asia,Indonesia,5075
+2010-08,Total,South East Asia,Malaysia,1636
+2010-08,Total,South East Asia,Philippines,1258
+2010-08,Total,South East Asia,Thailand,3933
+2010-08,Total,South East Asia,Vietnam,1764
+2010-08,Total,North East Asia,China,11497
+2010-08,Total,North East Asia,Hong Kong,11144
+2010-08,Total,North East Asia,Japan,5179
+2010-08,Total,Europe,France,701
+2010-08,Total,Europe,Germany,1703
+2010-08,Total,Europe,United Kingdom,1888
+2010-09,Total,South East Asia,Indonesia,4831
+2010-09,Total,South East Asia,Malaysia,1586
+2010-09,Total,South East Asia,Philippines,1259
+2010-09,Total,South East Asia,Thailand,4097
+2010-09,Total,South East Asia,Vietnam,1249
+2010-09,Total,North East Asia,China,10761
+2010-09,Total,North East Asia,Hong Kong,9744
+2010-09,Total,North East Asia,Japan,5374
+2010-09,Total,Europe,France,704
+2010-09,Total,Europe,Germany,1710
+2010-09,Total,Europe,United Kingdom,1989
+2010-10,Total,South East Asia,Indonesia,6204
+2010-10,Total,South East Asia,Malaysia,1592
+2010-10,Total,South East Asia,Philippines,1267
+2010-10,Total,South East Asia,Thailand,4393
+2010-10,Total,South East Asia,Vietnam,1200
+2010-10,Total,North East Asia,China,10366
+2010-10,Total,North East Asia,Hong Kong,10336
+2010-10,Total,North East Asia,Japan,5704
+2010-10,Total,Europe,France,752
+2010-10,Total,Europe,Germany,1924
+2010-10,Total,Europe,United Kingdom,2108
+2010-11,Total,South East Asia,Indonesia,5323
+2010-11,Total,South East Asia,Malaysia,1538
+2010-11,Total,South East Asia,Philippines,1149
+2010-11,Total,South East Asia,Thailand,4538
+2010-11,Total,South East Asia,Vietnam,1117
+2010-11,Total,North East Asia,China,9839
+2010-11,Total,North East Asia,Hong Kong,10201
+2010-11,Total,North East Asia,Japan,5529
+2010-11,Total,Europe,France,861
+2010-11,Total,Europe,Germany,2200
+2010-11,Total,Europe,United Kingdom,1836
+2010-12,Total,South East Asia,Indonesia,5070
+2010-12,Total,South East Asia,Malaysia,1496
+2010-12,Total,South East Asia,Philippines,1125
+2010-12,Total,South East Asia,Thailand,4883
+2010-12,Total,South East Asia,Vietnam,1083
+2010-12,Total,North East Asia,China,10429
+2010-12,Total,North East Asia,Hong Kong,10463
+2010-12,Total,North East Asia,Japan,5745
+2010-12,Total,Europe,France,823
+2010-12,Total,Europe,Germany,1914
+2010-12,Total,Europe,United Kingdom,1802
+2011-01,Total,South East Asia,Indonesia,4806
+2011-01,Total,South East Asia,Malaysia,1374
+2011-01,Total,South East Asia,Philippines,1146
+2011-01,Total,South East Asia,Thailand,4764
+2011-01,Total,South East Asia,Vietnam,1109
+2011-01,Total,North East Asia,China,10554
+2011-01,Total,North East Asia,Hong Kong,10213
+2011-01,Total,North East Asia,Japan,4942
+2011-01,Total,Europe,France,926
+2011-01,Total,Europe,Germany,1949
+2011-01,Total,Europe,United Kingdom,1717
+2011-02,Total,South East Asia,Indonesia,4419
+2011-02,Total,South East Asia,Malaysia,1138
+2011-02,Total,South East Asia,Philippines,1038
+2011-02,Total,South East Asia,Thailand,4396
+2011-02,Total,South East Asia,Vietnam,731
+2011-02,Total,North East Asia,China,7534
+2011-02,Total,North East Asia,Hong Kong,7130
+2011-02,Total,North East Asia,Japan,5382
+2011-02,Total,Europe,France,829
+2011-02,Total,Europe,Germany,2029
+2011-02,Total,Europe,United Kingdom,1873
+2011-03,Total,South East Asia,Indonesia,6002
+2011-03,Total,South East Asia,Malaysia,1613
+2011-03,Total,South East Asia,Philippines,1144
+2011-03,Total,South East Asia,Thailand,4546
+2011-03,Total,South East Asia,Vietnam,1014
+2011-03,Total,North East Asia,China,12056
+2011-03,Total,North East Asia,Hong Kong,11515
+2011-03,Total,North East Asia,Japan,5678
+2011-03,Total,Europe,France,841
+2011-03,Total,Europe,Germany,2094
+2011-03,Total,Europe,United Kingdom,2113
+2011-04,Total,South East Asia,Indonesia,5368
+2011-04,Total,South East Asia,Malaysia,1412
+2011-04,Total,South East Asia,Philippines,1031
+2011-04,Total,South East Asia,Thailand,4300
+2011-04,Total,South East Asia,Vietnam,1105
+2011-04,Total,North East Asia,China,12053
+2011-04,Total,North East Asia,Hong Kong,10403
+2011-04,Total,North East Asia,Japan,6446
+2011-04,Total,Europe,France,840
+2011-04,Total,Europe,Germany,1801
+2011-04,Total,Europe,United Kingdom,2129
+2011-05,Total,South East Asia,Indonesia,4712
+2011-05,Total,South East Asia,Malaysia,1523
+2011-05,Total,South East Asia,Philippines,1197
+2011-05,Total,South East Asia,Thailand,4647
+2011-05,Total,South East Asia,Vietnam,960
+2011-05,Total,North East Asia,China,11997
+2011-05,Total,North East Asia,Hong Kong,10967
+2011-05,Total,North East Asia,Japan,5717
+2011-05,Total,Europe,France,888
+2011-05,Total,Europe,Germany,2193
+2011-05,Total,Europe,United Kingdom,1991
+2011-06,Total,South East Asia,Indonesia,4448
+2011-06,Total,South East Asia,Malaysia,1438
+2011-06,Total,South East Asia,Philippines,1241
+2011-06,Total,South East Asia,Thailand,4715
+2011-06,Total,South East Asia,Vietnam,1023
+2011-06,Total,North East Asia,China,11537
+2011-06,Total,North East Asia,Hong Kong,10618
+2011-06,Total,North East Asia,Japan,6470
+2011-06,Total,Europe,France,789
+2011-06,Total,Europe,Germany,1579
+2011-06,Total,Europe,United Kingdom,1783
+2011-07,Total,South East Asia,Indonesia,4443
+2011-07,Total,South East Asia,Malaysia,1687
+2011-07,Total,South East Asia,Philippines,1295
+2011-07,Total,South East Asia,Thailand,4514
+2011-07,Total,South East Asia,Vietnam,1143
+2011-07,Total,North East Asia,China,12543
+2011-07,Total,North East Asia,Hong Kong,11548
+2011-07,Total,North East Asia,Japan,6178
+2011-07,Total,Europe,France,707
+2011-07,Total,Europe,Germany,1934
+2011-07,Total,Europe,United Kingdom,1852
+2011-08,Total,South East Asia,Indonesia,4522
+2011-08,Total,South East Asia,Malaysia,1638
+2011-08,Total,South East Asia,Philippines,1213
+2011-08,Total,South East Asia,Thailand,4225
+2011-08,Total,South East Asia,Vietnam,1164
+2011-08,Total,North East Asia,China,12152
+2011-08,Total,North East Asia,Hong Kong,10697
+2011-08,Total,North East Asia,Japan,5559
+2011-08,Total,Europe,France,796
+2011-08,Total,Europe,Germany,1867
+2011-08,Total,Europe,United Kingdom,1819
+2011-09,Total,South East Asia,Indonesia,4601
+2011-09,Total,South East Asia,Malaysia,1652
+2011-09,Total,South East Asia,Philippines,1106
+2011-09,Total,South East Asia,Thailand,4398
+2011-09,Total,South East Asia,Vietnam,1183
+2011-09,Total,North East Asia,China,12164
+2011-09,Total,North East Asia,Hong Kong,10481
+2011-09,Total,North East Asia,Japan,5314
+2011-09,Total,Europe,France,808
+2011-09,Total,Europe,Germany,1892
+2011-09,Total,Europe,United Kingdom,1978
+2011-10,Total,South East Asia,Indonesia,6209
+2011-10,Total,South East Asia,Malaysia,1596
+2011-10,Total,South East Asia,Philippines,1088
+2011-10,Total,South East Asia,Thailand,3944
+2011-10,Total,South East Asia,Vietnam,1206
+2011-10,Total,North East Asia,China,12723
+2011-10,Total,North East Asia,Hong Kong,11188
+2011-10,Total,North East Asia,Japan,5190
+2011-10,Total,Europe,France,745
+2011-10,Total,Europe,Germany,2254
+2011-10,Total,Europe,United Kingdom,2140
+2011-11,Total,South East Asia,Indonesia,6400
+2011-11,Total,South East Asia,Malaysia,1161
+2011-11,Total,South East Asia,Philippines,972
+2011-11,Total,South East Asia,Thailand,3410
+2011-11,Total,South East Asia,Vietnam,1090
+2011-11,Total,North East Asia,China,13106
+2011-11,Total,North East Asia,Hong Kong,11377
+2011-11,Total,North East Asia,Japan,5227
+2011-11,Total,Europe,France,739
+2011-11,Total,Europe,Germany,3170
+2011-11,Total,Europe,United Kingdom,1973
+2011-12,Total,South East Asia,Indonesia,7856
+2011-12,Total,South East Asia,Malaysia,1296
+2011-12,Total,South East Asia,Philippines,1057
+2011-12,Total,South East Asia,Thailand,4611
+2011-12,Total,South East Asia,Vietnam,1175
+2011-12,Total,North East Asia,China,12311
+2011-12,Total,North East Asia,Hong Kong,11912
+2011-12,Total,North East Asia,Japan,5376
+2011-12,Total,Europe,France,805
+2011-12,Total,Europe,Germany,2587
+2011-12,Total,Europe,United Kingdom,1741
+2012-01,Total,South East Asia,Indonesia,5513
+2012-01,Total,South East Asia,Malaysia,1096
+2012-01,Total,South East Asia,Philippines,990
+2012-01,Total,South East Asia,Thailand,4546
+2012-01,Total,South East Asia,Vietnam,890
+2012-01,Total,North East Asia,China,10142
+2012-01,Total,North East Asia,Hong Kong,8836
+2012-01,Total,North East Asia,Japan,4213
+2012-01,Total,Europe,France,614
+2012-01,Total,Europe,Germany,2095
+2012-01,Total,Europe,United Kingdom,1668
+2012-02,Total,South East Asia,Indonesia,4845
+2012-02,Total,South East Asia,Malaysia,1178
+2012-02,Total,South East Asia,Philippines,1048
+2012-02,Total,South East Asia,Thailand,4668
+2012-02,Total,South East Asia,Vietnam,1266
+2012-02,Total,North East Asia,China,9903
+2012-02,Total,North East Asia,Hong Kong,10140
+2012-02,Total,North East Asia,Japan,4879
+2012-02,Total,Europe,France,706
+2012-02,Total,Europe,Germany,2386
+2012-02,Total,Europe,United Kingdom,1950
+2012-03,Total,South East Asia,Indonesia,5322
+2012-03,Total,South East Asia,Malaysia,1417
+2012-03,Total,South East Asia,Philippines,1189
+2012-03,Total,South East Asia,Thailand,5253
+2012-03,Total,South East Asia,Vietnam,1367
+2012-03,Total,North East Asia,China,13333
+2012-03,Total,North East Asia,Hong Kong,12340
+2012-03,Total,North East Asia,Japan,5534
+2012-03,Total,Europe,France,804
+2012-03,Total,Europe,Germany,2422
+2012-03,Total,Europe,United Kingdom,1933
+2012-04,Total,South East Asia,Indonesia,4449
+2012-04,Total,South East Asia,Malaysia,1246
+2012-04,Total,South East Asia,Philippines,1106
+2012-04,Total,South East Asia,Thailand,4543
+2012-04,Total,South East Asia,Vietnam,1243
+2012-04,Total,North East Asia,China,12221
+2012-04,Total,North East Asia,Hong Kong,11180
+2012-04,Total,North East Asia,Japan,5125
+2012-04,Total,Europe,France,678
+2012-04,Total,Europe,Germany,2149
+2012-04,Total,Europe,United Kingdom,1657
+2012-05,Total,South East Asia,Indonesia,4693
+2012-05,Total,South East Asia,Malaysia,1260
+2012-05,Total,South East Asia,Philippines,1152
+2012-05,Total,South East Asia,Thailand,4920
+2012-05,Total,South East Asia,Vietnam,1160
+2012-05,Total,North East Asia,China,12936
+2012-05,Total,North East Asia,Hong Kong,11323
+2012-05,Total,North East Asia,Japan,5023
+2012-05,Total,Europe,France,616
+2012-05,Total,Europe,Germany,2155
+2012-05,Total,Europe,United Kingdom,1816
+2012-06,Total,South East Asia,Indonesia,4213
+2012-06,Total,South East Asia,Malaysia,1193
+2012-06,Total,South East Asia,Philippines,1093
+2012-06,Total,South East Asia,Thailand,4550
+2012-06,Total,South East Asia,Vietnam,1432
+2012-06,Total,North East Asia,China,13495
+2012-06,Total,North East Asia,Hong Kong,11518
+2012-06,Total,North East Asia,Japan,5886
+2012-06,Total,Europe,France,680
+2012-06,Total,Europe,Germany,2196
+2012-06,Total,Europe,United Kingdom,1530
+2012-07,Total,South East Asia,Indonesia,4343
+2012-07,Total,South East Asia,Malaysia,1235
+2012-07,Total,South East Asia,Philippines,1113
+2012-07,Total,South East Asia,Thailand,4783
+2012-07,Total,South East Asia,Vietnam,1393
+2012-07,Total,North East Asia,China,13560
+2012-07,Total,North East Asia,Hong Kong,11259
+2012-07,Total,North East Asia,Japan,5679
+2012-07,Total,Europe,France,681
+2012-07,Total,Europe,Germany,2041
+2012-07,Total,Europe,United Kingdom,1786
+2012-08,Total,South East Asia,Indonesia,4175
+2012-08,Total,South East Asia,Malaysia,1204
+2012-08,Total,South East Asia,Philippines,1102
+2012-08,Total,South East Asia,Thailand,4620
+2012-08,Total,South East Asia,Vietnam,1381
+2012-08,Total,North East Asia,China,13139
+2012-08,Total,North East Asia,Hong Kong,11175
+2012-08,Total,North East Asia,Japan,5077
+2012-08,Total,Europe,France,679
+2012-08,Total,Europe,Germany,1948
+2012-08,Total,Europe,United Kingdom,1675
+2012-09,Total,South East Asia,Indonesia,4823
+2012-09,Total,South East Asia,Malaysia,1244
+2012-09,Total,South East Asia,Philippines,1076
+2012-09,Total,South East Asia,Thailand,4808
+2012-09,Total,South East Asia,Vietnam,1206
+2012-09,Total,North East Asia,China,13719
+2012-09,Total,North East Asia,Hong Kong,12113
+2012-09,Total,North East Asia,Japan,5248
+2012-09,Total,Europe,France,642
+2012-09,Total,Europe,Germany,2033
+2012-09,Total,Europe,United Kingdom,1985
+2012-10,Total,South East Asia,Indonesia,5238
+2012-10,Total,South East Asia,Malaysia,1151
+2012-10,Total,South East Asia,Philippines,965
+2012-10,Total,South East Asia,Thailand,5001
+2012-10,Total,South East Asia,Vietnam,1292
+2012-10,Total,North East Asia,China,13053
+2012-10,Total,North East Asia,Hong Kong,11191
+2012-10,Total,North East Asia,Japan,4707
+2012-10,Total,Europe,France,675
+2012-10,Total,Europe,Germany,2096
+2012-10,Total,Europe,United Kingdom,2096
+2012-11,Total,South East Asia,Indonesia,5345
+2012-11,Total,South East Asia,Malaysia,1117
+2012-11,Total,South East Asia,Philippines,1018
+2012-11,Total,South East Asia,Thailand,4492
+2012-11,Total,South East Asia,Vietnam,1411
+2012-11,Total,North East Asia,China,13911
+2012-11,Total,North East Asia,Hong Kong,12412
+2012-11,Total,North East Asia,Japan,4582
+2012-11,Total,Europe,France,697
+2012-11,Total,Europe,Germany,1940
+2012-11,Total,Europe,United Kingdom,2492
+2012-12,Total,South East Asia,Indonesia,5100
+2012-12,Total,South East Asia,Malaysia,1117
+2012-12,Total,South East Asia,Philippines,797
+2012-12,Total,South East Asia,Thailand,4878
+2012-12,Total,South East Asia,Vietnam,1329
+2012-12,Total,North East Asia,China,12731
+2012-12,Total,North East Asia,Hong Kong,11963
+2012-12,Total,North East Asia,Japan,4821
+2012-12,Total,Europe,France,735
+2012-12,Total,Europe,Germany,1813
+2012-12,Total,Europe,United Kingdom,2314
+2013-01,Total,South East Asia,Indonesia,4701
+2013-01,Total,South East Asia,Malaysia,1017
+2013-01,Total,South East Asia,Philippines,882
+2013-01,Total,South East Asia,Thailand,4500
+2013-01,Total,South East Asia,Vietnam,1576
+2013-01,Total,North East Asia,China,11942
+2013-01,Total,North East Asia,Hong Kong,10573
+2013-01,Total,North East Asia,Japan,4223
+2013-01,Total,Europe,France,619
+2013-01,Total,Europe,Germany,1739
+2013-01,Total,Europe,United Kingdom,2064
+2013-02,Total,South East Asia,Indonesia,4966
+2013-02,Total,South East Asia,Malaysia,1016
+2013-02,Total,South East Asia,Philippines,838
+2013-02,Total,South East Asia,Thailand,4021
+2013-02,Total,South East Asia,Vietnam,1056
+2013-02,Total,North East Asia,China,9081
+2013-02,Total,North East Asia,Hong Kong,8248
+2013-02,Total,North East Asia,Japan,4389
+2013-02,Total,Europe,France,650
+2013-02,Total,Europe,Germany,2042
+2013-02,Total,Europe,United Kingdom,2432
+2013-03,Total,South East Asia,Indonesia,5398
+2013-03,Total,South East Asia,Malaysia,1265
+2013-03,Total,South East Asia,Philippines,944
+2013-03,Total,South East Asia,Thailand,4831
+2013-03,Total,South East Asia,Vietnam,1676
+2013-03,Total,North East Asia,China,13586
+2013-03,Total,North East Asia,Hong Kong,12456
+2013-03,Total,North East Asia,Japan,5710
+2013-03,Total,Europe,France,693
+2013-03,Total,Europe,Germany,2306
+2013-03,Total,Europe,United Kingdom,2947
+2013-04,Total,South East Asia,Indonesia,4721
+2013-04,Total,South East Asia,Malaysia,1074
+2013-04,Total,South East Asia,Philippines,965
+2013-04,Total,South East Asia,Thailand,3934
+2013-04,Total,South East Asia,Vietnam,1313
+2013-04,Total,North East Asia,China,13020
+2013-04,Total,North East Asia,Hong Kong,11614
+2013-04,Total,North East Asia,Japan,4934
+2013-04,Total,Europe,France,704
+2013-04,Total,Europe,Germany,1901
+2013-04,Total,Europe,United Kingdom,2400
+2013-05,Total,South East Asia,Indonesia,4649
+2013-05,Total,South East Asia,Malaysia,1101
+2013-05,Total,South East Asia,Philippines,1071
+2013-05,Total,South East Asia,Thailand,3647
+2013-05,Total,South East Asia,Vietnam,1363
+2013-05,Total,North East Asia,China,12615
+2013-05,Total,North East Asia,Hong Kong,12023
+2013-05,Total,North East Asia,Japan,4944
+2013-05,Total,Europe,France,673
+2013-05,Total,Europe,Germany,2447
+2013-05,Total,Europe,United Kingdom,2151
+2013-06,Total,South East Asia,Indonesia,4388
+2013-06,Total,South East Asia,Malaysia,1159
+2013-06,Total,South East Asia,Philippines,967
+2013-06,Total,South East Asia,Thailand,3753
+2013-06,Total,South East Asia,Vietnam,1407
+2013-06,Total,North East Asia,China,12878
+2013-06,Total,North East Asia,Hong Kong,11950
+2013-06,Total,North East Asia,Japan,5873
+2013-06,Total,Europe,France,612
+2013-06,Total,Europe,Germany,2422
+2013-06,Total,Europe,United Kingdom,2299
+2013-07,Total,South East Asia,Indonesia,4982
+2013-07,Total,South East Asia,Malaysia,1327
+2013-07,Total,South East Asia,Philippines,896
+2013-07,Total,South East Asia,Thailand,3910
+2013-07,Total,South East Asia,Vietnam,1429
+2013-07,Total,North East Asia,China,13895
+2013-07,Total,North East Asia,Hong Kong,11761
+2013-07,Total,North East Asia,Japan,5655
+2013-07,Total,Europe,France,616
+2013-07,Total,Europe,Germany,2624
+2013-07,Total,Europe,United Kingdom,2232
+2013-08,Total,South East Asia,Indonesia,4116
+2013-08,Total,South East Asia,Malaysia,1229
+2013-08,Total,South East Asia,Philippines,930
+2013-08,Total,South East Asia,Thailand,3480
+2013-08,Total,South East Asia,Vietnam,1475
+2013-08,Total,North East Asia,China,13225
+2013-08,Total,North East Asia,Hong Kong,11359
+2013-08,Total,North East Asia,Japan,5407
+2013-08,Total,Europe,France,654
+2013-08,Total,Europe,Germany,2509
+2013-08,Total,Europe,United Kingdom,2062
+2013-09,Total,South East Asia,Indonesia,4817
+2013-09,Total,South East Asia,Malaysia,1214
+2013-09,Total,South East Asia,Philippines,1069
+2013-09,Total,South East Asia,Thailand,3474
+2013-09,Total,South East Asia,Vietnam,1351
+2013-09,Total,North East Asia,China,12817
+2013-09,Total,North East Asia,Hong Kong,11294
+2013-09,Total,North East Asia,Japan,5244
+2013-09,Total,Europe,France,793
+2013-09,Total,Europe,Germany,2477
+2013-09,Total,Europe,United Kingdom,2443
+2013-10,Total,South East Asia,Indonesia,5009
+2013-10,Total,South East Asia,Malaysia,1190
+2013-10,Total,South East Asia,Philippines,994
+2013-10,Total,South East Asia,Thailand,3553
+2013-10,Total,South East Asia,Vietnam,1390
+2013-10,Total,North East Asia,China,13134
+2013-10,Total,North East Asia,Hong Kong,12198
+2013-10,Total,North East Asia,Japan,5791
+2013-10,Total,Europe,France,798
+2013-10,Total,Europe,Germany,2636
+2013-10,Total,Europe,United Kingdom,2017
+2013-11,Total,South East Asia,Indonesia,5147
+2013-11,Total,South East Asia,Malaysia,1098
+2013-11,Total,South East Asia,Philippines,979
+2013-11,Total,South East Asia,Thailand,3526
+2013-11,Total,South East Asia,Vietnam,1586
+2013-11,Total,North East Asia,China,14107
+2013-11,Total,North East Asia,Hong Kong,12902
+2013-11,Total,North East Asia,Japan,5765
+2013-11,Total,Europe,France,798
+2013-11,Total,Europe,Germany,2441
+2013-11,Total,Europe,United Kingdom,2373
+2013-12,Total,South East Asia,Indonesia,4842
+2013-12,Total,South East Asia,Malaysia,1144
+2013-12,Total,South East Asia,Philippines,825
+2013-12,Total,South East Asia,Thailand,3915
+2013-12,Total,South East Asia,Vietnam,1244
+2013-12,Total,North East Asia,China,13419
+2013-12,Total,North East Asia,Hong Kong,12104
+2013-12,Total,North East Asia,Japan,5816
+2013-12,Total,Europe,France,837
+2013-12,Total,Europe,Germany,2022
+2013-12,Total,Europe,United Kingdom,2016
+2014-01,Total,South East Asia,Indonesia,4403
+2014-01,Total,South East Asia,Malaysia,1177
+2014-01,Total,South East Asia,Philippines,820
+2014-01,Total,South East Asia,Thailand,4452
+2014-01,Total,South East Asia,Vietnam,1433
+2014-01,Total,North East Asia,China,13140
+2014-01,Total,North East Asia,Hong Kong,11306
+2014-01,Total,North East Asia,Japan,5054
+2014-01,Total,Europe,France,752
+2014-01,Total,Europe,Germany,1640
+2014-01,Total,Europe,United Kingdom,1853
+2014-02,Total,South East Asia,Indonesia,4243
+2014-02,Total,South East Asia,Malaysia,969
+2014-02,Total,South East Asia,Philippines,816
+2014-02,Total,South East Asia,Thailand,4103
+2014-02,Total,South East Asia,Vietnam,1016
+2014-02,Total,North East Asia,China,8068
+2014-02,Total,North East Asia,Hong Kong,7806
+2014-02,Total,North East Asia,Japan,5268
+2014-02,Total,Europe,France,774
+2014-02,Total,Europe,Germany,1539
+2014-02,Total,Europe,United Kingdom,1870
+2014-03,Total,South East Asia,Indonesia,5117
+2014-03,Total,South East Asia,Malaysia,1347
+2014-03,Total,South East Asia,Philippines,964
+2014-03,Total,South East Asia,Thailand,4739
+2014-03,Total,South East Asia,Vietnam,1644
+2014-03,Total,North East Asia,China,14882
+2014-03,Total,North East Asia,Hong Kong,13057
+2014-03,Total,North East Asia,Japan,6133
+2014-03,Total,Europe,France,884
+2014-03,Total,Europe,Germany,1637
+2014-03,Total,Europe,United Kingdom,2431
+2014-04,Total,South East Asia,Indonesia,4762
+2014-04,Total,South East Asia,Malaysia,1274
+2014-04,Total,South East Asia,Philippines,882
+2014-04,Total,South East Asia,Thailand,4161
+2014-04,Total,South East Asia,Vietnam,1642
+2014-04,Total,North East Asia,China,13604
+2014-04,Total,North East Asia,Hong Kong,11543
+2014-04,Total,North East Asia,Japan,6078
+2014-04,Total,Europe,France,737
+2014-04,Total,Europe,Germany,1312
+2014-04,Total,Europe,United Kingdom,1939
+2014-05,Total,South East Asia,Indonesia,5057
+2014-05,Total,South East Asia,Malaysia,1280
+2014-05,Total,South East Asia,Philippines,1067
+2014-05,Total,South East Asia,Thailand,4883
+2014-05,Total,South East Asia,Vietnam,1635
+2014-05,Total,North East Asia,China,13314
+2014-05,Total,North East Asia,Hong Kong,12258
+2014-05,Total,North East Asia,Japan,6063
+2014-05,Total,Europe,France,731
+2014-05,Total,Europe,Germany,1394
+2014-05,Total,Europe,United Kingdom,2186
+2014-06,Total,South East Asia,Indonesia,4836
+2014-06,Total,South East Asia,Malaysia,1306
+2014-06,Total,South East Asia,Philippines,1044
+2014-06,Total,South East Asia,Thailand,4186
+2014-06,Total,South East Asia,Vietnam,1769
+2014-06,Total,North East Asia,China,13238
+2014-06,Total,North East Asia,Hong Kong,11820
+2014-06,Total,North East Asia,Japan,6166
+2014-06,Total,Europe,France,792
+2014-06,Total,Europe,Germany,1416
+2014-06,Total,Europe,United Kingdom,2243
+2014-07,Total,South East Asia,Indonesia,4598
+2014-07,Total,South East Asia,Malaysia,1235
+2014-07,Total,South East Asia,Philippines,1083
+2014-07,Total,South East Asia,Thailand,4650
+2014-07,Total,South East Asia,Vietnam,1834
+2014-07,Total,North East Asia,China,13388
+2014-07,Total,North East Asia,Hong Kong,12095
+2014-07,Total,North East Asia,Japan,6503
+2014-07,Total,Europe,France,862
+2014-07,Total,Europe,Germany,1345
+2014-07,Total,Europe,United Kingdom,2287
+2014-08,Total,South East Asia,Indonesia,4621
+2014-08,Total,South East Asia,Malaysia,1372
+2014-08,Total,South East Asia,Philippines,1132
+2014-08,Total,South East Asia,Thailand,4312
+2014-08,Total,South East Asia,Vietnam,1895
+2014-08,Total,North East Asia,China,13080
+2014-08,Total,North East Asia,Hong Kong,12454
+2014-08,Total,North East Asia,Japan,6525
+2014-08,Total,Europe,France,822
+2014-08,Total,Europe,Germany,1366
+2014-08,Total,Europe,United Kingdom,2285
+2014-09,Total,South East Asia,Indonesia,5233
+2014-09,Total,South East Asia,Malaysia,1398
+2014-09,Total,South East Asia,Philippines,1028
+2014-09,Total,South East Asia,Thailand,4214
+2014-09,Total,South East Asia,Vietnam,1726
+2014-09,Total,North East Asia,China,13379
+2014-09,Total,North East Asia,Hong Kong,11604
+2014-09,Total,North East Asia,Japan,6234
+2014-09,Total,Europe,France,553
+2014-09,Total,Europe,Germany,1400
+2014-09,Total,Europe,United Kingdom,2241
+2014-10,Total,South East Asia,Indonesia,5129
+2014-10,Total,South East Asia,Malaysia,1284
+2014-10,Total,South East Asia,Philippines,973
+2014-10,Total,South East Asia,Thailand,4883
+2014-10,Total,South East Asia,Vietnam,1914
+2014-10,Total,North East Asia,China,13157
+2014-10,Total,North East Asia,Hong Kong,12180
+2014-10,Total,North East Asia,Japan,6390
+2014-10,Total,Europe,France,717
+2014-10,Total,Europe,Germany,1312
+2014-10,Total,Europe,United Kingdom,2365
+2014-11,Total,South East Asia,Indonesia,4611
+2014-11,Total,South East Asia,Malaysia,1172
+2014-11,Total,South East Asia,Philippines,871
+2014-11,Total,South East Asia,Thailand,4582
+2014-11,Total,South East Asia,Vietnam,1575
+2014-11,Total,North East Asia,China,12681
+2014-11,Total,North East Asia,Hong Kong,11624
+2014-11,Total,North East Asia,Japan,5833
+2014-11,Total,Europe,France,726
+2014-11,Total,Europe,Germany,1116
+2014-11,Total,Europe,United Kingdom,1963
+2014-12,Total,South East Asia,Indonesia,4694
+2014-12,Total,South East Asia,Malaysia,1517
+2014-12,Total,South East Asia,Philippines,1004
+2014-12,Total,South East Asia,Thailand,4764
+2014-12,Total,South East Asia,Vietnam,1385
+2014-12,Total,North East Asia,China,12705
+2014-12,Total,North East Asia,Hong Kong,12308
+2014-12,Total,North East Asia,Japan,6412
+2014-12,Total,Europe,France,745
+2014-12,Total,Europe,Germany,1330
+2014-12,Total,Europe,United Kingdom,1787
+2015-01,Total,South East Asia,Indonesia,5062
+2015-01,Total,South East Asia,Malaysia,1274
+2015-01,Total,South East Asia,Philippines,906
+2015-01,Total,South East Asia,Thailand,4286
+2015-01,Total,South East Asia,Vietnam,1512
+2015-01,Total,North East Asia,China,11632
+2015-01,Total,North East Asia,Hong Kong,11217
+2015-01,Total,North East Asia,Japan,6039
+2015-01,Total,Europe,France,613
+2015-01,Total,Europe,Germany,1064
+2015-01,Total,Europe,United Kingdom,1828
+2015-02,Total,South East Asia,Indonesia,4832
+2015-02,Total,South East Asia,Malaysia,1287
+2015-02,Total,South East Asia,Philippines,824
+2015-02,Total,South East Asia,Thailand,4431
+2015-02,Total,South East Asia,Vietnam,1213
+2015-02,Total,North East Asia,China,9895
+2015-02,Total,North East Asia,Hong Kong,9597
+2015-02,Total,North East Asia,Japan,5864
+2015-02,Total,Europe,France,749
+2015-02,Total,Europe,Germany,1170
+2015-02,Total,Europe,United Kingdom,2113
+2015-03,Total,South East Asia,Indonesia,5247
+2015-03,Total,South East Asia,Malaysia,1619
+2015-03,Total,South East Asia,Philippines,931
+2015-03,Total,South East Asia,Thailand,4813
+2015-03,Total,South East Asia,Vietnam,1730
+2015-03,Total,North East Asia,China,11427
+2015-03,Total,North East Asia,Hong Kong,11674
+2015-03,Total,North East Asia,Japan,7212
+2015-03,Total,Europe,France,774
+2015-03,Total,Europe,Germany,1422
+2015-03,Total,Europe,United Kingdom,2515
+2015-04,Total,South East Asia,Indonesia,4601
+2015-04,Total,South East Asia,Malaysia,1330
+2015-04,Total,South East Asia,Philippines,817
+2015-04,Total,South East Asia,Thailand,4261
+2015-04,Total,South East Asia,Vietnam,1703
+2015-04,Total,North East Asia,China,13387
+2015-04,Total,North East Asia,Hong Kong,11686
+2015-04,Total,North East Asia,Japan,6743
+2015-04,Total,Europe,France,624
+2015-04,Total,Europe,Germany,1322
+2015-04,Total,Europe,United Kingdom,1902
+2015-05,Total,South East Asia,Indonesia,4502
+2015-05,Total,South East Asia,Malaysia,1192
+2015-05,Total,South East Asia,Philippines,899
+2015-05,Total,South East Asia,Thailand,5006
+2015-05,Total,South East Asia,Vietnam,1511
+2015-05,Total,North East Asia,China,13421
+2015-05,Total,North East Asia,Hong Kong,12002
+2015-05,Total,North East Asia,Japan,6708
+2015-05,Total,Europe,France,691
+2015-05,Total,Europe,Germany,1252
+2015-05,Total,Europe,United Kingdom,1963
+2015-06,Total,South East Asia,Indonesia,4168
+2015-06,Total,South East Asia,Malaysia,1321
+2015-06,Total,South East Asia,Philippines,886
+2015-06,Total,South East Asia,Thailand,4218
+2015-06,Total,South East Asia,Vietnam,1559
+2015-06,Total,North East Asia,China,12311
+2015-06,Total,North East Asia,Hong Kong,11248
+2015-06,Total,North East Asia,Japan,6841
+2015-06,Total,Europe,France,721
+2015-06,Total,Europe,Germany,1252
+2015-06,Total,Europe,United Kingdom,1921
+2015-07,Total,South East Asia,Indonesia,3748
+2015-07,Total,South East Asia,Malaysia,1600
+2015-07,Total,South East Asia,Philippines,914
+2015-07,Total,South East Asia,Thailand,4227
+2015-07,Total,South East Asia,Vietnam,1470
+2015-07,Total,North East Asia,China,12336
+2015-07,Total,North East Asia,Hong Kong,11686
+2015-07,Total,North East Asia,Japan,6860
+2015-07,Total,Europe,France,852
+2015-07,Total,Europe,Germany,1242
+2015-07,Total,Europe,United Kingdom,2110
+2015-08,Total,South East Asia,Indonesia,4092
+2015-08,Total,South East Asia,Malaysia,1522
+2015-08,Total,South East Asia,Philippines,933
+2015-08,Total,South East Asia,Thailand,3938
+2015-08,Total,South East Asia,Vietnam,1561
+2015-08,Total,North East Asia,China,12309
+2015-08,Total,North East Asia,Hong Kong,11772
+2015-08,Total,North East Asia,Japan,6471
+2015-08,Total,Europe,France,861
+2015-08,Total,Europe,Germany,1165
+2015-08,Total,Europe,United Kingdom,2257
+2015-09,Total,South East Asia,Indonesia,4220
+2015-09,Total,South East Asia,Malaysia,1476
+2015-09,Total,South East Asia,Philippines,955
+2015-09,Total,South East Asia,Thailand,4008
+2015-09,Total,South East Asia,Vietnam,1450
+2015-09,Total,North East Asia,China,12977
+2015-09,Total,North East Asia,Hong Kong,11473
+2015-09,Total,North East Asia,Japan,6532
+2015-09,Total,Europe,France,788
+2015-09,Total,Europe,Germany,1160
+2015-09,Total,Europe,United Kingdom,2220
+2015-10,Total,South East Asia,Indonesia,4597
+2015-10,Total,South East Asia,Malaysia,1418
+2015-10,Total,South East Asia,Philippines,1044
+2015-10,Total,South East Asia,Thailand,4183
+2015-10,Total,South East Asia,Vietnam,1612
+2015-10,Total,North East Asia,China,12662
+2015-10,Total,North East Asia,Hong Kong,12171
+2015-10,Total,North East Asia,Japan,6642
+2015-10,Total,Europe,France,714
+2015-10,Total,Europe,Germany,1213
+2015-10,Total,Europe,United Kingdom,2242
+2015-11,Total,South East Asia,Indonesia,4351
+2015-11,Total,South East Asia,Malaysia,1284
+2015-11,Total,South East Asia,Philippines,946
+2015-11,Total,South East Asia,Thailand,3861
+2015-11,Total,South East Asia,Vietnam,1542
+2015-11,Total,North East Asia,China,12968
+2015-11,Total,North East Asia,Hong Kong,12810
+2015-11,Total,North East Asia,Japan,6283
+2015-11,Total,Europe,France,708
+2015-11,Total,Europe,Germany,1146
+2015-11,Total,Europe,United Kingdom,2136
+2015-12,Total,South East Asia,Indonesia,4383
+2015-12,Total,South East Asia,Malaysia,1388
+2015-12,Total,South East Asia,Philippines,976
+2015-12,Total,South East Asia,Thailand,4065
+2015-12,Total,South East Asia,Vietnam,1472
+2015-12,Total,North East Asia,China,12537
+2015-12,Total,North East Asia,Hong Kong,12249
+2015-12,Total,North East Asia,Japan,6674
+2015-12,Total,Europe,France,653
+2015-12,Total,Europe,Germany,1274
+2015-12,Total,Europe,United Kingdom,2015
+2016-01,Total,South East Asia,Indonesia,4834
+2016-01,Total,South East Asia,Malaysia,1259
+2016-01,Total,South East Asia,Philippines,942
+2016-01,Total,South East Asia,Thailand,3948
+2016-01,Total,South East Asia,Vietnam,1674
+2016-01,Total,North East Asia,China,11706
+2016-01,Total,North East Asia,Hong Kong,11847
+2016-01,Total,North East Asia,Japan,6016
+2016-01,Total,Europe,France,602
+2016-01,Total,Europe,Germany,1080
+2016-01,Total,Europe,United Kingdom,1840
+2016-02,Total,South East Asia,Indonesia,4066
+2016-02,Total,South East Asia,Malaysia,1433
+2016-02,Total,South East Asia,Philippines,1107
+2016-02,Total,South East Asia,Thailand,3626
+2016-02,Total,South East Asia,Vietnam,1181
+2016-02,Total,North East Asia,China,8404
+2016-02,Total,North East Asia,Hong Kong,8448
+2016-02,Total,North East Asia,Japan,5959
+2016-02,Total,Europe,France,654
+2016-02,Total,Europe,Germany,1131
+2016-02,Total,Europe,United Kingdom,2045
+2016-03,Total,South East Asia,Indonesia,5022
+2016-03,Total,South East Asia,Malaysia,1559
+2016-03,Total,South East Asia,Philippines,862
+2016-03,Total,South East Asia,Thailand,4483
+2016-03,Total,South East Asia,Vietnam,1641
+2016-03,Total,North East Asia,China,13380
+2016-03,Total,North East Asia,Hong Kong,12250
+2016-03,Total,North East Asia,Japan,7378
+2016-03,Total,Europe,France,650
+2016-03,Total,Europe,Germany,1277
+2016-03,Total,Europe,United Kingdom,1982
+2016-04,Total,South East Asia,Indonesia,4902
+2016-04,Total,South East Asia,Malaysia,1330
+2016-04,Total,South East Asia,Philippines,870
+2016-04,Total,South East Asia,Thailand,4193
+2016-04,Total,South East Asia,Vietnam,1572
+2016-04,Total,North East Asia,China,12590
+2016-04,Total,North East Asia,Hong Kong,12059
+2016-04,Total,North East Asia,Japan,7472
+2016-04,Total,Europe,France,612
+2016-04,Total,Europe,Germany,1219
+2016-04,Total,Europe,United Kingdom,1708
+2016-05,Total,South East Asia,Indonesia,4457
+2016-05,Total,South East Asia,Malaysia,1209
+2016-05,Total,South East Asia,Philippines,829
+2016-05,Total,South East Asia,Thailand,4513
+2016-05,Total,South East Asia,Vietnam,1587
+2016-05,Total,North East Asia,China,13013
+2016-05,Total,North East Asia,Hong Kong,11490
+2016-05,Total,North East Asia,Japan,6976
+2016-05,Total,Europe,France,648
+2016-05,Total,Europe,Germany,1105
+2016-05,Total,Europe,United Kingdom,1637
+2016-06,Total,South East Asia,Indonesia,4503
+2016-06,Total,South East Asia,Malaysia,1267
+2016-06,Total,South East Asia,Philippines,979
+2016-06,Total,South East Asia,Thailand,4413
+2016-06,Total,South East Asia,Vietnam,1854
+2016-06,Total,North East Asia,China,13161
+2016-06,Total,North East Asia,Hong Kong,11717
+2016-06,Total,North East Asia,Japan,7809
+2016-06,Total,Europe,France,607
+2016-06,Total,Europe,Germany,1261
+2016-06,Total,Europe,United Kingdom,1549
+2016-07,Total,South East Asia,Indonesia,3622
+2016-07,Total,South East Asia,Malaysia,1874
+2016-07,Total,South East Asia,Philippines,876
+2016-07,Total,South East Asia,Thailand,4209
+2016-07,Total,South East Asia,Vietnam,1787
+2016-07,Total,North East Asia,China,12888
+2016-07,Total,North East Asia,Hong Kong,11927
+2016-07,Total,North East Asia,Japan,7134
+2016-07,Total,Europe,France,603
+2016-07,Total,Europe,Germany,1207
+2016-07,Total,Europe,United Kingdom,1904
+2016-08,Total,South East Asia,Indonesia,4696
+2016-08,Total,South East Asia,Malaysia,1937
+2016-08,Total,South East Asia,Philippines,937
+2016-08,Total,South East Asia,Thailand,4362
+2016-08,Total,South East Asia,Vietnam,1822
+2016-08,Total,North East Asia,China,12609
+2016-08,Total,North East Asia,Hong Kong,11994
+2016-08,Total,North East Asia,Japan,6637
+2016-08,Total,Europe,France,706
+2016-08,Total,Europe,Germany,1433
+2016-08,Total,Europe,United Kingdom,1714
+2016-09,Total,South East Asia,Indonesia,4740
+2016-09,Total,South East Asia,Malaysia,1417
+2016-09,Total,South East Asia,Philippines,991
+2016-09,Total,South East Asia,Thailand,4743
+2016-09,Total,South East Asia,Vietnam,1688
+2016-09,Total,North East Asia,China,13120
+2016-09,Total,North East Asia,Hong Kong,11622
+2016-09,Total,North East Asia,Japan,7277
+2016-09,Total,Europe,France,733
+2016-09,Total,Europe,Germany,1383
+2016-09,Total,Europe,United Kingdom,2011
+2016-10,Total,South East Asia,Indonesia,5289
+2016-10,Total,South East Asia,Malaysia,1456
+2016-10,Total,South East Asia,Philippines,992
+2016-10,Total,South East Asia,Thailand,4804
+2016-10,Total,South East Asia,Vietnam,1836
+2016-10,Total,North East Asia,China,13572
+2016-10,Total,North East Asia,Hong Kong,12342
+2016-10,Total,North East Asia,Japan,7466
+2016-10,Total,Europe,France,767
+2016-10,Total,Europe,Germany,1441
+2016-10,Total,Europe,United Kingdom,2262
+2016-11,Total,South East Asia,Indonesia,4690
+2016-11,Total,South East Asia,Malaysia,1343
+2016-11,Total,South East Asia,Philippines,1026
+2016-11,Total,South East Asia,Thailand,4862
+2016-11,Total,South East Asia,Vietnam,1879
+2016-11,Total,North East Asia,China,14172
+2016-11,Total,North East Asia,Hong Kong,12483
+2016-11,Total,North East Asia,Japan,7295
+2016-11,Total,Europe,France,764
+2016-11,Total,Europe,Germany,1504
+2016-11,Total,Europe,United Kingdom,2046
+2016-12,Total,South East Asia,Indonesia,4394
+2016-12,Total,South East Asia,Malaysia,1316
+2016-12,Total,South East Asia,Philippines,989
+2016-12,Total,South East Asia,Thailand,5284
+2016-12,Total,South East Asia,Vietnam,1771
+2016-12,Total,North East Asia,China,13733
+2016-12,Total,North East Asia,Hong Kong,12695
+2016-12,Total,North East Asia,Japan,7920
+2016-12,Total,Europe,France,769
+2016-12,Total,Europe,Germany,1639
+2016-12,Total,Europe,United Kingdom,2060
+2017-01,Total,South East Asia,Indonesia,4076
+2017-01,Total,South East Asia,Malaysia,1351
+2017-01,Total,South East Asia,Philippines,933
+2017-01,Total,South East Asia,Thailand,4733
+2017-01,Total,South East Asia,Vietnam,1754
+2017-01,Total,North East Asia,China,12834
+2017-01,Total,North East Asia,Hong Kong,11233
+2017-01,Total,North East Asia,Japan,6998
+2017-01,Total,Europe,France,724
+2017-01,Total,Europe,Germany,1460
+2017-01,Total,Europe,United Kingdom,1749
+2017-02,Total,South East Asia,Indonesia,3806
+2017-02,Total,South East Asia,Malaysia,1228
+2017-02,Total,South East Asia,Philippines,913
+2017-02,Total,South East Asia,Thailand,4559
+2017-02,Total,South East Asia,Vietnam,1451
+2017-02,Total,North East Asia,China,9635
+2017-02,Total,North East Asia,Hong Kong,8828
+2017-02,Total,North East Asia,Japan,7287
+2017-02,Total,Europe,France,695
+2017-02,Total,Europe,Germany,1545
+2017-02,Total,Europe,United Kingdom,2002
+2017-03,Total,South East Asia,Indonesia,4716
+2017-03,Total,South East Asia,Malaysia,1528
+2017-03,Total,South East Asia,Philippines,995
+2017-03,Total,South East Asia,Thailand,5695
+2017-03,Total,South East Asia,Vietnam,2050
+2017-03,Total,North East Asia,China,15086
+2017-03,Total,North East Asia,Hong Kong,13209
+2017-03,Total,North East Asia,Japan,8635
+2017-03,Total,Europe,France,868
+2017-03,Total,Europe,Germany,1659
+2017-03,Total,Europe,United Kingdom,2313
+2017-04,Total,South East Asia,Indonesia,4151
+2017-04,Total,South East Asia,Malaysia,1232
+2017-04,Total,South East Asia,Philippines,956
+2017-04,Total,South East Asia,Thailand,5287
+2017-04,Total,South East Asia,Vietnam,2192
+2017-04,Total,North East Asia,China,14375
+2017-04,Total,North East Asia,Hong Kong,11957
+2017-04,Total,North East Asia,Japan,7916
+2017-04,Total,Europe,France,740
+2017-04,Total,Europe,Germany,1545
+2017-04,Total,Europe,United Kingdom,1972
+2017-05,Total,South East Asia,Indonesia,4233
+2017-05,Total,South East Asia,Malaysia,1310
+2017-05,Total,South East Asia,Philippines,1005
+2017-05,Total,South East Asia,Thailand,5782
+2017-05,Total,South East Asia,Vietnam,1993
+2017-05,Total,North East Asia,China,14518
+2017-05,Total,North East Asia,Hong Kong,12388
+2017-05,Total,North East Asia,Japan,7624
+2017-05,Total,Europe,France,730
+2017-05,Total,Europe,Germany,1517
+2017-05,Total,Europe,United Kingdom,2186
+2017-06,Total,South East Asia,Indonesia,3842
+2017-06,Total,South East Asia,Malaysia,1303
+2017-06,Total,South East Asia,Philippines,920
+2017-06,Total,South East Asia,Thailand,5066
+2017-06,Total,South East Asia,Vietnam,1933
+2017-06,Total,North East Asia,China,14281
+2017-06,Total,North East Asia,Hong Kong,11929
+2017-06,Total,North East Asia,Japan,7789
+2017-06,Total,Europe,France,709
+2017-06,Total,Europe,Germany,1434
+2017-06,Total,Europe,United Kingdom,1829
+2017-07,Total,South East Asia,Indonesia,4532
+2017-07,Total,South East Asia,Malaysia,1417
+2017-07,Total,South East Asia,Philippines,967
+2017-07,Total,South East Asia,Thailand,5375
+2017-07,Total,South East Asia,Vietnam,2085
+2017-07,Total,North East Asia,China,14371
+2017-07,Total,North East Asia,Hong Kong,12431
+2017-07,Total,North East Asia,Japan,8289
+2017-07,Total,Europe,France,724
+2017-07,Total,Europe,Germany,1479
+2017-07,Total,Europe,United Kingdom,2104
+2017-08,Total,South East Asia,Indonesia,4882
+2017-08,Total,South East Asia,Malaysia,1562
+2017-08,Total,South East Asia,Philippines,1098
+2017-08,Total,South East Asia,Thailand,5529
+2017-08,Total,South East Asia,Vietnam,2053
+2017-08,Total,North East Asia,China,14683
+2017-08,Total,North East Asia,Hong Kong,12558
+2017-08,Total,North East Asia,Japan,7631
+2017-08,Total,Europe,France,685
+2017-08,Total,Europe,Germany,1437
+2017-08,Total,Europe,United Kingdom,1986
+2017-09,Total,South East Asia,Indonesia,4521
+2017-09,Total,South East Asia,Malaysia,1424
+2017-09,Total,South East Asia,Philippines,1129
+2017-09,Total,South East Asia,Thailand,5621
+2017-09,Total,South East Asia,Vietnam,1988
+2017-09,Total,North East Asia,China,14956
+2017-09,Total,North East Asia,Hong Kong,12777
+2017-09,Total,North East Asia,Japan,8209
+2017-09,Total,Europe,France,673
+2017-09,Total,Europe,Germany,1400
+2017-09,Total,Europe,United Kingdom,2386
